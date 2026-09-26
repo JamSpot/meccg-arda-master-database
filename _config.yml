@@ -1,0 +1,6 @@
+title: MECCG Arda Master Database
+description: Research-first Hero Arda database centred on Gandalf Gene's canonical Arda deck.
+theme: jekyll-theme-cayman
+markdown: kramdown
+plugins:
+  - jekyll-feed
