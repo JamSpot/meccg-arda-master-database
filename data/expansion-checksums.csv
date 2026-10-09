@@ -1,0 +1,12 @@
+source,expansion,distinct_cards,physical_copies,status
+Published Council summary,METW,300,,Published figure; needs row-level validation
+Published Council summary,METD,59,,Published figure; needs row-level validation
+Published Council summary,MEDM,14,,Published figure; needs row-level validation
+Published Council summary,MELE,2,,Published figure; needs row-level validation
+Published Council summary,MEBA,1,,Published figure; needs row-level validation
+Published Council summary,TOTAL_REPORTED,377,695,Published total; expansion subtotals sum to 376
+Spreadsheet extraction,METW,298,552,Provisional extraction; not final
+Spreadsheet extraction,METD,58,105,Provisional extraction; not final
+Spreadsheet extraction,MEDM,17,41,Provisional extraction; not final
+Spreadsheet extraction,MEBA,1,1,Provisional extraction; not final
+Spreadsheet extraction,TOTAL_NUMERIC_ROWS,374,699,Provisional extraction; 374 distinct names and 699 copies
