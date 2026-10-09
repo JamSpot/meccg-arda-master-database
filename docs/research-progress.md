@@ -1,31 +1,33 @@
 # Research Progress
 
 ## Current stage
-Foundation built — forensic reconciliation next.
+Source extraction exists; card-level reconciliation is underway. The next task is auditing raw rows and category subtotals, not collecting more general Arda references.
 
-## Completed
-- Identified the original Gandalf Gene Council post.
-- Extracted the GandalfGeneArda.xls structure.
-- Established the 377 named-row spreadsheet structure.
-- Recorded the 374 distinct / 699-copy numeric working extraction.
-- Recorded the independent 377/695 published summary.
-- Recorded the published expansion discrepancy.
-- Separated Jose-san, Leon and later rulesets from the canonical dataset.
-- Established the no-proxy acquisition principle.
+## Confirmed from the extracted Gandalf Gene workbook
+- 377 named card rows after excluding title/header structure.
+- 375 rows have numeric quantities.
+- 374 distinct names among numeric rows because Nenseldë the Wingild appears twice.
+- Numeric quantity sum: 699.
+- The workbook Desglose summary states 695.
+- Army of the Dead and The White Tree have blank quantity fields.
+- Uruk-Lieutenant and Wild Trolls have quantity 3 but blank rarity in the extraction.
+- Published expansion distinct counts 300 + 59 + 14 + 2 + 1 sum to 376, not 377.
 
-## Next
-- Build the card-level canonical table.
-- Assign stable card IDs.
-- Validate names, sets and rarities.
-- Reconcile duplicate and blank rows.
-- Reconcile the four-copy difference.
-- Reconcile the published expansion totals.
-- Generate the acquisition/shopping list from the audited table.
-- Add search/filterable website views.
+## Completed in this iteration
+- Added [a reconciliation log](reconciliation-log.md) with the count bridge and named anomalies.
+- Added a machine-readable [expansion checksum CSV](../data/expansion-checksums.csv).
+- Added [the inventory data method](card-inventory-method.md) for an auditable collection tracker.
+
+## Next concrete work
+1. Recompute the workbook's Desglose totals by category from raw rows.
+2. Match all source rows to the independent transcription.
+3. Verify expansion, rarity and card identity against reference databases.
+4. Resolve the four-copy discrepancy.
+5. Publish the full audited card inventory and then the acquisition list.
 
 ## Status labels
-- Verified — supported by primary source and identity-checked.
-- Source discrepancy — primary sources disagree.
-- Needs reconciliation — card-level investigation remains.
-- Variant — belongs to another Arda ruleset/list.
+- Verified — identity and source fields checked.
+- Source discrepancy — source summaries disagree.
+- Needs reconciliation — row-level investigation remains.
+- Variant — belongs to another Arda list/ruleset.
 - Excluded — outside canonical project scope.
