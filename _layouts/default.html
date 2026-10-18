@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{{ site.description | escape }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <header class="site-header">
+      <div class="site-header-inner">
+        <a class="site-brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <p class="site-tagline">Research, card quantities and source reconciliation for Hero Arda</p>
+        <nav class="primary-nav" aria-label="Main navigation">
+          <a href="{{ '/' | relative_url }}">Home</a>
+          <a href="{{ '/docs/arda-overview.html' | relative_url }}">Arda overview</a>
+          <a href="{{ '/docs/gandalf-gene.html' | relative_url }}">Canonical deck</a>
+          <a href="{{ '/docs/source-reconciliation.html' | relative_url }}">Reconciliation</a>
+          <a href="{{ '/docs/comparison-lists.html' | relative_url }}">Compare lists</a>
+          <a href="{{ '/docs/rules-and-variants.html' | relative_url }}">Rules &amp; variants</a>
+          <a href="{{ '/docs/sources.html' | relative_url }}">Sources &amp; downloads</a>
+          <a href="{{ '/docs/research-progress.html' | relative_url }}">Progress</a>
+          <a href="{{ '/docs/card-inventory-method.html' | relative_url }}">Inventory method</a>
+          <a href="{{ '/docs/reconciliation-log.html' | relative_url }}">Reconciliation log</a>
+          <a href="{{ '/data/expansion-checksums.csv' | relative_url }}">Expansion CSV</a>
+        </nav>
+      </div>
+    </header>
+    <main id="main-content" class="main-content">
+      <div class="page-meta">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        {% if page.url != '/' %}<span aria-hidden="true"> / </span><span>{{ page.title | default: page.name | escape }}</span>{% endif %}
+      </div>
+      {{ content }}
+      <footer class="page-footer">
+        <p><strong>MECCG Arda Master Database</strong> · Hero Arda research only · Genuine physical cards, no proxies.</p>
+        <p><a href="https://github.com/JamSpot/meccg-arda-master-database">View source on GitHub</a></p>
+      </footer>
+    </main>
+  </body>
+</html>
