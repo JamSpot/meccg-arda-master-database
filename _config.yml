@@ -4,3 +4,10 @@ theme: jekyll-theme-cayman
 markdown: kramdown
 plugins:
   - jekyll-feed
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
