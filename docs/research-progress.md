@@ -15,7 +15,7 @@ Source extraction exists; card-level reconciliation is underway. The next task i
 
 ## Completed in this iteration
 - Added [a reconciliation log](reconciliation-log.html) with the count bridge and named anomalies.
-- Added a machine-readable [expansion checksum CSV](/data/expansion-checksums.csv).
+- Added a machine-readable [expansion checksum CSV](../data/expansion-checksums.csv).
 - Added [the inventory data method](card-inventory-method.html) for an auditable collection tracker.
 
 ## Next concrete work
