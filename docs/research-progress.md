@@ -14,9 +14,9 @@ Source extraction exists; card-level reconciliation is underway. The next task i
 - Published expansion distinct counts 300 + 59 + 14 + 2 + 1 sum to 376, not 377.
 
 ## Completed in this iteration
-- Added [a reconciliation log](reconciliation-log.md) with the count bridge and named anomalies.
-- Added a machine-readable [expansion checksum CSV](../data/expansion-checksums.csv).
-- Added [the inventory data method](card-inventory-method.md) for an auditable collection tracker.
+- Added [a reconciliation log](reconciliation-log.html) with the count bridge and named anomalies.
+- Added a machine-readable [expansion checksum CSV](/data/expansion-checksums.csv).
+- Added [the inventory data method](card-inventory-method.html) for an auditable collection tracker.
 
 ## Next concrete work
 1. Recompute the workbook's Desglose totals by category from raw rows.
