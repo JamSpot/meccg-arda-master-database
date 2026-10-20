@@ -12,19 +12,21 @@
     <header class="site-header">
       <div class="site-header-inner">
         <a class="site-brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-        <p class="site-tagline">Research, card quantities and source reconciliation for Hero Arda</p>
+        <p class="site-tagline">Hero Arda card pool · source evidence · expansion quantities · collecting tools</p>
         <nav class="primary-nav" aria-label="Main navigation">
           <a href="{{ '/' | relative_url }}">Home</a>
-          <a href="{{ '/docs/arda-overview.html' | relative_url }}">Arda overview</a>
+          <a href="{{ '/docs/arda-overview.html' | relative_url }}">Overview</a>
           <a href="{{ '/docs/gandalf-gene.html' | relative_url }}">Canonical deck</a>
+          <a href="{{ '/docs/card-inventory.html' | relative_url }}">Card inventory</a>
+          <a href="{{ '/data/gandalf-gene-arda-card-inventory.csv' | relative_url }}">Download inventory CSV</a>
           <a href="{{ '/docs/source-reconciliation.html' | relative_url }}">Reconciliation</a>
           <a href="{{ '/docs/comparison-lists.html' | relative_url }}">Compare lists</a>
           <a href="{{ '/docs/rules-and-variants.html' | relative_url }}">Rules &amp; variants</a>
           <a href="{{ '/docs/sources.html' | relative_url }}">Sources &amp; downloads</a>
           <a href="{{ '/docs/research-progress.html' | relative_url }}">Progress</a>
           <a href="{{ '/docs/card-inventory-method.html' | relative_url }}">Inventory method</a>
-          <a href="{{ '/docs/reconciliation-log.html' | relative_url }}">Reconciliation log</a>
-          <a href="{{ '/data/expansion-checksums.csv' | relative_url }}">Expansion CSV</a>
+          <a href="{{ '/docs/reconciliation-log.html' | relative_url }}">Audit log</a>
+          <a href="{{ '/data/expansion-checksums.csv' | relative_url }}">Expansion summary CSV</a>
         </nav>
       </div>
     </header>
@@ -36,6 +38,7 @@
       {{ content }}
       <footer class="page-footer">
         <p><strong>MECCG Arda Master Database</strong> · Hero Arda research only · Genuine physical cards, no proxies.</p>
+        <p><a href="{{ '/' | relative_url }}">Back to home</a> · <a href="{{ '/docs/card-inventory.html' | relative_url }}">Card inventory</a> · <a href="{{ '/docs/sources.html' | relative_url }}">Sources &amp; downloads</a></p>
         <p><a href="https://github.com/JamSpot/meccg-arda-master-database">View source on GitHub</a></p>
       </footer>
     </main>
