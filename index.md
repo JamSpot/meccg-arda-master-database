@@ -7,7 +7,7 @@ title: Home
 
 ## Hero Arda — canonical card pool and source research
 
-Use this site to explore the published Hero Arda lists, inspect the card-by-card inventory, compare alternate sources, and track the evidence behind card quantities. The navigation menu appears on every page.
+Use this site to explore published Hero Arda lists, inspect the card-by-card inventory, compare alternate sources, and track the evidence behind card quantities. The navigation menu appears on every page.
 
 ## Start here
 
@@ -39,8 +39,8 @@ Use this site to explore the published Hero Arda lists, inspect the card-by-card
   </section>
   <section class="home-link-card">
     <h3>6. Research progress</h3>
-    <p>Follow completed checks and the next concrete tasks.</p>
-    <p><a href="docs/research-progress.html">Research progress</a> · <a href="docs/card-inventory-method.html">Inventory method</a></p>
+    <p>Follow completed checks, new sources and the next concrete tasks.</p>
+    <p><a href="docs/research-progress.html">Research progress</a> · <a href="docs/research-watch-2026-10-24.html">Latest source watch</a></p>
   </section>
 </div>
 
