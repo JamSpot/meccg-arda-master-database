@@ -30,7 +30,10 @@ Important archive for downloadable MECCG files. The current archive lists MECCG 
 ### MeCCG.com lists and downloads
 https://meccg.com/cards/lists-and-downloads/
 
-Useful card-finder, card lists, fixed lists and Challenge Deck resources.
+Useful card-finder, card lists, fixed lists and Challenge Deck resources. Direct files now documented for cross-checking:
+- [MeCCG List of Cards — XLS](https://meccg.es/meta/cards/list/MeCCG%20List%20of%20Cards.xls) — version/date not shown on the landing page; parse before relying on its coverage.
+- [Full Spoiler List — PDF](https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf) — expansion-organized card reference; its front matter says updated February 2007.
+- [Fixed Sets — PDF](https://meccg.es/meta/cards/list/Fixed%20Sets.pdf) — product reference, not an Arda quantity source.
 
 ### MeCCG.com published deck database
 https://meccg.com/decks/
@@ -55,9 +58,9 @@ https://github.com/Heinrich-Barth/meccg-online
 Supports Arda-format play, card browsing, deckbuilding and importing. Its README warns that included generic sample data is not suitable for full deckbuilding, so do not use that sample data as an authority for card counts.
 
 ### Latest source-watch note
-[Source watch — 24 October 2026](research-watch-2026-10-24.html)
+[Source watch — 25 October 2026](research-watch-2026-10-25.html)
 
-Records the latest tool discovery, file-format clarification and current quantity status.
+Records the newly documented direct MeCCG catalogue downloads, their intended cross-check use, and the unchanged Arda quantity status. The [24 October 2026 watch](research-watch-2026-10-24.html) records the earlier Samwise tool discovery.
 
 ## Source hierarchy
 
