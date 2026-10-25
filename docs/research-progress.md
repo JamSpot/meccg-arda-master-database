@@ -18,13 +18,14 @@ The source spreadsheet has been extracted into a card-by-card working CSV. The c
 - Added a machine-readable [expansion checksum CSV](../data/expansion-checksums.csv).
 - Added the [inventory data method](card-inventory-method.html).
 - Published the [card-by-card working inventory](card-inventory.html) and [downloadable CSV](../data/gandalf-gene-arda-card-inventory.csv).
-- Added the [24 October 2026 source watch](research-watch-2026-10-24.html), including a newly identified deckbuilding tool and a clarification of the current BoardGameGeek file formats.
+- Added the [24 October 2026 source watch](research-watch-2026-10-24.html), including the Samwise deckbuilding tool and BGG file-format clarification.
+- Added the [25 October 2026 source watch](research-watch-2026-10-25.html), documenting direct MeCCG catalogue downloads for independent card identity, expansion and rarity checks.
 
-## Latest source-watch result — 24 October 2026
-- Samwise is a new-to-this-project candidate for checking card identity and testing deck import/export formats. It is not a quantity authority.
-- The Council of Elrond card database and CRF 22 are useful for card identity, text, errata and current rulings, not Arda copy totals.
-- The BoardGameGeek archive currently identifies the general card catalogue and starter-deck lists as XLS files, while its Arda deck example is listed as a PDF.
-- No new source resolves the 699 explicit-copy total versus the published 695 summary.
+## Latest source-watch result — 25 October 2026
+- MeCCG's downloads page links a separate [MeCCG List of Cards XLS](https://meccg.es/meta/cards/list/MeCCG%20List%20of%20Cards.xls), a [Full Spoiler List PDF](https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf) and a [Fixed Sets PDF](https://meccg.es/meta/cards/list/Fixed%20Sets.pdf).
+- The XLS is a candidate cross-check for card identity, expansion and rarity; its version/date and actual coverage have not yet been verified. The spoiler PDF states it was updated in February 2007.
+- These are reference/catalogue resources, not Arda quantity lists. No newly found downloadable Arda spreadsheet or alternate canonical pool changes the inventory baseline.
+- The 699 explicit-copy total versus the published 695 summary remains unresolved.
 
 ## Next concrete work
 1. Recompute the workbook's Desglose totals by category from raw rows.
