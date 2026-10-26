@@ -66,7 +66,6 @@ Supports Arda-format play, card browsing, deckbuilding and importing. Its README
 
 Previous watches: [25 October 2026](research-watch-2026-10-25.html) and [24 October 2026](research-watch-2026-10-24.html)
 
-Records the newly documented direct MeCCG catalogue downloads, their intended cross-check use, and the unchanged Arda quantity status. The [24 October 2026 watch](research-watch-2026-10-24.html) records the earlier Samwise tool discovery.
 
 ## Source hierarchy
 
