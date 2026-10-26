@@ -20,8 +20,14 @@ The source spreadsheet has been extracted into a card-by-card working CSV. The c
 - Published the [card-by-card working inventory](card-inventory.html) and [downloadable CSV](../data/gandalf-gene-arda-card-inventory.csv).
 - Added the [24 October 2026 source watch](research-watch-2026-10-24.html), including the Samwise deckbuilding tool and BGG file-format clarification.
 - Added the [25 October 2026 source watch](research-watch-2026-10-25.html), documenting direct MeCCG catalogue downloads for independent card identity, expansion and rarity checks.
+- Added the [26 October 2026 source watch](research-watch-2026-10-26.html), documenting the separate 888-card Dream Cards Arda list and distinguishing its role from the canonical pool.
 
-## Latest source-watch result — 25 October 2026
+## Latest source-watch result — 26 October 2026
+- Documented the 888-card “The Houses of the North” Arda list on Council of Elrond. It is an itemized forum post last edited 30 July 2025, but includes Dream Cards, optional UEPs and unreleased-set experiments; it remains a separately labelled variant, not part of the canonical standard Hero pool.
+- Reconfirmed the available downloads: BGG's MECCG Card List v1.13 XLS and Starter Set Decks Lists XLS, BGG's Arda example PDF, plus MeCCG's direct card catalogue XLS, Full Spoiler PDF and Fixed Sets PDF.
+- No new standard Hero Arda quantity source resolves the discrepancy. Explicit quantities remain 699 versus the published 695.
+
+## Previous source-watch result — 25 October 2026
 - MeCCG's downloads page links a separate [MeCCG List of Cards XLS](https://meccg.es/meta/cards/list/MeCCG%20List%20of%20Cards.xls), a [Full Spoiler List PDF](https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf) and a [Fixed Sets PDF](https://meccg.es/meta/cards/list/Fixed%20Sets.pdf).
 - The XLS is a candidate cross-check for card identity, expansion and rarity; its version/date and actual coverage have not yet been verified. The spoiler PDF states it was updated in February 2007.
 - These are reference/catalogue resources, not Arda quantity lists. No newly found downloadable Arda spreadsheet or alternate canonical pool changes the inventory baseline.
