@@ -17,6 +17,11 @@ https://cardgamegeek.com/database/decks/27774d75-5a7d-4509-ba89-8cb556f3bfc5
 
 Independent transcription. It reports 178 entries and notes two missing hazards, so it is a checksum/comparison source rather than a complete authority.
 
+### Independent printed-card catalogue — Elven Forest
+https://elvenforest.narod.ru/meccg/cards/meccg_list.html
+
+An independent set-coded catalogue used for a targeted expansion cross-check. It lists Army of the Dead and The White Tree under The Wizards (TW), Peril Returned under The Dragons (TD), and Uruk-lieutenant and Wild Trolls under The Lidless Eye (LE). This is a metadata cross-check only, not an Arda quantity authority; validate remaining fields against the Council of Elrond database.
+
 ### Council of Elrond card database
 https://github.com/council-of-elrond-meccg/meccg-cards-database
 
@@ -62,7 +67,7 @@ Supports Arda-format play, card browsing, deckbuilding and importing. Its README
 [ARDA with Dream cards — The Houses of the North](https://councilofelrond.org/forum/viewtopic.php?t=4531) is an itemized, 888-card Dwarf-themed Arda list. The post was first published in November 2021 and last edited in July 2025. It groups cards by pile and records quantities/set codes, but includes Dream Cards, optional UEPs and some unreleased-set experiments. Keep it as a separate variant; it is not a standard Hero Arda quantity authority and is not a downloadable spreadsheet.
 
 ### Latest source-watch note
-[Source watch — 27 October 2026](research-watch-2026-10-27.html) records the current official card-database download artifacts and recent community discussion leads.
+[Source watch — 27 October 2026](research-watch-2026-10-27.html) records the official card-database download artifacts, recent community discussion leads and expansion corrections supported by the independent catalogue.
 
 Previous watches: [26 October 2026](research-watch-2026-10-26.html), [25 October 2026](research-watch-2026-10-25.html) and [24 October 2026](research-watch-2026-10-24.html)
 

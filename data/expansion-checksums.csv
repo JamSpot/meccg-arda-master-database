@@ -1,12 +1,19 @@
 source,expansion,distinct_cards,physical_copies,status
-Published Council summary,METW,300,,Published figure; needs row-level validation
-Published Council summary,METD,59,,Published figure; needs row-level validation
-Published Council summary,MEDM,14,,Published figure; needs row-level validation
-Published Council summary,MELE,2,,Published figure; needs row-level validation
-Published Council summary,MEBA,1,,Published figure; needs row-level validation
-Published Council summary,TOTAL_REPORTED,377,695,Published total; expansion subtotals sum to 376
-Spreadsheet extraction,METW,298,552,Provisional extraction; not final
-Spreadsheet extraction,METD,58,105,Provisional extraction; not final
-Spreadsheet extraction,MEDM,17,41,Provisional extraction; not final
-Spreadsheet extraction,MEBA,1,1,Provisional extraction; not final
-Spreadsheet extraction,TOTAL_NUMERIC_ROWS,374,699,Provisional extraction; 374 distinct names and 699 copies
+Published Council summary,METW,300,,Published figure; expansion includes two named cards whose quantity cells are blank
+Published Council summary,METD,59,,Published figure
+Published Council summary,MEDM,14,,Published figure
+Published Council summary,MELE,2,,Published figure
+Published Council summary,MEBA,1,,Published figure
+Published Council summary,TOTAL_REPORTED,377,695,Published headline likely counts the duplicate Nenseldë row; expansion subtotals sum to 376
+Original extraction assignment,METW,298,552,Numeric-quantity rows only; before independent expansion corrections
+Original extraction assignment,METD,58,105,Numeric-quantity rows only; before independent expansion corrections
+Original extraction assignment,MEDM,17,41,Numeric-quantity rows only; before independent expansion corrections
+Original extraction assignment,MEBA,1,1,Numeric-quantity rows only; before independent expansion corrections
+Original extraction assignment,TOTAL_NUMERIC_ROWS,374,699,374 distinct names among numeric rows; 375 numeric rows because Nenseldë appears twice
+Verified working inventory,METW,298,552,Numeric-quantity rows; Army of the Dead and The White Tree are additional named METW rows with blank quantities
+Verified working inventory,METD,59,108,Peril Returned corrected from MEDM to METD; quantity retained
+Verified working inventory,MEDM,14,32,Peril Returned and two MELE cards corrected out of original MEDM assignments
+Verified working inventory,MELE,2,6,Uruk-Lieutenant and Wild Trolls corrected from MEDM to MELE; quantities retained
+Verified working inventory,MEBA,1,1,No change
+Verified working inventory,TOTAL_NUMERIC_ROWS,374,699,Expansion reassignment does not change total copies; 4-copy difference versus published 695 remains unresolved
+Verified working inventory,TOTAL_UNIQUE_NAMED_IDENTITIES,376,,Includes two blank-quantity rows; Nenseldë duplicate deduplicated

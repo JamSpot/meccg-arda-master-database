@@ -18,7 +18,7 @@ A navigable GitHub Pages site and auditable master database for Hero Arda in the
 
 ## Current working quantity baseline
 
-The extracted Gandalf Gene spreadsheet contains 699 explicit physical copies across METW (552), METD (105), MEDM (41) and MEBA (1). Two named rows, Army of the Dead and The White Tree, have blank quantities. The published summary of 695 copies remains inconsistent with the explicit row quantities.
+The working Gandalf Gene inventory contains 699 explicit physical copies across METW (552), METD (108), MEDM (32), MELE (6) and MEBA (1). Independent catalogue checks corrected the expansion assignments for Peril Returned, Uruk-Lieutenant and Wild Trolls; quantities were retained. Army of the Dead and The White Tree are METW but have blank quantities. The published summary of 695 copies remains inconsistent with the explicit row quantities.
 
 ## Main site sections
 

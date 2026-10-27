@@ -7,30 +7,33 @@ title: Card inventory
 
 **Download the card-by-card inventory:** [gandalf-gene-arda-card-inventory.csv](../data/gandalf-gene-arda-card-inventory.csv)
 
-The CSV is built from the extracted Gandalf Gene Arda spreadsheet and preserves source-row references. It is a practical, spreadsheet-ready working inventory—not yet a fully reconciled final master.
+The CSV is a spreadsheet-ready working inventory with source-row references. Five expansion assignments have been cross-checked against an independent card catalogue: Army of the Dead and The White Tree are METW; Peril Returned is METD; Uruk-Lieutenant and Wild Trolls are MELE. The original extracted assignments are preserved in each affected row's notes. This improves the expansion breakdown without changing any quantity.
 
-## Current extracted totals
+## Current working totals
 
-| Expansion | Distinct cards with numeric quantities | Physical copies |
+| Expansion | Distinct cards with numeric quantities | Explicit physical copies |
 |---|---:|---:|
 | The Wizards (METW) | 298 | 552 |
-| The Dragons (METD) | 58 | 105 |
-| Dark Minions (MEDM) | 17 | 41 |
+| The Dragons (METD) | 59 | 108 |
+| Dark Minions (MEDM) | 14 | 32 |
+| The Lidless Eye (MELE) | 2 | 6 |
 | The Balrog (MEBA) | 1 | 1 |
 | **Total with numeric quantities** | **374** | **699** |
 
-The source contains 377 named rows. One card, Nenseldë the Wingild, appears on two rows; the inventory represents it as one identity with quantity 2 and retains both source-row references. Army of the Dead and The White Tree are also named in the source but have blank quantities. They are included in the CSV with blank quantity fields and are not counted above.
+The two named rows with blank quantities, Army of the Dead and The White Tree, are also METW. Including them gives **300 METW identities and 376 unique named card identities overall**. The source has 377 named rows because Nenseldë the Wingild appears twice; the inventory keeps both source-row references but counts Nenseldë as one distinct identity.
 
-## Important limitations
+The published expansion subtotals (300 METW + 59 METD + 14 MEDM + 2 MELE + 1 MEBA) now align with the 376 unique named identities after the independent expansion checks. The published headline of 377 likely counts the duplicated Nenseldë row as a separate card, but the source author's intended counting method has not been confirmed.
 
-- The source workbook's own Desglose summary says 695 copies, while the explicit numeric rows sum to 699. The four-copy difference is still unresolved.
-- The published expansion distinct-card figures sum to 376, not the published total of 377.
-- Rarity is blank in the source extraction for Uruk-Lieutenant and Wild Trolls.
-- Owned quantity and quantity-to-acquire fields are left blank. They must not be treated as zero or as a statement about the user's collection.
-- Expansion and rarity fields will be checked against the general MECCG card catalogue and Council of Elrond card database; those catalogues are not themselves Arda quantity lists.
+## Remaining discrepancies and limitations
+
+- The source workbook's own Desglose summary says **695 copies**, while the explicit numeric rows still sum to **699**. The four-copy difference remains unresolved.
+- Army of the Dead and The White Tree have blank quantity cells. Their expansions are known; their quantities are not.
+- Rarity remains blank in the extraction for Uruk-Lieutenant and Wild Trolls; this pass verified their expansion only.
+- Owned quantity and quantity-to-acquire fields are blank. They must not be treated as zero or as a statement about the user's collection.
+- The independent catalogue is a card-identity/set cross-check, not an Arda quantity source. The Council of Elrond card database remains the preferred current reference for card text and errata.
 
 ## How to use the CSV
 
-Open it in Excel, LibreOffice Calc, or another spreadsheet tool. Filter by expansion, card type, alignment, rarity, or quantity status. Keep the source quantity separate from your own owned count. Do not calculate a final shopping list until the source discrepancies have been resolved.
+Open it in Excel, LibreOffice Calc, or another spreadsheet tool. Filter by expansion, card type, alignment, rarity, or quantity status. Keep the source quantity separate from your own owned count. Do not calculate a final shopping list until the four-copy discrepancy has been resolved.
 
 See the [reconciliation log](reconciliation-log.html) for the count audit and [sources and downloads](sources.html) for published comparison material.

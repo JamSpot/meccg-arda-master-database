@@ -1,51 +1,61 @@
 # Gandalf Gene reconciliation log
 
-**Status: open — source arithmetic is now itemised.** This log records what the available spreadsheet extraction supports and separates facts from hypotheses.
+**Status: partially reconciled — expansion identities improved; physical-copy total still open.** This log separates directly observed source facts from the remaining hypothesis about the published headline count.
 
 ## Evidence set
 
 1. Original source: Council of Elrond, “Gandalf Gene's Arda Deck” (26 December 2016), including GandalfGeneArda.xls.
 2. Workbook extraction: `Gandalf_Gene_Arda_Collecting_List_v2.xlsx`, based on the original workbook's `MECCG Cards` and `Desglose` sheets.
-3. Independent published summary: 377 distinct cards / 695 physical cards.
-4. Independent transcription: CardGameGeek transcription, which itself warns that two hazards are missing.
+3. Independent published summary: 377 cards / 695 physical cards and expansion subtotals.
+4. Independent transcription: CardGameGeek transcription, which warns that two hazards are missing.
+5. Independent card catalogue: [MECCG cards list](https://elvenforest.narod.ru/meccg/cards/meccg_list.html), used to verify printed-set codes for the rows listed below.
 
 ## Count bridge
 
 | Measure | Result | Interpretation |
 |---|---:|---|
-| Named card rows in extracted source sheet | 377 | Includes rows without a numeric quantity |
-| Rows with numeric quantity | 375 | Current provisional acquisition rows |
+| Named rows in extracted source sheet | 377 | Includes rows without numeric quantities and the duplicate Nenseldë row |
+| Rows with numeric quantity | 375 | Source-row count, not distinct identities |
 | Distinct names among numeric rows | 374 | Nenseldë the Wingild appears twice |
-| Sum of numeric quantities | 699 | Current extracted physical-copy count |
+| Additional named rows with blank quantities | 2 | Army of the Dead and The White Tree |
+| Unique named identities overall | 376 | 374 numeric identities plus two blank-quantity identities |
+| Explicit quantity sum | 699 | Unchanged by expansion corrections |
 | Workbook Desglose total | 695 | Source's own summary |
-| Difference: extracted sum minus Desglose | +4 | Unresolved |
-| Published distinct-card count | 377 | Does not match the 374 distinct numeric rows |
-| Published expansion subtotal sum | 376 | 300 + 59 + 14 + 2 + 1; one short of published 377 |
+| Difference: explicit sum minus Desglose | +4 | Still unresolved |
+| Published expansion subtotal sum | 376 | 300 + 59 + 14 + 2 + 1; matches unique identities after correction |
+| Published headline card count | 377 | Likely counts the duplicate Nenseldë row; not confirmed by author |
 
-## Specific rows requiring treatment
+## Expansion corrections from the independent catalogue
 
-| Card / issue | Source observation | Current handling |
-|---|---|---|
-| Army of the Dead | Named row; quantity blank | Not counted in the 699 total; do not assume quantity |
-| The White Tree | Named row; quantity blank | Not counted in the 699 total; do not assume quantity |
-| Nenseldë the Wingild | Two separate source rows, each quantity 1 | Both source rows retained for audit; distinct-name count deduplicates the name |
-| Uruk-Lieutenant | Quantity 3; rarity blank in extracted source | Quantity retained; rarity requires verification |
-| Wild Trolls | Quantity 3; rarity blank in extracted source | Quantity retained; rarity requires verification |
+| Card | Quantity | Original extraction assignment | Cross-checked set | Evidence |
+|---|---:|---|---|---|
+| Army of the Dead | blank | blank | METW / TW | Catalogue lists it under The Wizards |
+| The White Tree | blank | blank | METW / TW | Catalogue lists it under The Wizards |
+| Peril Returned | 3 | MEDM | METD / TD | Catalogue lists it under The Dragons |
+| Uruk-Lieutenant | 3 | MEDM | MELE / LE | Catalogue lists it under The Lidless Eye |
+| Wild Trolls | 3 | MEDM | MELE / LE | Catalogue lists it under The Lidless Eye |
 
-## What the arithmetic does and does not tell us
+The quantity fields were not changed. The three numeric corrections move 3 copies of Peril Returned from MEDM to METD and 3 copies each of Uruk-Lieutenant and Wild Trolls from MEDM to MELE. This yields the current expansion copy totals: METW 552, METD 108, MEDM 32, MELE 6 and MEBA 1 — still 699 overall.
 
-The two blank-quantity rows explain why the sheet has 377 named rows but only 375 quantity-bearing rows. They do **not** by themselves explain the +4 copy difference, because they contribute no numeric quantities to the current sum.
+## Current working expansion counts
 
-The duplicate Nenseldë row explains why 375 quantity-bearing rows yield 374 distinct names. It does **not** explain the copy-count difference: both rows are quantity 1 and the current sum includes both.
+| Expansion | Distinct identities with numeric quantities | Explicit copies |
+|---|---:|---:|
+| METW | 298 | 552 |
+| METD | 59 | 108 |
+| MEDM | 14 | 32 |
+| MELE | 2 | 6 |
+| MEBA | 1 | 1 |
+| **Total numeric-quantity inventory** | **374** | **699** |
 
-Therefore, the +4 difference must be investigated in the quantity-bearing rows or in how the `Desglose` summary was produced. There is not yet enough evidence to name the four excess copies.
+The two blank-quantity METW rows bring the unique named identity count to 376. The published expansion subtotals now match this count. The +4 copy discrepancy is separate and cannot be explained by expansion reassignment or the two blank quantity cells.
 
 ## Next forensic steps
 
-1. Recalculate `Desglose` by category from the raw rows and compare each category, not just the grand total.
-2. Check every quantity-bearing row against the original sheet and the independent transcription.
-3. Verify expansion and rarity using the MECCG Card List v1.13 and Council of Elrond card database.
-4. Mark each mismatch as a transcription issue, identity/printing issue, source-summary issue or unresolved.
-5. Only after this audit, publish the final canonical quantity and acquisition requirement.
+1. Recalculate the workbook's Desglose totals by category from raw rows.
+2. Compare each quantity-bearing row against the original sheet and independent transcription.
+3. Verify all remaining expansion and rarity assignments against the Council of Elrond database and downloadable catalogue.
+4. Identify the exact source rows or formula that produce the four-copy difference.
+5. Only after this audit, publish a final acquisition requirement.
 
-**Do not use the provisional 699-copy list as a definitive shopping list yet.**
+**Do not use the 699-copy inventory as a definitive shopping list until the four-copy discrepancy is resolved.**

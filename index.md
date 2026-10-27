@@ -51,12 +51,13 @@ The explicit quantities extracted from the original Gandalf Gene spreadsheet tot
 | Expansion | Explicit copies |
 |---|---:|
 | The Wizards (METW) | 552 |
-| The Dragons (METD) | 105 |
-| Dark Minions (MEDM) | 41 |
+| The Dragons (METD) | 108 |
+| Dark Minions (MEDM) | 32 |
+| The Lidless Eye (MELE) | 6 |
 | The Balrog (MEBA) | 1 |
 | **Total** | **699** |
 
-The source also names **Army of the Dead** and **The White Tree** with blank quantities. Those values remain unknown. The published summary says 695, which does not match the explicit row quantities.
+The source also names **Army of the Dead** and **The White Tree** with blank quantities; both are METW, but their quantities remain unknown. Three expansion assignments have been cross-checked and corrected in the working inventory. The published summary still says 695, which does not match the 699 explicit row quantities.
 
 These are working extraction figures, not a claim that every card identity and expansion assignment has been independently verified. See the [card inventory](docs/card-inventory.html) and [reconciliation page](docs/source-reconciliation.html) for detail.
 

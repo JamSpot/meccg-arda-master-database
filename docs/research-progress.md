@@ -1,17 +1,17 @@
 # Research Progress
 
 ## Current stage
-The source spreadsheet has been extracted into a card-by-card working CSV. The current priority is row-level reconciliation and independent card-metadata checks, not collecting more general Arda references.
+The source spreadsheet has been extracted into a card-by-card working CSV. Independent catalogue checks have corrected three numeric expansion assignments and identified the two blank-quantity cards' expansions. The remaining priority is the four-copy row-level reconciliation.
 
 ## Confirmed from the extracted Gandalf Gene workbook
 - 377 named card rows after excluding title/header structure.
 - 375 rows have numeric quantities.
-- 374 distinct names among numeric rows because Nenseldë the Wingild appears twice.
-- Numeric quantity sum: 699.
-- The workbook Desglose summary states 695.
-- Army of the Dead and The White Tree have blank quantity fields.
-- Uruk-Lieutenant and Wild Trolls have quantity 3 but blank rarity in the extraction.
-- Published expansion distinct counts 300 + 59 + 14 + 2 + 1 sum to 376, not 377.
+- 374 distinct names among numeric rows because Nenseldë the Wingild appears twice; the two blank-quantity rows bring the unique named identity count to 376.
+- Numeric quantity sum: 699; the workbook Desglose summary states 695, leaving +4 unresolved.
+- Army of the Dead and The White Tree have blank quantity fields; independent catalogue identifies both as METW.
+- Peril Returned (3 copies) is corrected from MEDM to METD; Uruk-Lieutenant and Wild Trolls (3 copies each) are corrected from MEDM to MELE. Rarity remains blank for the latter two.
+- Verified expansion copies are METW 552, METD 108, MEDM 32, MELE 6 and MEBA 1; total remains 699.
+- Published expansion distinct counts 300 + 59 + 14 + 2 + 1 sum to 376, matching unique named identities. The headline 377 likely counts duplicate Nenseldë twice.
 
 ## Completed
 - Added a [reconciliation log](reconciliation-log.html) with the count bridge and named anomalies.
@@ -21,12 +21,13 @@ The source spreadsheet has been extracted into a card-by-card working CSV. The c
 - Added the [24 October 2026 source watch](research-watch-2026-10-24.html), including the Samwise deckbuilding tool and BGG file-format clarification.
 - Added the [25 October 2026 source watch](research-watch-2026-10-25.html), documenting direct MeCCG catalogue downloads for independent card identity, expansion and rarity checks.
 - Added the [26 October 2026 source watch](research-watch-2026-10-26.html), documenting the separate 888-card Dream Cards Arda list and distinguishing its role from the canonical pool.
-- Added the [27 October 2026 source watch](research-watch-2026-10-27.html), verifying the current official card database download artifacts and tracking recent BGG Arda discussion leads.
+- Added the [27 October 2026 source watch](research-watch-2026-10-27.html), verifying current official card database download artifacts, tracking recent BGG Arda discussion leads, and recording three independent expansion corrections.
 
 ## Latest source-watch result — 27 October 2026
-- Verified the Council of Elrond official card database repository was last updated 19 September 2026 and its tree contains a 4,163,611-byte `cards.json` plus a 22,147-byte `changes-guide.xlsx`. These are useful for metadata and errata checks, not Arda quantities; the JSON was too large for the connector's content-fetch limit, so no row matching is claimed yet.
+- Cross-checked five expansion assignments against an independent catalogue: Army of the Dead and The White Tree are METW; Peril Returned is METD; Uruk-Lieutenant and Wild Trolls are MELE. This corrects working metadata while preserving all quantities.
+- Verified the Council of Elrond official card database repository was last updated 19 September 2026 and contains a 4,163,611-byte `cards.json` plus a 22,147-byte `changes-guide.xlsx`. The JSON was too large for the connector's content-fetch limit, so full machine matching remains outstanding.
 - Flagged three BGG community leads: a modular solo/Arda/variants thread (shown as 23 days old), a request for ARDA card lists (21 days old), and the Gen Con 2026 Arda thread (four months old, 24 replies). BGG thread access was blocked, so no new attachment or quantity source was verified.
-- No new standard Hero Arda quantity list was confirmed. The explicit 699-copy total versus the published 695 remains unresolved.
+- Corrected distinct-card counts now align with the published expansion subtotals at 376 unique identities. The headline 377 likely counts duplicate Nenseldë twice. The physical-copy total remains 699 versus the published 695.
 
 ## Previous source-watch result — 26 October 2026
 - Documented the 888-card “The Houses of the North” Arda list on Council of Elrond. It is an itemized forum post last edited 30 July 2025, but includes Dream Cards, optional UEPs and unreleased-set experiments; it remains a separately labelled variant, not part of the canonical standard Hero pool.
@@ -40,12 +41,11 @@ The source spreadsheet has been extracted into a card-by-card working CSV. The c
 - The 699 explicit-copy total versus the published 695 summary remains unresolved.
 
 ## Next concrete work
-1. Obtain a parseable copy of the Council of Elrond `cards.json` or catalogue XLS, then match every source row by identity and expansion.
-2. Recompute the workbook's Desglose totals by category from raw rows.
+1. Recompute the workbook's Desglose totals by category from raw rows and locate the four-copy difference.
+2. Obtain a parseable copy of the Council of Elrond `cards.json` or catalogue XLS, then match every source row by identity, expansion and rarity.
 3. Match all source rows to the independent transcription.
-4. Verify expansion, rarity and card identity against the reference catalogue and Council card database.
-5. Resolve or document the four-copy discrepancy.
-6. Produce an audited physical-card acquisition table with provenance for every quantity.
+4. Resolve or document remaining identity and rarity anomalies.
+5. Produce an audited physical-card acquisition table with provenance for every quantity.
 
 ## Status labels
 - Verified — identity and source fields checked.
