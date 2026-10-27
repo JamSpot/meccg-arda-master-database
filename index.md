@@ -40,7 +40,7 @@ Use this site to explore published Hero Arda lists, inspect the card-by-card inv
   <section class="home-link-card">
     <h3>6. Research progress</h3>
     <p>Follow completed checks, new sources and the next concrete tasks.</p>
-    <p><a href="docs/research-progress.html">Research progress</a> · <a href="docs/research-watch-2026-10-26.html">Latest source watch</a></p>
+    <p><a href="docs/research-progress.html">Research progress</a> · <a href="docs/research-watch-2026-10-27.html">Latest source watch</a></p>
   </section>
 </div>
 

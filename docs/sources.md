@@ -20,7 +20,7 @@ Independent transcription. It reports 178 entries and notes two missing hazards,
 ### Council of Elrond card database
 https://github.com/council-of-elrond-meccg/meccg-cards-database
 
-Useful for card identity, corrected text, errata and current database information. Includes cards.json and a changes-guide spreadsheet. The project asks third-party community projects using its database to acknowledge it and notify the Council of Elrond.
+Useful for card identity, corrected text, errata and current database information. Repository last updated 19 September 2026. The current tree includes [cards.json](https://github.com/council-of-elrond-meccg/meccg-cards-database/blob/master/cards.json) ([raw download](https://raw.githubusercontent.com/council-of-elrond-meccg/meccg-cards-database/master/cards.json), 4,163,611 bytes) and [changes-guide.xlsx](https://github.com/council-of-elrond-meccg/meccg-cards-database/blob/master/changes-guide.xlsx) ([raw download](https://raw.githubusercontent.com/council-of-elrond-meccg/meccg-cards-database/master/changes-guide.xlsx), 22,147 bytes). These are metadata/text verification resources, not Arda quantity sources. The project asks third-party community projects using its database to acknowledge it and notify the Council of Elrond.
 
 ### BoardGameGeek MECCG files
 https://boardgamegeek.com/boardgame/1915/middle-earth/files
@@ -62,9 +62,9 @@ Supports Arda-format play, card browsing, deckbuilding and importing. Its README
 [ARDA with Dream cards — The Houses of the North](https://councilofelrond.org/forum/viewtopic.php?t=4531) is an itemized, 888-card Dwarf-themed Arda list. The post was first published in November 2021 and last edited in July 2025. It groups cards by pile and records quantities/set codes, but includes Dream Cards, optional UEPs and some unreleased-set experiments. Keep it as a separate variant; it is not a standard Hero Arda quantity authority and is not a downloadable spreadsheet.
 
 ### Latest source-watch note
-[Source watch — 26 October 2026](research-watch-2026-10-26.html) records this variant and clarifies the role of each downloadable list.
+[Source watch — 27 October 2026](research-watch-2026-10-27.html) records the current official card-database download artifacts and recent community discussion leads.
 
-Previous watches: [25 October 2026](research-watch-2026-10-25.html) and [24 October 2026](research-watch-2026-10-24.html)
+Previous watches: [26 October 2026](research-watch-2026-10-26.html), [25 October 2026](research-watch-2026-10-25.html) and [24 October 2026](research-watch-2026-10-24.html)
 
 
 ## Source hierarchy
