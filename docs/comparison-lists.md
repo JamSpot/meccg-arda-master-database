@@ -41,3 +41,11 @@ These are pool/category totals, not a claim that all cards belong to the canonic
 
 ## Later variants
 Later cooperative, revised, dream-card and community Arda projects remain separated from the canonical dataset.
+
+
+## 2013 — My Solo Arda Build with Session Report
+[BoardGameGeek thread](https://boardgamegeek.com/thread/1058232/my-solo-arda-build-with-session-report), published 22 October 2013 and edited with additional turns on 14 November 2013.
+
+This is a useful **solo-method variant**, not a complete quantity list. It describes separate MP, Ring, Resource, Minor Item, two Character, Hazard and Site decks. It generally uses one of each owned card, with selected multiples of useful resources and common hazards. The author says the build excludes The Lidless Eye, The White Hand and The Balrog. No downloadable spreadsheet or exact deck file was verified, and the exact card counts are not given.
+
+Keep this source separate from both Gandalf Gene's canonical 423-card Arda Play Deck and normal constructed-deck solo play, which uses a built Hero deck and a defined Hazard deck rather than this large-pool Arda arrangement.
