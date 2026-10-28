@@ -28,6 +28,7 @@ The source spreadsheet has been extracted into a card-by-card working CSV. Indep
 - Found [My Solo Arda Build with Session Report](https://boardgamegeek.com/thread/1058232/my-solo-arda-build-with-session-report), published 22 October 2013 and edited with additional turns in November 2013. It describes separate MP, Ring, Resource, Minor Item, two Character, Hazard and Site decks, generally using one of each owned card plus selected multiples. It excludes Lidless Eye, White Hand and Balrog.
 - This is a meaningful solo-method comparison but not an exact decklist: no card-by-card quantities, spreadsheet or downloadable deck file were verified. It must not be used to change canonical card counts.
 - The original Gandalf Gene workbook remains the canonical quantity source. Its 699 explicit copies still conflict with its published 695 summary.
+- Compared the locally archived MECCG_Card_List.xlsx: 144 catalogue rows, 45 normalized name overlaps, and no rarity values. It is too partial to establish the full pool or override set assignments; it does not resolve quantities.
 - No user decision is required for this research step.
 
 ## Previous source-watch result — 27 October 2026
