@@ -43,6 +43,12 @@ No new downloadable Arda spreadsheet or exact deck file was verified.
 - [Full Spoiler List PDF](https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf), front matter says updated February 2007.
 - [Council of Elrond card database](https://github.com/council-of-elrond-meccg/meccg-cards-database), for current card identity, text and errata metadata.
 
+## Additional catalogue check: archived MECCG card-list spreadsheet
+
+I inspected the locally available MECCG_Card_List.xlsx copy against the working Gandalf Gene inventory. It contains **144 catalogue rows**, only **45 normalized card-name overlaps** with the 374-card numeric inventory, and its rarity column is blank throughout. Some matching names carry a different set label, consistent with a catalogue that records particular printings rather than proving the source printing used in the Arda workbook.
+
+**Conclusion:** this file is a partial metadata cross-check only. It is not complete enough to verify the full pool, and its set labels must not silently overwrite the canonical workbook's expansion assignments. It contributes no quantity evidence and does not explain the four-copy difference.
+
 ## Canonical quantity status — unchanged
 
 | Expansion | Explicit copies |
