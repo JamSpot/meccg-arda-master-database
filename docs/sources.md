@@ -46,6 +46,10 @@ Useful card-finder, card lists, fixed lists and Challenge Deck resources. Direct
 - [Full Spoiler List — PDF](https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf) — expansion-organized card reference; its front matter says updated February 2007.
 - [Fixed Sets — PDF](https://meccg.es/meta/cards/list/Fixed%20Sets.pdf) — product reference, not an Arda quantity source.
 
+### Archived MECCG_Card_List.xlsx — coverage limitation
+
+A locally available copy was compared with the working inventory. It has 144 catalogue rows, 45 normalized name overlaps with the 374 numeric-quantity inventory, and no populated rarity values. Some matching names are labelled with a different set, so this copy may reflect specific printings rather than the exact source printing in the Arda workbook. Treat it as a partial metadata cross-check only; do not use it to overwrite expansion assignments or quantity counts.
+
 ### MeCCG.com published deck database
 https://meccg.com/decks/
 
