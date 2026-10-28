@@ -22,8 +22,15 @@ The source spreadsheet has been extracted into a card-by-card working CSV. Indep
 - Added the [25 October 2026 source watch](research-watch-2026-10-25.html), documenting direct MeCCG catalogue downloads for independent card identity, expansion and rarity checks.
 - Added the [26 October 2026 source watch](research-watch-2026-10-26.html), documenting the separate 888-card Dream Cards Arda list and distinguishing its role from the canonical pool.
 - Added the [27 October 2026 source watch](research-watch-2026-10-27.html), verifying current official card database download artifacts, tracking recent BGG Arda discussion leads, and recording three independent expansion corrections.
+- Added the [28 October 2026 source watch](research-watch-2026-10-28.html), documenting a previously untracked 2013 solo-Arda build with a session report and comparing its pile structure with the canonical format.
 
-## Latest source-watch result — 27 October 2026
+## Latest source-watch result — 28 October 2026
+- Found [My Solo Arda Build with Session Report](https://boardgamegeek.com/thread/1058232/my-solo-arda-build-with-session-report), published 22 October 2013 and edited with additional turns in November 2013. It describes separate MP, Ring, Resource, Minor Item, two Character, Hazard and Site decks, generally using one of each owned card plus selected multiples. It excludes Lidless Eye, White Hand and Balrog.
+- This is a meaningful solo-method comparison but not an exact decklist: no card-by-card quantities, spreadsheet or downloadable deck file were verified. It must not be used to change canonical card counts.
+- The original Gandalf Gene workbook remains the canonical quantity source. Its 699 explicit copies still conflict with its published 695 summary.
+- No user decision is required for this research step.
+
+## Previous source-watch result — 27 October 2026
 - Cross-checked five expansion assignments against an independent catalogue: Army of the Dead and The White Tree are METW; Peril Returned is METD; Uruk-Lieutenant and Wild Trolls are MELE. This corrects working metadata while preserving all quantities.
 - Verified the Council of Elrond official card database repository was last updated 19 September 2026 and contains a 4,163,611-byte `cards.json` plus a 22,147-byte `changes-guide.xlsx`. The JSON was too large for the connector's content-fetch limit, so full machine matching remains outstanding.
 - Flagged three BGG community leads: a modular solo/Arda/variants thread (shown as 23 days old), a request for ARDA card lists (21 days old), and the Gen Con 2026 Arda thread (four months old, 24 replies). BGG thread access was blocked, so no new attachment or quantity source was verified.
