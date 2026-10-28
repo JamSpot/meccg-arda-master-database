@@ -21,7 +21,7 @@ Independent transcription. It reports 178 entries and notes two missing hazards,
 ### BoardGameGeek — My Solo Arda Build with Session Report
 https://boardgamegeek.com/thread/1058232/my-solo-arda-build-with-session-report
 
-Published 22 October 2013, with later turns added on 14 November 2013. Describes a personal solo-Arda adaptation using separate MP, Ring, Resource, Minor Item, two Character, Hazard and Site decks. The author generally uses one of each owned card and selected multiples of common resources/hazards, and excludes The Lidless Eye, The White Hand and The Balrog. No exact quantity spreadsheet or deck file was verified. This is a solo-method comparison, not a canonical card-quantity source.
+Published 22 October 2013, with later turns added on 14 November 2013. Describes a personal solo-Arda adaptation using separate MP, Ring, Resource, Minor Item, two Character, Hazard and Site decks. The author generally uses one of each owned card and selected multiples of common resources/hazards, and excludes The Lidless Eye, The White Hand and The Balrog. The tested scenario targets 25 Marshaling Points in eight turns and draws hazards at four times the site's printed number when travelling, twice when staying. The author describes the rules as experimental and makes some ad hoc solo rulings. No exact quantity spreadsheet or deck file was verified. This is a solo-method comparison, not a canonical card-quantity source.
 
 ### Independent printed-card catalogue — Elven Forest
 https://elvenforest.narod.ru/meccg/cards/meccg_list.html
