@@ -17,6 +17,12 @@ https://cardgamegeek.com/database/decks/27774d75-5a7d-4509-ba89-8cb556f3bfc5
 
 Independent transcription. It reports 178 entries and notes two missing hazards, so it is a checksum/comparison source rather than a complete authority.
 
+
+### BoardGameGeek — My Solo Arda Build with Session Report
+https://boardgamegeek.com/thread/1058232/my-solo-arda-build-with-session-report
+
+Published 22 October 2013, with later turns added on 14 November 2013. Describes a personal solo-Arda adaptation using separate MP, Ring, Resource, Minor Item, two Character, Hazard and Site decks. The author generally uses one of each owned card and selected multiples of common resources/hazards, and excludes The Lidless Eye, The White Hand and The Balrog. No exact quantity spreadsheet or deck file was verified. This is a solo-method comparison, not a canonical card-quantity source.
+
 ### Independent printed-card catalogue — Elven Forest
 https://elvenforest.narod.ru/meccg/cards/meccg_list.html
 
@@ -67,9 +73,9 @@ Supports Arda-format play, card browsing, deckbuilding and importing. Its README
 [ARDA with Dream cards — The Houses of the North](https://councilofelrond.org/forum/viewtopic.php?t=4531) is an itemized, 888-card Dwarf-themed Arda list. The post was first published in November 2021 and last edited in July 2025. It groups cards by pile and records quantities/set codes, but includes Dream Cards, optional UEPs and some unreleased-set experiments. Keep it as a separate variant; it is not a standard Hero Arda quantity authority and is not a downloadable spreadsheet.
 
 ### Latest source-watch note
-[Source watch — 27 October 2026](research-watch-2026-10-27.html) records the official card-database download artifacts, recent community discussion leads and expansion corrections supported by the independent catalogue.
+[Source watch — 28 October 2026](research-watch-2026-10-28.html) records the 2013 solo-Arda build and compares its pile structure with the canonical Gandalf Gene format.
 
-Previous watches: [26 October 2026](research-watch-2026-10-26.html), [25 October 2026](research-watch-2026-10-25.html) and [24 October 2026](research-watch-2026-10-24.html)
+Previous watches: [27 October 2026](research-watch-2026-10-27.html), [26 October 2026](research-watch-2026-10-26.html), [25 October 2026](research-watch-2026-10-25.html) and [24 October 2026](research-watch-2026-10-24.html)
 
 
 ## Source hierarchy
