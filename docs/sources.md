@@ -76,8 +76,29 @@ Supports Arda-format play, card browsing, deckbuilding and importing. Its README
 
 [ARDA with Dream cards — The Houses of the North](https://councilofelrond.org/forum/viewtopic.php?t=4531) is an itemized, 888-card Dwarf-themed Arda list. The post was first published in November 2021 and last edited in July 2025. It groups cards by pile and records quantities/set codes, but includes Dream Cards, optional UEPs and some unreleased-set experiments. Keep it as a separate variant; it is not a standard Hero Arda quantity authority and is not a downloadable spreadsheet.
 
+
+### Published Arda Rules 4.0 PDF
+
+https://lureofmiddleearth.com/wp-content/uploads/2016/03/arda_4.0_en.pdf
+
+A 25-page published Arda rules reference credited to Joe Bisz (concept) and Joe Bisz / Eric Dané (design). The Basic Arda Game is shared-deck multiplayer (2–7 players) and recommends a 250+ Play Deck with equal resources and hazards, about 15 MP cards per player (often around 100), a Roving Character Deck of about 70 for larger games, and a 30–35 card Minor Item Offering Deck. These are general sizing guidelines, not exact card quantities. The 1:1 Play Deck recommendation differs from the current Gandalf Gene transcription (171 resources and 252 creatures/hazards); preserve that difference rather than silently changing source counts.
+
+### Additional MeCCG downloads checked on 29 October 2026
+
+- [Character list XLSX](https://meccg.es/meta/cards/list/meccg-characters.xlsx) — metadata cross-check, not a full Arda list.
+- [Challenge Decks ZIP](https://meccg.es/meta/cards/list/Challenge%20Decks.zip) — downloadable Challenge Deck lists, not Arda quantities.
+- [Challenge Decks player aid PDF](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf) — card-by-card reference for the ten Challenge Decks.
+- [MeCCG published deck database](https://meccg.com/decks/) — constructed-deck examples useful for card-name comparison; these are not automatically Arda lists.
+
+Targeted checks of the [Council of Elrond cards.json](https://raw.githubusercontent.com/council-of-elrond-meccg/meccg-cards-database/master/cards.json) confirm these IDs/set codes: Army of the Dead TW-193 (TW), The White Tree TW-348 (TW), Peril Returned TD-54 (TD), Uruk-lieutenant LE-96 (LE), and Wild Trolls LE-100 (LE). This verifies card metadata but provides no Arda copy quantities. The full JSON remains too large for one-shot parsing through the current GitHub connector; complete automated matching is still outstanding.
+
 ### Latest source-watch note
-[Source watch — 28 October 2026](research-watch-2026-10-28.html) records the 2013 solo-Arda build and compares its pile structure with the canonical Gandalf Gene format.
+[Source watch — 29 October 2026](research-watch-2026-10-29.html) compares Arda Rules 4.0 general pool guidance with Gandalf Gene's specific 423-card Play Deck and records five targeted Council of Elrond metadata checks.
+
+Previous watches: [28 October 2026](research-watch-2026-10-28.html), [27 October 2026](research-watch-2026-10-27.html), [26 October 2026](research-watch-2026-10-26.html), [25 October 2026](research-watch-2026-10-25.html) and [24 October 2026](research-watch-2026-10-24.html)
+
+### Latest source-watch note
+[Source watch — 29 October 2026](research-watch-2026-10-29.html) compares the published Arda Rules 4.0 pile-sizing guidance with Gandalf Gene's concrete list and records five targeted Council of Elrond metadata checks.
 
 Previous watches: [27 October 2026](research-watch-2026-10-27.html), [26 October 2026](research-watch-2026-10-26.html), [25 October 2026](research-watch-2026-10-25.html) and [24 October 2026](research-watch-2026-10-24.html)
 
