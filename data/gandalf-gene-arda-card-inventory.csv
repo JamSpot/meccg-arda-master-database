@@ -19,7 +19,7 @@ Angmar Arises,MEDM,Hazard Event,Neutral,Common,3,explicit_numeric,270,GandalfGen
 Annalena,METW,Character,Hero,Fixed,1,explicit_numeric,10,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
 Aragorn II,METW,Character,Hero,Fixed,1,explicit_numeric,11,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
 Arinmîr,METW,Character,Hero,Uncommon,1,explicit_numeric,12,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
-Army of the Dead,METW,,,,,blank_in_source,99,GandalfGeneArda.xls (source extraction notes),expansion_crosschecked_independent_catalogue,,,Independent catalogue lists TW (The Wizards); source quantity is blank and remains unknown.
+Army of the Dead,METW,Resource,Hero,Rare,,blank_in_source,99,GandalfGeneArda.xls (source extraction notes),verified_against_coe_database,,,CoE database identifies TW-193 (TW/The Wizards) as a Hero Resource with rarity R (Rare); source quantity remains blank and unknown.
 Arrows Shorn of Ebony,METD,Minor Item,Hero,Uncommon,3,explicit_numeric,192,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
 Arwen,METW,Character,Hero,Rare,1,explicit_numeric,13,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
 Assassin,METW,Hazard Creature,Neutral,Rare,3,explicit_numeric,333,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
@@ -259,7 +259,7 @@ Palantír of Osgiliath,METW,Resource Item,Hero,Rare,1,explicit_numeric,173,Ganda
 Pallando,METW,Character,Avatar,Fixed,1,explicit_numeric,5,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
 Paths of the Dead,METW,Resource Event,Hero,Rare,1,explicit_numeric,131,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
 Peath,METW,Character,Hero,Uncommon,1,explicit_numeric,70,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
-Peril Returned,METD,Hazard Event,Neutral,Common,3,explicit_numeric,302,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),expansion_crosschecked_independent_catalogue,,,Original extraction assignment: MEDM; independent catalogue lists TD (The Dragons).
+Peril Returned,METD,Hazard Event,Neutral,Common,3,explicit_numeric,302,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),verified_against_coe_database,,,Original extraction assignment was MEDM; CoE database identifies TD-54 (TD/The Dragons) with raw rarity code C2.
 Pick-pocket,METW,Hazard Creature,Neutral,Uncommon,3,explicit_numeric,361,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
 Pierced by Many Wounds,MEDM,Hazard Event,Neutral,Common,3,explicit_numeric,301,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
 Pippin,METW,Character,Hero,Uncommon,1,explicit_numeric,71,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
@@ -331,7 +331,7 @@ The Old Thrush,METW,Resource Event,Hero,Uncommon,3,explicit_numeric,259,GandalfG
 The One Ring,METW,Resource Item,Hero,Rare,1,explicit_numeric,183,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
 The Pale Sword,METW,Hazard Event,Neutral,Rare,3,explicit_numeric,310,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
 The Ring's Betrayal,METW,Hazard Event,Neutral,Uncommon,3,explicit_numeric,311,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
-The White Tree,METW,,,,,blank_in_source,138,GandalfGeneArda.xls (source extraction notes),expansion_crosschecked_independent_catalogue,,,Independent catalogue lists TW (The Wizards); source quantity is blank and remains unknown.
+The White Tree,METW,Resource,Hero,Rare,,blank_in_source,138,GandalfGeneArda.xls (source extraction notes),verified_against_coe_database,,,CoE database identifies TW-348 (TW/The Wizards) as a Hero Resource with rarity R (Rare); source quantity remains blank and unknown.
 The Will of Sauron,METW,Hazard Event,Neutral,Rare,3,explicit_numeric,312,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
 Théoden,METW,Character,Hero,Fixed,1,explicit_numeric,75,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
 Thief,METW,Hazard Creature,Neutral,Rare,3,explicit_numeric,371,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
@@ -350,7 +350,7 @@ True Fána,METW,Resource Event,Hero,Rare,3,explicit_numeric,261,GandalfGeneArda.
 True Fire-drake,METD,Hazard Creature,Neutral,Common,3,explicit_numeric,373,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
 Twilight,METW,Hazard Event,Neutral,Common,3,explicit_numeric,314,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
 Two or Three Tribes Present,MEDM,Hazard Event,Neutral,Common,3,explicit_numeric,315,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
-Uruk-Lieutenant,MELE,Hazard Creature,Neutral,,3,explicit_numeric,375,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),expansion_crosschecked_independent_catalogue,,,Original extraction assignment: MEDM; independent catalogue lists LE (The Lidless Eye). Rarity remains unverified.
+Uruk-Lieutenant,MELE,Hazard Creature,Neutral,Rare,3,explicit_numeric,375,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),verified_against_coe_database,,,Original extraction assignment was MEDM; CoE database identifies LE-96 (LE/The Lidless Eye) with rarity R (Rare).
 Ûvatha the Horseman,METW,Hazard Creature,Neutral,Rare,1,explicit_numeric,374,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
 Valiant Sword,METD,Resource Item,Hero,Common,1,explicit_numeric,185,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
 Vanishment,METW,Resource Event,Hero,Common,3,explicit_numeric,262,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
@@ -360,7 +360,7 @@ Vôteli,METW,Character,Hero,Common,1,explicit_numeric,79,GandalfGeneArda.xls (ex
 Vygavril,METW,Character,Hero,Rare,1,explicit_numeric,80,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
 Wacho,METW,Character,Hero,Uncommon,1,explicit_numeric,81,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
 Were-worm,METD,Hazard Creature,Neutral,Rare,3,explicit_numeric,378,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
-Wild Trolls,MELE,Hazard Creature,Neutral,,3,explicit_numeric,379,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),expansion_crosschecked_independent_catalogue,,,Original extraction assignment: MEDM; independent catalogue lists LE (The Lidless Eye). Rarity remains unverified.
+Wild Trolls,MELE,Hazard Creature,Neutral,,3,explicit_numeric,379,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),verified_against_coe_database,,,Original extraction assignment was MEDM; CoE database identifies LE-100 (LE/The Lidless Eye); raw rarity code CB+CS1 is retained without normalization.
 Witch-king of Angmar,METW,Hazard Creature,Neutral,Rare,1,explicit_numeric,377,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
 Wizard Uncloaked,METD,Resource Event,Hero,Uncommon,3,explicit_numeric,264,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
 Wizard's Fire,METW,Resource Event,Hero,Rare,3,explicit_numeric,265,GandalfGeneArda.xls (extracted via Gandalf_Gene_Arda_Collecting_List_v2.xlsx),transcribed_from_source_extraction,,,
