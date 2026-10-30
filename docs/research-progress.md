@@ -23,8 +23,16 @@ The source spreadsheet has been extracted into a card-by-card working CSV. Indep
 - Added the [26 October 2026 source watch](research-watch-2026-10-26.html), documenting the separate 888-card Dream Cards Arda list and distinguishing its role from the canonical pool.
 - Added the [27 October 2026 source watch](research-watch-2026-10-27.html), verifying current official card database download artifacts, tracking recent BGG Arda discussion leads, and recording three independent expansion corrections.
 - Added the [28 October 2026 source watch](research-watch-2026-10-28.html), documenting a previously untracked 2013 solo-Arda build with a session report and comparing its pile structure with the canonical format.\n- Added the [29 October 2026 source watch](research-watch-2026-10-29.html), documenting Arda Rules 4.0's general pile-sizing guidance, contrasting it with the 423-card Gandalf Gene Play Deck, and adding five targeted CoE card-metadata checks to the inventory.
+- Added the [30 October 2026 source watch](research-watch-2026-10-30.html), cataloguing the 2014 Arda Revised rules, the 2023–24 Hero compiled ruleset, Thorin's Wizards/Dragons treasure-travel aid, the 2022 Spanish solo-Arda variant, and the BGG Arda deck example XLS lead. Corrected the source register's earlier PDF label for that XLS.
 
-## Latest source-watch result — 29 October 2026
+## Latest source-watch result — 30 October 2026
+- Found additional BGG Arda resources: Arda Revised (2014 PDF); Compiled Arda Ruleset — Hero (2023, revisions through 13 March 2024); Thorin's Travel Guide to Treasure (2023 PDF, explicitly The Wizards and The Dragons only); and a Spanish Arda summary with a solitaire version added in November 2022.
+- Corrected the BGG archive format for **Arda deck example** by Jose-san: the archive lists it as **XLS**, not PDF. The workbook attachment was not retrievable for extraction in this pass, so it has not yet been compared card-by-card or used to change any quantities.
+- The Hero compiled ruleset is a community compilation with optional variants, not an official Council of Elrond ruling. The travel guide is a site/item aid, not an inventory. The Spanish file is a separate language-specific solo variant.
+- No newly found file establishes a replacement canonical quantity list. Explicit quantities remain METW 552, METD 108, MEDM 32, MELE 6 and MEBA 1 (699 total), versus the workbook's published 695 summary. Army of the Dead and The White Tree remain blank-quantity rows.
+- No user decision is required for this pass.
+
+## Previous source-watch result — 29 October 2026
 - Added the published [Arda Rules 4.0 PDF](https://lureofmiddleearth.com/wp-content/uploads/2016/03/arda_4.0_en.pdf). It describes shared-deck multiplayer Arda (2–7 players) and recommends a 250+ Play Deck with equal resources/hazards, about 15 MP cards per player, a character pool of about 70 for larger games, and a 30–35 card Minor Item Offering Deck.
 - The 1:1 resource/hazard recommendation differs from the current Gandalf Gene transcription (171 resources and 252 creatures/hazards). This is a rules/build comparison; do not alter the source quantities without evidence.
 - Targeted Council of Elrond database checks verified TW-193 Army of the Dead, TW-348 The White Tree, TD-54 Peril Returned, LE-96 Uruk-lieutenant and LE-100 Wild Trolls. The inventory now records card IDs and metadata; source quantities for Army of the Dead and The White Tree remain blank.
