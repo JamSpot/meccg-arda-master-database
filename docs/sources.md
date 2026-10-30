@@ -36,7 +36,20 @@ Useful for card identity, corrected text, errata and current database informatio
 ### BoardGameGeek MECCG files
 https://boardgamegeek.com/boardgame/1915/middle-earth/files
 
-Important archive for downloadable MECCG files. The current archive lists MECCG Card List v1.13 as an XLS (card information, rarity and distribution; dated 6 March 2010), Starter Set Decks Lists as an XLS, and an Arda deck example as a PDF. Confirm the specific file format on each attachment page before describing it as a spreadsheet.
+Important archive for downloadable MECCG files. The current archive lists MECCG Card List v1.13 as an XLS (card information, rarity and distribution; dated 6 March 2010), Starter Set Decks Lists as an XLS, and an **Arda deck example as an XLS spreadsheet** (Jose-san, listed as approximately 13 years old). The same archive separately lists Arda rules and solo/player-aid PDFs. This corrects the earlier PDF label; the XLS attachment contents still need to be obtained and parsed.
+
+
+### BoardGameGeek Arda rules and player aids — checked 30 October 2026
+
+The [MECCG files archive](https://boardgamegeek.com/boardgame/1915/middle-earth/files) lists several distinct Arda resources:
+
+- **Arda deck example — XLS**, Jose-san (listed as approximately 13 years old). This is a card-pool comparison lead. The attachment contents have not yet been extracted, so no quantities have been adopted from it.
+- [**Arda Revised** — PDF](https://boardgamegeek.com/filepage/98645/arda-revised), by SpiralDawn, dated 4 January 2014. A revised all-in-one Arda rulebook; community rules variant, not an official card inventory.
+- **Compiled Arda Ruleset — Hero — PDF**, by Gamer_2k4. Original file dated 20 September 2023, with revisions dated 27 November 2023 and 13 March 2024 (latest listed file 160 KB). A Hero-focused community compilation of Arda rules, adjustments and optional variants.
+- **Thorin's Travel Guide to Treasure — PDF**, by CDavis7M, dated 26 May 2023 (2.32 MB). Lists item playability, site attacks, site paths and card draw; explicitly covers The Wizards and The Dragons only.
+- **TierraMediaF2.pdf — PDF**, by HANJEL, dated 23 November 2022 (1.29 MB). Spanish Arda summary with a solitaire version added.
+
+These resources are rules, aids or example pools—not verified replacements for Gandalf Gene's quantity workbook. The Arda deck example is confirmed as XLS by the BGG archive listing, correcting the previous PDF description, but its contents remain unparsed.
 
 ### MeCCG.com lists and downloads
 https://meccg.com/cards/lists-and-downloads/
@@ -93,14 +106,10 @@ A 25-page published Arda rules reference credited to Joe Bisz (concept) and Joe 
 Targeted checks of the [Council of Elrond cards.json](https://raw.githubusercontent.com/council-of-elrond-meccg/meccg-cards-database/master/cards.json) confirm these IDs/set codes: Army of the Dead TW-193 (TW), The White Tree TW-348 (TW), Peril Returned TD-54 (TD), Uruk-lieutenant LE-96 (LE), and Wild Trolls LE-100 (LE). This verifies card metadata but provides no Arda copy quantities. The full JSON remains too large for one-shot parsing through the current GitHub connector; complete automated matching is still outstanding.
 
 ### Latest source-watch note
-[Source watch — 29 October 2026](research-watch-2026-10-29.html) compares Arda Rules 4.0 general pool guidance with Gandalf Gene's specific 423-card Play Deck and records five targeted Council of Elrond metadata checks.
 
-Previous watches: [28 October 2026](research-watch-2026-10-28.html), [27 October 2026](research-watch-2026-10-27.html), [26 October 2026](research-watch-2026-10-26.html), [25 October 2026](research-watch-2026-10-25.html) and [24 October 2026](research-watch-2026-10-24.html)
+[Source watch — 30 October 2026](research-watch-2026-10-30.html) adds the 2014 Arda Revised rulebook, the 2023–24 Hero compiled ruleset, Thorin's 2023 treasure-travel aid, the 2022 Spanish solo-Arda variant, and corrects the BGG Arda deck example's format to XLS.
 
-### Latest source-watch note
-[Source watch — 29 October 2026](research-watch-2026-10-29.html) compares the published Arda Rules 4.0 pile-sizing guidance with Gandalf Gene's concrete list and records five targeted Council of Elrond metadata checks.
-
-Previous watches: [27 October 2026](research-watch-2026-10-27.html), [26 October 2026](research-watch-2026-10-26.html), [25 October 2026](research-watch-2026-10-25.html) and [24 October 2026](research-watch-2026-10-24.html)
+Previous watches: [29 October 2026](research-watch-2026-10-29.html), [28 October 2026](research-watch-2026-10-28.html), [27 October 2026](research-watch-2026-10-27.html), [26 October 2026](research-watch-2026-10-26.html), [25 October 2026](research-watch-2026-10-25.html) and [24 October 2026](research-watch-2026-10-24.html)
 
 
 ## Source hierarchy
