@@ -38,7 +38,7 @@ Two quantity-3 rows also have missing rarity:
 - Uruk-Lieutenant
 - Wild Trolls
 
-These findings are working extraction results and require reconciliation with the published 377/695 summary.
+These findings require reconciliation with CCG Collector's 3 June 2020 community summary of 377 distinct cards / 695 physical copies. The workbook's static Desglose tab totals 691, but its categories match the separate Jose-san pool and include Minion categories absent from the Gene rows; it is stale and is not treated as the Gene quantity summary.
 
 ## Dragons
 The original description explicitly includes all Dragons and Dragons At Home and excludes Dragons Ahunt. Later Arda variants should not be merged into this list without evidence.
