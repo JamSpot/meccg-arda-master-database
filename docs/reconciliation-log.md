@@ -40,6 +40,23 @@ The static Desglose table's category values match the separate Jose-san workbook
 
 The quantity fields were not changed. The three numeric corrections move 3 copies of Peril Returned from MEDM to METD and 3 copies each of Uruk-Lieutenant and Wild Trolls from MEDM to MELE. This yields the current expansion copy totals: METW 552, METD 108, MEDM 32, MELE 6 and MEBA 1 — still 699 overall.
 
+## Full MECCG Card List v1.13 metadata audit
+
+A full local copy of **MECCG Card List v1.13** (embedded date 6 March 2010) was used to audit the Gene source rows. After mapping the source's 20 `Minor Item` labels to catalogue type `Resource Item`, and resolving the shortened source label `Bert` to **“Bert” (Bûrat)** (TW258), all **377/377** source rows match a v1.13 catalogue record. The separate Jose-san workbook also matches **370/370** rows by English name, set, type and alignment.
+
+The v1.13 audit corrected these additional metadata fields without changing quantities:
+
+| Card | Source value | v1.13 catalogue value |
+|---|---|---|
+| Peath | Uncommon | Fixed (TW062 / F1) |
+| Ambusher | Uncommon | Common (TW255 / CA1) |
+| Uruk-Lieutenant | rarity blank | Rare (LE293) |
+| Wild Trolls | rarity blank | Common (LE297) |
+
+The three expansion corrections in the preceding table are also confirmed by v1.13: Peril Returned is TD150/METD, Uruk-lieutenant is LE293/MELE, and Wild Trolls is LE297/MELE. The [six-row audit CSV](../data/catalogue-v1-13-audit.csv) preserves the source-versus-catalogue differences. The main inventory now has a `catalogue_match_status` field marking all rows as matched, with Bert marked as a title alias.
+
+This completes the independent v1.13 identity/metadata pass, but it does **not** reconcile the four-copy difference: 699 explicit Gene copies versus CCG Collector's 695 community summary.
+
 ## Current working expansion counts
 
 | Expansion | Distinct identities with numeric quantities | Explicit copies |
