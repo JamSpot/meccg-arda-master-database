@@ -81,11 +81,12 @@ The original Gandalf Gene workbook and a separate Jose-san Arda workbook are now
 - The 699 explicit-copy total versus the published 695 summary remains unresolved.
 
 ## Next concrete work
-1. Trace the four-copy difference between the 699 explicit Gene rows and CCG Collector's 695 community summary; treat the static 691 Desglose tab as stale.
-2. Obtain a parseable copy of the Council of Elrond `cards.json` or catalogue XLS, then match every source row by identity, expansion and rarity.
-3. Match all source rows to the independent transcription.
-4. Resolve or document remaining identity and rarity anomalies.
-5. Produce an audited physical-card acquisition table with provenance for every quantity.
+1. Retrieve and parse Thorondor's 83.5 KiB Arda Sample Deck_no rares.xls as an independent low-rarity pool comparison.
+2. Confirm the local Jose-san ARDA.xls against the BGG attachment, ideally by binary hash or direct file comparison.
+3. Retrieve the La BSK Google Docs pool and Kober's Arda Solitaire v0.2 PDF; both remain blocked at the binary/document extraction stage.
+4. Trace the four-copy difference between the 699 explicit Gene rows and CCG Collector's 695 community summary; treat the static 691 Desglose tab as stale.
+5. Obtain a parseable copy of the Council of Elrond `cards.json` or catalogue XLS, then match every source row by identity, expansion and rarity.
+6. Match all source rows to the independent transcription, resolve remaining identity/rarity anomalies, and produce an audited physical-card acquisition table with provenance for every quantity.
 
 ## Status labels
 - Verified — identity and source fields checked.
