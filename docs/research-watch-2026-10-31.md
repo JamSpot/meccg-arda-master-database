@@ -82,7 +82,17 @@ The Gene workbook's static Desglose sheet totals **691**, not 695. Its category 
 
 **Correct reconciliation status:** 699 explicit Gene row copies versus the independently reported 695 community total = **+4 unresolved**. The stale 691 Desglose table is a separate source artifact, not the explanation for the four-copy difference.
 
-## 3. Additional solo-Arda pool lead — La BSK
+## 3. Historical Arda-design discussion clarifies pool boundaries and hazard omissions
+
+The Council of Elrond thread [Which sets are best for ARDA?](https://councilofelrond.org/forum/viewtopic.php?t=2494) adds useful context around the Gandalf Gene list:
+
+- In January 2015, a contributor explicitly distinguishes Hero Arda from Minion Arda and recommends keeping their Arda decks separate. For Hero Arda, the suggested foundation is The Wizards, with selected non-MP resources and hazards from The Dragons and Dark Minions added as desired. The post cautions against agents and their associated cards as too complicated for this format.
+- In June 2020, CCG Collector independently reports the 377 / 695 Gene-list summary. In the follow-up discussion, players suggest that Dragon Ahunt manifestations and Drakes were left out because they can be disproportionately punishing in Arda: hazards can persist across several player turns, the shared hazard environment can stack up, and random resource/site choices make the Drakes more broadly playable than in ordinary constructed games.
+- The same discussion describes the hazard pool as having been tuned over time toward more familiar Orc, Troll and Man threats with events that support those creature types.
+
+This is community recollection and analysis, not a formal statement from Gandalf Gene or an official ruling. It is nevertheless a useful warning for the audit: a card's absence from a published Arda list is not automatically a transcription error. Some omissions may be intentional balance choices. It also supports keeping Hero and Minion pools separate rather than importing the whole MELE card set into the Hero baseline.
+
+## 4. Additional solo-Arda pool lead — La BSK
 
 The Spanish [SATM partida en solitario thread](https://labsk.net/index.php?topic=126528.30) (thread started 28 January 2014) contains two useful posts:
 
@@ -91,7 +101,7 @@ The Spanish [SATM partida en solitario thread](https://labsk.net/index.php?topic
 
 The forum evidence is accessible, but automated retrieval of the Google Doc returned HTTP 410. I have therefore recorded the pool-building method and links without extracting card names or adopting quantities. This is a separate solo-Arda variant, not a canonical Gene list.
 
-## 4. Canonical Gene expansion quantities — unchanged
+## 5. Canonical Gene expansion quantities — unchanged
 
 | Expansion | Explicit copies |
 |---|---:|
