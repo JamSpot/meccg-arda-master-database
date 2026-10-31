@@ -1,7 +1,7 @@
 # Research Progress
 
 ## Current stage
-The original Gandalf Gene workbook and a separate Jose-san Arda workbook are now parsed and compared. The canonical Gene inventory remains 699 explicit copies, versus CCG Collector's independent 695-copy community summary. The Gene workbook's static Desglose tab totals 691 and appears stale: its categories match the Jose-san pool, including Minion categories absent from the Gene card rows. The priority is now the four-copy Gene-versus-community reconciliation and the complete automated metadata match.
+The original Gandalf Gene workbook and a separate Jose-san Arda workbook are now parsed and compared. The full local MECCG Card List v1.13 catalogue has also been parsed: 1,722 card records across 10 set codes. All 377 Gene rows match after a title alias and metadata corrections; all 370 Jose-san rows match by name, set, type and alignment. The canonical Gene inventory remains 699 explicit copies, versus CCG Collector's independent 695-copy community summary. The Gene workbook's static Desglose tab totals 691 and appears stale: its categories match the Jose-san pool, including Minion categories absent from the Gene card rows. The priority is now the four-copy quantity reconciliation and retrieval of the no-rares sample XLS.
 
 ## Confirmed from the extracted Gandalf Gene workbook
 - 377 named card rows after excluding title/header structure.
@@ -31,6 +31,8 @@ The original Gandalf Gene workbook and a separate Jose-san Arda workbook are now
 - Added Kober's separate Arda Solitaire v0.2 rules PDF (2015) and a 2016 comparison with Callasmar's site/card pairing approach; it is a solo-rules source, not a quantity list, and its PDF binary remains unavailable for extraction.
 
 - Identified a downloadable 83.5 KiB bilingual Arda Sample Deck_no rares.xls by Thorondor (20 July 2015), a low-rarity METW/METD/MEDM comparison pool. The attachment is listed but not yet retrievable for row-level extraction.
+
+- Parsed the full local MECCG Card List v1.13 workbook (1,722 records / 10 set codes) and matched all 377 Gandalf Gene rows and all 370 Jose-san rows; corrected six Gene metadata exceptions and added `data/catalogue-v1-13-audit.csv` without changing quantities.
 
 ## Latest source-watch result — 31 October 2026
 - Parsed the local ARDA.xls workbook, a high-confidence candidate for BGG's Jose-san Arda deck example XLS. It has 370 unique names / 691 copies across all alignments.
