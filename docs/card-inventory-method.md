@@ -29,5 +29,5 @@ Create an auditable card-level inventory for the canonical Gandalf Gene Hero Ard
 - Preserve raw source fields separately from normalized/verified fields.
 - Keep canonical Gene membership separate from later Arda variants.
 - A card can have verified identity but unresolved deck quantity.
-- Do not treat the provisional acquisition list as final until the 695/699 difference is explained.
+- Do not treat the provisional acquisition list as final until the 699 explicit Gene copies versus CCG Collector's 695-copy community summary is reconciled. The Gene Desglose tab's 691 total is stale and is not the source of 695.
 - Never mark a card as owned without user confirmation.
