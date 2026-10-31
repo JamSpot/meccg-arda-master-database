@@ -5,24 +5,31 @@ title: Home
 
 # MECCG Arda Master Database
 
-## Start playing with your cards
+## Start here: Arda first, then choose your way to play
 
-**If you have the cards and want to play, start with the practical learning route—not the research pages.**
+This site is for **Arda format**: its card pools, specialised piles, rulesets and published Arda variants. It is not the conventional Hero-vs-Hazard solo course.
 
-1. **Set up for solo Hero play.** [Start Here: prepare your table and card zones](https://jamspot.github.io/meccg-hero-solo-academy/academy/)
-2. **Prepare the Hero Resource deck.** [Open the Hero deck list](https://jamspot.github.io/meccg-hero-solo-academy/decks/hero-deck/)
-3. **Prepare the Hazard deck.** [Open the complementary Hazard deck list](https://jamspot.github.io/meccg-hero-solo-academy/decks/hazard-deck/)
-4. **Play the first expedition.** [Start Game 1: Rivendell to Moria](https://jamspot.github.io/meccg-hero-solo-academy/games/game-1/)
-5. **Follow the decision workbook.** [Open the Game 1 Turn Workbook](https://jamspot.github.io/meccg-hero-solo-academy/games/game-1/turn-workbook/)
-6. **Continue learning in order.** [Open the full Academy Learning Path](https://jamspot.github.io/meccg-hero-solo-academy/academy/learning-path/)
+If you are here to play Arda solo, follow this route:
 
-The Academy's first-game baseline uses a documented teaching list based on the historical Dwarven Quest / Pallando Challenge Deck C, plus an explicitly identified solo Hazard-draw procedure. It is designed to teach the core solo Hero turn sequence. It is **not** the same thing as the full Arda card pool listed in this database. The guide labels that distinction so you know which cards and rules are being used.
+1. **Understand the Arda format.** Read the [Arda overview](docs/arda-overview.html) so you know what makes an Arda game different from ordinary MECCG deck play.
+2. **Choose an Arda-specific solo method.** Compare the [published Arda solitaire approaches](docs/arda-solo-play.html). They are separate variants; do not combine their procedures without a reason.
+3. **Choose the card pool.** Start with the [Gandalf Gene Hero Arda list](docs/gandalf-gene.html), then use [comparison lists](docs/comparison-lists.html) if you deliberately want another pool.
+4. **Check the rules version.** Use [Rules & Variants](docs/rules-and-variants.html) to identify which published rules document belongs with your chosen method.
+5. **Prepare the piles required by that Arda method.** Do not substitute the conventional Solo Academy's 38-card Hero play deck and separate 30-card Hazard deck. Arda methods use their own pool and pile structures; the exact setup depends on the selected variant.
+6. **Play, score and debrief using that variant's own procedure.** Do not import conventional solo expedition steps or end conditions unless the Arda source explicitly tells you to.
+
+**Important:** Arda has more than one published or community solitaire adaptation. There is no single universal Arda solo ruleset established by the sources collected here. The solo page labels what each source actually says and what still needs the original rule document before it can be presented as a complete turn-by-turn procedure.
 
 ## Arda card pool and research
 
-Use the rest of this site when you need to check what is in the published Arda pool, compare sources, or audit expansion quantities. Those pages support deckbuilding; they are not the order in which you should learn to play.
+Use these pages to check what is in the published Arda pool, compare sources, or audit expansion quantities. They support Arda deck construction; they are not a conventional Hero Solo Academy course.
 
 <div class="home-link-grid">
+  <section class="home-link-card">
+    <h3>Arda solitaire methods</h3>
+    <p>Compare the documented solo-Arda approaches and keep their procedures separate.</p>
+    <p><a href="docs/arda-solo-play.html">Open Arda-specific solo guide</a></p>
+  </section>
   <section class="home-link-card">
     <h3>Card inventory</h3>
     <p>Browse the extracted card-by-card list and download it for Excel or LibreOffice.</p>
@@ -79,3 +86,4 @@ These are working extraction figures, not a claim that every card identity and e
 - Every quantity should retain its source and reconciliation status.
 - Only genuine physical MECCG cards are in scope — no proxies.
 - Minion Arda is excluded unless specifically requested.
+- Conventional Hero Solo Academy lessons and decklists do not belong in this Arda project.
