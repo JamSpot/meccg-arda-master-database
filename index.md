@@ -41,7 +41,7 @@ Use the rest of this site when you need to check what is in the published Arda p
   <section class="home-link-card">
     <h3>Published sources</h3>
     <p>Find published Arda lists, downloadable spreadsheets, card catalogues and rules variants.</p>
-    <p><a href="docs/sources.html">Sources and downloads</a> · <a href="docs/comparison-lists.html">Compare lists</a></p>
+    <p><a href="docs/sources.html">Sources and downloads</a> · <a href="docs/comparison-lists.html">Compare lists</a> · <a href="data/jose-san-hero-arda-pool-comparison.csv">Download Jose-san Hero-pool comparison CSV</a></p>
   </section>
   <section class="home-link-card">
     <h3>Project scope</h3>
@@ -68,7 +68,7 @@ The explicit quantities extracted from the original Gandalf Gene spreadsheet tot
 | The Balrog (MEBA) | 1 |
 | **Total** | **699** |
 
-The source also names **Army of the Dead** and **The White Tree** with blank quantities; both are METW, but their quantities remain unknown. Three expansion assignments have been cross-checked and corrected in the working inventory. The published summary still says 695, which does not match the 699 explicit row quantities.
+The source also names **Army of the Dead** and **The White Tree** with blank quantities; both are METW, but their quantities remain unknown. Three expansion assignments have been cross-checked and corrected in the working inventory. CCG Collector's 3 June 2020 community post reports 695 physical copies, four fewer than the 699 explicit rows. The Gene workbook's static Desglose tab totals 691, but it matches the separate Jose-san pool category table and is treated as stale, not as the Gene summary.
 
 These are working extraction figures, not a claim that every card identity and expansion assignment has been independently verified. See the [card inventory](docs/card-inventory.html) and [reconciliation page](docs/source-reconciliation.html) for detail.
 
