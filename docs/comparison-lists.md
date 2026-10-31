@@ -2,27 +2,40 @@
 
 These lists are useful for comparison but must not be merged into the canonical Gandalf Gene deck without explicit evidence.
 
-## Jose-san — ARDA.xls
-A substantial Hero Arda list with wider coverage than the Gene list.
+## Jose-san — ARDA.xls (likely BGG Arda deck example)
 
-Reported Desglose totals:
-- Wizards: 5
-- Hero Characters: 73
-- Minion Characters: 34
-- Minor Items: 36
-- Allies: 20
-- Factions: 31
-- Gold Rings: 12
-- Other Items: 26
-- Permanent Events: 12
-- Rings: 16
-- Resources: 155
-- Creatures: 120
-- Hazards: 121
-- Minion Resources: 30
-- Total: 691
+The BGG [MECCG files archive](https://boardgamegeek.com/boardgame/1915/middle-earth/files) lists an **Arda deck example — XLS** by Jose-san. The project Library contains a local ARDA.xls whose workbook metadata says it was last saved by Jose San Miguel on 2 May 2010. Its categories and totals match the previously recorded Jose-san summary, making it a high-confidence candidate for that BGG file; the BGG attachment has not yet been hash-compared.
 
-This is comparison data, not a replacement for Gandalf Gene.
+The parsed workbook has **370 unique names / 691 copies** across all alignments. It includes 48 Minion-alignment entries / 68 copies. Those Minion entries are excluded from this Hero project.
+
+### Hero / Neutral / Avatar subset
+
+Filtering out Minion alignment leaves **322 names / 623 copies**:
+
+| Expansion | Card names | Copies |
+|---|---:|---:|
+| METW | 228 | 410 |
+| METD | 61 | 126 |
+| MEDM | 18 | 48 |
+| MELE | 4 | 12 |
+| MEAS | 8 | 18 |
+| MEWH | 2 | 6 |
+| MEBA | 1 | 3 |
+| **Total** | **322** | **623** |
+
+This subset retains neutral hazards and the five Wizards. It is not a replacement for Gandalf Gene.
+
+### Comparison with Gandalf Gene
+
+Exact normalized English-name matching gives:
+- 242 shared names;
+- 80 names unique to the Jose-san Hero/Neutral/Avatar subset;
+- 134 names unique to Gandalf Gene;
+- 29 shared names with different quantities.
+
+After the independent expansion corrections already recorded in the master inventory, all 242 shared names have matching expansion assignments. The [downloadable comparison CSV](../data/jose-san-hero-arda-pool-comparison.csv) contains the 322 non-Minion rows, Jose-san quantities and Gandalf Gene quantities where matched. Blank Gene quantities mean the card is not in the Gene list.
+
+Do not merge the two sources' quantities. They are different Arda builds.
 
 ## Leon — 2022 Arda card pool
 The spreadsheet cards for Arda Leon 20220901.xlsx is a later and broader Hero Arda card pool.
@@ -38,6 +51,10 @@ Reported category counts:
 - Headline total: 974
 
 These are pool/category totals, not a claim that all cards belong to the canonical Gene deck.
+
+## 2014–2017 — Spanish community solo-Arda pool
+
+[La BSK: SATM partida en solitario](https://labsk.net/index.php?topic=126528.30) includes a 2014 pool-building description and a 4 June 2017 follow-up. The described pool uses The Wizards, The Dragons and Dark Minions; one copy of each card except commons/uncommons at three copies; and Callasmar's solo-Arda rules. Borja's 2017 post links a [Google Docs card list](https://docs.google.com/document/d/1XSkyc_lnn0av7pbvqs814zlwN4kZSs4hKaNm00nm5Rw/edit?usp=sharing) and the [solo-Arda rules file](https://boardgamegeek.com/filepage/87333/variante-a-las-reglas-arda-para-jugar-en-solitario). He says he had only played the pool solo. The Google Doc could not be extracted automatically, so this remains a separate source lead, not a quantity authority.
 
 ## Later variants
 Later cooperative, revised, dream-card and community Arda projects remain separated from the canonical dataset.
