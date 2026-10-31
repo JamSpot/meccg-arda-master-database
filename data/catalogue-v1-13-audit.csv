@@ -1,0 +1,7 @@
+source_card_name,canonical_card_name,source_expansion,catalogue_expansion,source_type,catalogue_type,source_alignment,catalogue_alignment,source_rarity,catalogue_rarity,source_quantity,v1_13_card_id,audit_action
+Bert,"""Bert"" (Bûrat)",METW,METW,Hazard Creature,Hazard Creature,Neutral,Neutral,Uncommon,Uncommon,1,TW258,Canonicalize shortened source title
+Peath,Peath,METW,METW,Character,Character,Hero,Hero,Uncommon,Fixed,1,TW062,Correct rarity to v1.13 catalogue
+Ambusher,Ambusher,METW,METW,Hazard Creature,Hazard Creature,Neutral,Neutral,Uncommon,Common,3,TW255,Correct rarity to v1.13 catalogue
+Peril Returned,Peril Returned,MEDM,METD,Hazard Event,Hazard Event,Neutral,Neutral,Common,Common,3,TD150,Correct expansion to METD
+Uruk-Lieutenant,Uruk-lieutenant,MEDM,MELE,Hazard Creature,Hazard Creature,Neutral,Neutral,,Rare,3,LE293,Correct expansion and rarity to MELE
+Wild Trolls,Wild Trolls,MEDM,MELE,Hazard Creature,Hazard Creature,Neutral,Neutral,,Common,3,LE297,Correct expansion and rarity to MELE
