@@ -26,6 +26,8 @@ The original Gandalf Gene workbook and a separate Jose-san Arda workbook are now
 - Added the [30 October 2026 source watch](research-watch-2026-10-30.html), cataloguing the 2014 Arda Revised rules, the 2023–24 Hero compiled ruleset, Thorin's Wizards/Dragons treasure-travel aid, the 2022 Spanish solo-Arda variant, and the BGG Arda deck example XLS lead. Corrected the source register's earlier PDF label for that XLS.
 - Added the [31 October 2026 source watch](research-watch-2026-10-31.html), parsed the local Jose-san ARDA.xls candidate, created a 322-row Hero/Neutral/Avatar comparison CSV, identified the source of the 695-copy figure, and corrected the stale Gene Desglose attribution.
 
+- Added the 31 October Council of Elrond discussion context: Hero and Minion Arda are separate pool designs, and community commentary suggests Dragon Ahunt/Drake omissions in the Gene hazard mix may be intentional balance curation rather than extraction gaps.
+
 ## Latest source-watch result — 31 October 2026
 - Parsed the local ARDA.xls workbook, a high-confidence candidate for BGG's Jose-san Arda deck example XLS. It has 370 unique names / 691 copies across all alignments.
 - Excluded 48 Minion-alignment rows / 68 copies from the project's Hero comparison. The Hero/Neutral/Avatar subset has 322 names / 623 copies, with expansion totals METW 410, METD 126, MEDM 48, MELE 12, MEAS 18, MEWH 6 and MEBA 3.
