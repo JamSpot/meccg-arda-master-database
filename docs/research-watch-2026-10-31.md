@@ -67,6 +67,8 @@ The comparison is a discovery/checksum aid only. Do not merge either list's quan
 
 ## 2. Correcting the 695 / 699 / 691 reconciliation
 
+The Council post exposes the original `GandalfGeneArda.xls` attachment (attachment ID 945) and lists it as 79 KiB. The Library copy is 80,896 bytes (exactly 79 KiB), matching the published size. A binary hash comparison against the server attachment has not been possible, but this is a strong file-provenance check.
+
 The original [Gandalf Gene Council post](https://councilofelrond.org/forum/viewtopic.php?f=37&t=2870) says the Play Deck contains 171 resources and 252 creatures/hazards (423 cards). The attached GandalfGeneArda.xls has:
 
 - 377 named card rows after excluding the title row;
