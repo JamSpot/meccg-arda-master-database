@@ -19,7 +19,7 @@ The four-copy difference between the 699 numeric-row sum and CCG Collector's 695
 
 ## Do not use the Gene Desglose tab as the 695 source
 
-The static Desglose sheet in the supplied Gene workbook sums to **691**, not 695. Its category values exactly match the separate Jose-san ARDA.xls category table and include 34 Minion characters and 30 Minion resources that are not present in the Gene card rows. It is therefore treated as a stale copied summary, not as a valid checksum for the Gene list.
+The static Desglose sheet in the supplied Gene workbook sums to **691**, not 695. Its category values exactly match the separate Jose-san ARDA.xls category table and include 34 Minion characters and 30 Minion resources that are not present in the Gene card rows. It is therefore treated as a stale copied summary, not as a valid checksum for the Gene list. An intermediate collecting-list workbook in the Library labels 695 as “Source Desglose total”; that label is incorrect. The 695 figure is CCG Collector's separate community summary, while the original workbook's Desglose tab totals 691.
 
 ## Published expansion figures
 
