@@ -18,6 +18,11 @@ https://cardgamegeek.com/database/decks/27774d75-5a7d-4509-ba89-8cb556f3bfc5
 Independent transcription. It reports 178 entries and notes two missing hazards, so it is a checksum/comparison source rather than a complete authority.
 
 
+### Council of Elrond — Arda Solitaire v0.2 (Kober, 2015)
+https://councilofelrond.org/forum/viewtopic.php?t=2578
+
+A separate Arda-specific solitaire rules PDF, posted 4 April 2015 (44.23 KiB). A 2016 discussion compares it with Callasmar's BGG variant: Callasmar pairs a site with a playable card, while Kober's approach preserves the need to travel to the appropriate sites for Greater/Major Items, Information and Gold Rings. Rules-only; no card quantities. The PDF attachment is listed on the forum but its binary was not retrievable in this research pass.
+
 ### Council of Elrond — Which sets are best for ARDA? (2015–2020 discussion)
 https://councilofelrond.org/forum/viewtopic.php?t=2494
 
