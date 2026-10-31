@@ -87,7 +87,7 @@ The Gene workbook's static Desglose sheet totals **691**, not 695. Its category 
 The Spanish [SATM partida en solitario thread](https://labsk.net/index.php?topic=126528.30) (thread started 28 January 2014) contains two useful posts:
 
 - A 2014 description says the author's Arda pool uses cards from The Wizards, The Dragons and Dark Minions, generally one copy of each card except commons and uncommons, which are included as three copies. It excludes promos, the drinking game and the Spanish beginners set. The author says he played solo using Callasmar's solo-Arda rules.
-- On 4 June 2017, Borja shares a [Google Docs card list](https://docs.google.com/document/d/1XSkyc_lnn0av7pbvqs814zlwN4kZSs4hKaNm00nm5Rw/edit?usp=sharing), explicitly saying he had only played this build solo, and links the [Callasmar solo-Arda rules file](https://boardgamegeek.com/filepage/87333/variante-las-reglas-arda-para-jugar-en-solitario).
+- On 4 June 2017, Borja shares a [Google Docs card list](https://docs.google.com/document/d/1XSkyc_lnn0av7pbvqs814zlwN4kZSs4hKaNm00nm5Rw/edit?usp=sharing), explicitly saying he had only played this build solo, and links the [Callasmar solo-Arda rules file](https://boardgamegeek.com/filepage/87333/variante-a-las-reglas-arda-para-jugar-en-solitario).
 
 The forum evidence is accessible, but automated retrieval of the Google Doc returned HTTP 410. I have therefore recorded the pool-building method and links without extracting card names or adopting quantities. This is a separate solo-Arda variant, not a canonical Gene list.
 
