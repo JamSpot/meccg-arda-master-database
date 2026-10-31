@@ -5,40 +5,59 @@ title: Home
 
 # MECCG Arda Master Database
 
-## Start here: Arda first, then choose your way to play
+## Start here: learn Arda, then choose how to play
 
-This site is for **Arda format**: its card pools, specialised piles, rulesets and published Arda variants. It is not the conventional Hero-vs-Hazard solo course.
+This site teaches and documents **Arda format**: the shared-deck multiplayer game, Arda-specific solo adaptations, Arda card pools and rules variants. It is not the conventional Hero Solo Academy.
 
-If you are here to play Arda solo, follow this route:
+<aside class="home-link-card">
+  <h2>New to Arda? Start with multiplayer</h2>
+  <p>The normal Arda Basic Game is a shared-deck game for 2–7 players. Learn the four shared piles, table setup, drafting, turns, hazard play, trading and calling the Council.</p>
+  <p><a href="docs/arda-multiplayer-play.html">Start the Arda Multiplayer Guide →</a></p>
+</aside>
 
-1. **Understand the Arda format.** Read the [Arda overview](docs/arda-overview.html) so you know what makes an Arda game different from ordinary MECCG deck play.
-2. **Choose an Arda-specific solo method.** Compare the [published Arda solitaire approaches](docs/arda-solo-play.html). They are separate variants; do not combine their procedures without a reason.
-3. **Choose the card pool.** Start with the [Gandalf Gene Hero Arda list](docs/gandalf-gene.html), then use [comparison lists](docs/comparison-lists.html) if you deliberately want another pool.
-4. **Check the rules version.** Use [Rules & Variants](docs/rules-and-variants.html) to identify which published rules document belongs with your chosen method.
-5. **Prepare the piles required by that Arda method.** Do not substitute the conventional Solo Academy's 38-card Hero play deck and separate 30-card Hazard deck. Arda methods use their own pool and pile structures; the exact setup depends on the selected variant.
-6. **Play, score and debrief using that variant's own procedure.** Do not import conventional solo expedition steps or end conditions unless the Arda source explicitly tells you to.
+<aside class="home-link-card">
+  <h2>Want to play Arda solo?</h2>
+  <p>Choose an Arda-specific solitaire adaptation. Published solo approaches differ, so the guide keeps their procedures separate and identifies what still needs source verification.</p>
+  <p><a href="docs/arda-solo-play.html">Start the Arda Solo Guide →</a></p>
+</aside>
 
-**Important:** Arda has more than one published or community solitaire adaptation. There is no single universal Arda solo ruleset established by the sources collected here. The solo page labels what each source actually says and what still needs the original rule document before it can be presented as a complete turn-by-turn procedure.
+## Recommended learning order
+
+1. **Learn the format:** [Arda Overview](docs/arda-overview.html).
+2. **Choose how you will play:** [Multiplayer Basic Game](docs/arda-multiplayer-play.html) or [Arda-specific Solo Play](docs/arda-solo-play.html).
+3. **Choose the rules version:** [Rules & Variants](docs/rules-and-variants.html). Do not mix Basic Game, Arda Revised, Expanded World or solo variant rules without checking their sources.
+4. **Understand the card pool:** [Gandalf Gene — canonical deck](docs/gandalf-gene.html).
+5. **Check individual cards and quantities:** [Card Inventory](docs/card-inventory.html) and [Comparison Lists](docs/comparison-lists.html).
+6. **Check provenance and outstanding work:** [Sources & Downloads](docs/sources.html), [Source Reconciliation](docs/source-reconciliation.html) and [Research Progress](docs/research-progress.html).
+
+## What Arda is
+
+In the Arda Basic Game, all players draw from the same shared decks. It is designed for 2–7 players, encourages improvisation and trading, and uses a different preparation and play structure from conventional constructed Hero-vs-Hazard MECCG. The standard shared piles are the Play Deck, MP Deck, Roving Character Deck and Minor Item Offering Deck.
 
 ## Arda card pool and research
 
-Use these pages to check what is in the published Arda pool, compare sources, or audit expansion quantities. They support Arda deck construction; they are not a conventional Hero Solo Academy course.
+The database uses Gandalf Gene's 2016 Hero Arda list as its principal fixed card-pool comparison point. Alternative Hero Arda lists, revised rulesets and solo variants are kept separate rather than silently merged.
 
 <div class="home-link-grid">
   <section class="home-link-card">
-    <h3>Arda solitaire methods</h3>
-    <p>Compare the documented solo-Arda approaches and keep their procedures separate.</p>
-    <p><a href="docs/arda-solo-play.html">Open Arda-specific solo guide</a></p>
+    <h3>Multiplayer instructions</h3>
+    <p>Step-by-step Arda Basic Game setup, shared piles, player turns, hazard passing, trading and end game.</p>
+    <p><a href="docs/arda-multiplayer-play.html">Open multiplayer guide</a></p>
   </section>
   <section class="home-link-card">
-    <h3>Card inventory</h3>
-    <p>Browse the extracted card-by-card list and download it for Excel or LibreOffice.</p>
-    <p><a href="docs/card-inventory.html">Open inventory page</a> · <a href="data/gandalf-gene-arda-card-inventory.csv">Download CSV</a></p>
+    <h3>Solo instructions</h3>
+    <p>Compare published Arda solitaire methods, their different pile structures, travel and scoring procedures.</p>
+    <p><a href="docs/arda-solo-play.html">Open solo guide</a></p>
   </section>
   <section class="home-link-card">
     <h3>Canonical deck</h3>
     <p>Read the original Gandalf Gene list and its published deck structure.</p>
     <p><a href="docs/gandalf-gene.html">Open canonical deck</a></p>
+  </section>
+  <section class="home-link-card">
+    <h3>Card inventory</h3>
+    <p>Browse the extracted card-by-card list and download it for Excel or LibreOffice.</p>
+    <p><a href="docs/card-inventory.html">Open inventory page</a> · <a href="data/gandalf-gene-arda-card-inventory.csv">Download CSV</a></p>
   </section>
   <section class="home-link-card">
     <h3>Quantity reconciliation</h3>
@@ -48,17 +67,7 @@ Use these pages to check what is in the published Arda pool, compare sources, or
   <section class="home-link-card">
     <h3>Published sources</h3>
     <p>Find published Arda lists, downloadable spreadsheets, card catalogues and rules variants.</p>
-    <p><a href="docs/sources.html">Sources and downloads</a> · <a href="docs/comparison-lists.html">Compare lists</a> · <a href="data/jose-san-hero-arda-pool-comparison.csv">Download Jose-san Hero-pool comparison CSV</a></p>
-  </section>
-  <section class="home-link-card">
-    <h3>Project scope</h3>
-    <p>Understand which Hero Arda lists are included and why other variants are kept separate.</p>
-    <p><a href="docs/arda-overview.html">Arda overview</a> · <a href="docs/rules-and-variants.html">Rules and variants</a></p>
-  </section>
-  <section class="home-link-card">
-    <h3>Research progress</h3>
-    <p>Follow completed checks, new sources and the next concrete tasks.</p>
-    <p><a href="docs/research-progress.html">Research progress</a> · <a href="docs/research-watch-2026-10-31.html">Latest source watch</a></p>
+    <p><a href="docs/sources.html">Sources and downloads</a> · <a href="docs/comparison-lists.html">Compare lists</a></p>
   </section>
 </div>
 
@@ -75,14 +84,14 @@ The explicit quantities extracted from the original Gandalf Gene spreadsheet tot
 | The Balrog (MEBA) | 1 |
 | **Total** | **699** |
 
-The source also names **Army of the Dead** and **The White Tree** with blank quantities; both are METW, but their quantities remain unknown. Three expansion assignments have been cross-checked and corrected in the working inventory. CCG Collector's 3 June 2020 community post reports 695 physical copies, four fewer than the 699 explicit rows. The Gene workbook's static Desglose tab totals 691, but it matches the separate Jose-san pool category table and is treated as stale, not as the Gene summary.
+The source also names **Army of the Dead** and **The White Tree** with blank quantities; both are METW, but their quantities remain unknown. CCG Collector's 3 June 2020 community post reports 695 physical copies, four fewer than the 699 explicit rows. The Gene workbook's static Desglose tab totals 691, but it matches the separate Jose-san pool category table and is treated as stale, not as the Gene summary.
 
 These are working extraction figures, not a claim that every card identity and expansion assignment has been independently verified. See the [card inventory](docs/card-inventory.html) and [reconciliation page](docs/source-reconciliation.html) for detail.
 
 ## Project principles
 
 - Gandalf Gene's published Hero Arda list is the canonical comparison point.
-- Alternative lists and rules variants remain separately identified.
+- Multiplayer rules, solo adaptations, card lists and optional variants remain clearly distinguished.
 - Every quantity should retain its source and reconciliation status.
 - Only genuine physical MECCG cards are in scope — no proxies.
 - Minion Arda is excluded unless specifically requested.
