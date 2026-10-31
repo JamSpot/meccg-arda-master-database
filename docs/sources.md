@@ -5,7 +5,7 @@
 ### Council of Elrond — Gandalf Gene
 https://councilofelrond.org/forum/viewtopic.php?f=37&hilit=gandalf+gene&p=23844&t=2870
 
-Original 2016 post and GandalfGeneArda.xls attachment. This remains the primary quantity source for the canonical deck.
+Original 2016 post and GandalfGeneArda.xls attachment (Council attachment ID 945; listed as 79 KiB). The Library copy is 80,896 bytes, exactly 79 KiB, matching the published attachment size; a binary hash check is still outstanding. This remains the primary quantity source for the canonical deck.
 
 ### Council of Elrond — Arda Ten Years Later
 https://www.councilofelrond.org/forum/viewtopic.php?t=3944
