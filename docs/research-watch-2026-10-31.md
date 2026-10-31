@@ -84,7 +84,15 @@ The Gene workbook's static Desglose sheet totals **691**, not 695. Its category 
 
 **Correct reconciliation status:** 699 explicit Gene row copies versus the independently reported 695 community total = **+4 unresolved**. The stale 691 Desglose table is a separate source artifact, not the explanation for the four-copy difference.
 
-## 3. Dedicated Arda Solitaire rules — Kober (2015)
+## 3. Published sample Arda pool without rares — Thorondor (2015)
+
+The Council of Elrond thread [ARDA Sample Deck without Rares](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=2630) contains a downloadable **Arda Sample Deck_no rares.xls** attachment (83.5 KiB), posted on 20 July 2015 by Thorsten the Traveller (forum name thorondor).
+
+The author describes it as a beginner-friendly pool that avoids rares, is mostly The Wizards and The Dragons with a few Dark Minions cards, and generally uses one copy of each unique card and three of each non-unique card. Exceptions include extra Gold Rings and testing cards, plus additional Doors of Night, Gates of Morning and Twilight. The workbook is bilingual (English/German).
+
+This is a meaningful independent Arda quantity source and a useful lower-rarity/entry-level comparison against Gandalf Gene and Jose-san. The forum page exposes the 83.5 KiB XLS attachment, but the current browser download path rejects the binary, so its rows and expansion totals have not yet been extracted. No quantities have been adopted. Retrieval and parsing of this workbook is now a high-priority next step.
+
+## 4. Dedicated Arda Solitaire rules — Kober (2015)
 
 The Council of Elrond thread [Arda Solitaire](https://councilofelrond.org/forum/viewtopic.php?t=2578) contains a separate published solo-Arda rules PDF: **Arda Solitaire v0.2.pdf**, posted by Kober on 4 April 2015 (44.23 KiB).
 
@@ -92,7 +100,7 @@ A May 2016 comment compares it with Callasmar's BGG solo-Arda variant. The comme
 
 This is a distinct Arda-specific solo ruleset, not the normal constructed-deck solo variant and not a card-quantity list. The forum exposes the PDF attachment, but the current browser download path rejects its binary content, so I have not transcribed or adopted its rules text. It is a strong candidate for a later side-by-side solo-rules comparison with Callasmar and the 2013 solo-Arda session report.
 
-## 4. Historical Arda-design discussion clarifies pool boundaries and hazard omissions
+## 5. Historical Arda-design discussion clarifies pool boundaries and hazard omissions
 
 The Council of Elrond thread [Which sets are best for ARDA?](https://councilofelrond.org/forum/viewtopic.php?t=2494) adds useful context around the Gandalf Gene list:
 
@@ -102,7 +110,7 @@ The Council of Elrond thread [Which sets are best for ARDA?](https://councilofel
 
 This is community recollection and analysis, not a formal statement from Gandalf Gene or an official ruling. It is nevertheless a useful warning for the audit: a card's absence from a published Arda list is not automatically a transcription error. Some omissions may be intentional balance choices. It also supports keeping Hero and Minion pools separate rather than importing the whole MELE card set into the Hero baseline.
 
-## 5. Additional solo-Arda pool lead — La BSK
+## 6. Additional solo-Arda pool lead — La BSK
 
 The Spanish [SATM partida en solitario thread](https://labsk.net/index.php?topic=126528.30) (thread started 28 January 2014) contains two useful posts:
 
@@ -111,7 +119,7 @@ The Spanish [SATM partida en solitario thread](https://labsk.net/index.php?topic
 
 The forum evidence is accessible, but automated retrieval of the Google Doc returned HTTP 410. I have therefore recorded the pool-building method and links without extracting card names or adopting quantities. This is a separate solo-Arda variant, not a canonical Gene list.
 
-## 6. Canonical Gene expansion quantities — unchanged
+## 7. Canonical Gene expansion quantities — unchanged
 
 | Expansion | Explicit copies |
 |---|---:|
