@@ -134,9 +134,11 @@ Army of the Dead and The White Tree remain named rows with blank source quantiti
 
 ## Next concrete work
 
-1. Trace the four-copy difference between the Gene workbook's 699 explicit rows and CCG Collector's 695 report.
-2. Obtain a byte-for-byte copy of the BGG Jose-san attachment if possible, to confirm the local ARDA.xls match.
-3. Extract the La BSK Google Doc if its access becomes available; until then, retain it as a source lead only.
-4. Complete the full Council of Elrond metadata match and audit the remaining rarity/identity fields.
+1. Retrieve and parse Thorondor's 83.5 KiB **Arda Sample Deck_no rares.xls**; this is now the highest-priority independent card-quantity comparison.
+2. Confirm the local Jose-san ARDA.xls against the BGG attachment, ideally by binary hash or a direct file comparison.
+3. Retrieve the La BSK Google Docs pool and Kober's Arda Solitaire v0.2 PDF; both are currently blocked at the attachment/document binary stage.
+4. Trace the four-copy difference between the Gene workbook's 699 explicit rows and CCG Collector's 695 report.
+5. Complete the full Council of Elrond metadata match and audit remaining rarity/identity fields.
+6. Produce an audited physical-card acquisition table with source provenance for every quantity.
 
 **Input needed:** none for this pass. No canonical quantity or deck-membership decision is being requested.
