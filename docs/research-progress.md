@@ -28,6 +28,8 @@ The original Gandalf Gene workbook and a separate Jose-san Arda workbook are now
 
 - Added the 31 October Council of Elrond discussion context: Hero and Minion Arda are separate pool designs, and community commentary suggests Dragon Ahunt/Drake omissions in the Gene hazard mix may be intentional balance curation rather than extraction gaps.
 
+- Added Kober's separate Arda Solitaire v0.2 rules PDF (2015) and a 2016 comparison with Callasmar's site/card pairing approach; it is a solo-rules source, not a quantity list, and its PDF binary remains unavailable for extraction.
+
 ## Latest source-watch result — 31 October 2026
 - Parsed the local ARDA.xls workbook, a high-confidence candidate for BGG's Jose-san Arda deck example XLS. It has 370 unique names / 691 copies across all alignments.
 - Excluded 48 Minion-alignment rows / 68 copies from the project's Hero comparison. The Hero/Neutral/Avatar subset has 322 names / 623 copies, with expansion totals METW 410, METD 126, MEDM 48, MELE 12, MEAS 18, MEWH 6 and MEBA 3.
