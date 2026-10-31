@@ -51,7 +51,7 @@ Use the rest of this site when you need to check what is in the published Arda p
   <section class="home-link-card">
     <h3>Research progress</h3>
     <p>Follow completed checks, new sources and the next concrete tasks.</p>
-    <p><a href="docs/research-progress.html">Research progress</a> · <a href="docs/research-watch-2026-10-30.html">Latest source watch</a></p>
+    <p><a href="docs/research-progress.html">Research progress</a> · <a href="docs/research-watch-2026-10-31.html">Latest source watch</a></p>
   </section>
 </div>
 
