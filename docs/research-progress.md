@@ -1,17 +1,17 @@
 # Research Progress
 
 ## Current stage
-The source spreadsheet has been extracted into a card-by-card working CSV. Independent catalogue and Council of Elrond checks have corrected three numeric expansion assignments, identified the two blank-quantity cards' expansions, and verified five card identities/set codes. The remaining priority is the four-copy row-level reconciliation and complete automated metadata match.
+The original Gandalf Gene workbook and a separate Jose-san Arda workbook are now parsed and compared. The canonical Gene inventory remains 699 explicit copies, versus CCG Collector's independent 695-copy community summary. The Gene workbook's static Desglose tab totals 691 and appears stale: its categories match the Jose-san pool, including Minion categories absent from the Gene card rows. The priority is now the four-copy Gene-versus-community reconciliation and the complete automated metadata match.
 
 ## Confirmed from the extracted Gandalf Gene workbook
 - 377 named card rows after excluding title/header structure.
 - 375 rows have numeric quantities.
 - 374 distinct names among numeric rows because Nenseldë the Wingild appears twice; the two blank-quantity rows bring the unique named identity count to 376.
-- Numeric quantity sum: 699; the workbook Desglose summary states 695, leaving +4 unresolved.
+- Numeric quantity sum: 699. CCG Collector's 3 June 2020 Council post independently reports 695, leaving +4 unresolved. The Gene workbook's static Desglose table actually sums to 691 and is stale; its categories match the separate Jose-san pool, not the current Gene card rows.
 - Army of the Dead and The White Tree have blank quantity fields; independent catalogue identifies both as METW.
 - Peril Returned (3 copies) is corrected from MEDM to METD; Uruk-Lieutenant and Wild Trolls (3 copies each) are corrected from MEDM to MELE. Rarity remains blank for the latter two.
 - Verified expansion copies are METW 552, METD 108, MEDM 32, MELE 6 and MEBA 1; total remains 699.
-- Published expansion distinct counts 300 + 59 + 14 + 2 + 1 sum to 376, matching unique named identities. The headline 377 likely counts duplicate Nenseldë twice.
+- Published expansion distinct counts 300 + 59 + 14 + 2 + 1 sum to 376, matching the working unique named identities. CCG Collector's headline says 377; the reason for the one-card difference is not confirmed.
 
 ## Completed
 - Added a [reconciliation log](reconciliation-log.html) with the count bridge and named anomalies.
@@ -24,8 +24,18 @@ The source spreadsheet has been extracted into a card-by-card working CSV. Indep
 - Added the [27 October 2026 source watch](research-watch-2026-10-27.html), verifying current official card database download artifacts, tracking recent BGG Arda discussion leads, and recording three independent expansion corrections.
 - Added the [28 October 2026 source watch](research-watch-2026-10-28.html), documenting a previously untracked 2013 solo-Arda build with a session report and comparing its pile structure with the canonical format.\n- Added the [29 October 2026 source watch](research-watch-2026-10-29.html), documenting Arda Rules 4.0's general pile-sizing guidance, contrasting it with the 423-card Gandalf Gene Play Deck, and adding five targeted CoE card-metadata checks to the inventory.
 - Added the [30 October 2026 source watch](research-watch-2026-10-30.html), cataloguing the 2014 Arda Revised rules, the 2023–24 Hero compiled ruleset, Thorin's Wizards/Dragons treasure-travel aid, the 2022 Spanish solo-Arda variant, and the BGG Arda deck example XLS lead. Corrected the source register's earlier PDF label for that XLS.
+- Added the [31 October 2026 source watch](research-watch-2026-10-31.html), parsed the local Jose-san ARDA.xls candidate, created a 322-row Hero/Neutral/Avatar comparison CSV, identified the source of the 695-copy figure, and corrected the stale Gene Desglose attribution.
 
-## Latest source-watch result — 30 October 2026
+## Latest source-watch result — 31 October 2026
+- Parsed the local ARDA.xls workbook, a high-confidence candidate for BGG's Jose-san Arda deck example XLS. It has 370 unique names / 691 copies across all alignments.
+- Excluded 48 Minion-alignment rows / 68 copies from the project's Hero comparison. The Hero/Neutral/Avatar subset has 322 names / 623 copies, with expansion totals METW 410, METD 126, MEDM 48, MELE 12, MEAS 18, MEWH 6 and MEBA 3.
+- Compared the subset with Gandalf Gene: 242 shared names, 80 Jose-only, 134 Gene-only and 29 shared-name quantity differences. Added a downloadable card-by-card comparison CSV.
+- Identified CCG Collector's 3 June 2020 Council of Elrond post as the source of the 377 / 695 community summary. The 695 figure is not in the Gene workbook's Desglose tab.
+- The Gene workbook's static Desglose table totals 691 and matches the Jose-san category table, including Minion categories absent from the Gene card rows. Treat it as stale, not as a Gene checksum.
+- Found a La BSK 2014–2017 solo-Arda pool lead and a linked Google Docs list; automated extraction returned HTTP 410, so no quantities were adopted.
+- Canonical Gene quantities remain METW 552, METD 108, MEDM 32, MELE 6 and MEBA 1 = 699. The +4 difference versus CCG Collector's 695 remains open. No user input is needed.
+
+## Previous source-watch result — 30 October 2026
 - Found additional BGG Arda resources: Arda Revised (2014 PDF); Compiled Arda Ruleset — Hero (2023, revisions through 13 March 2024); Thorin's Travel Guide to Treasure (2023 PDF, explicitly The Wizards and The Dragons only); and a Spanish Arda summary with a solitaire version added in November 2022.
 - Corrected the BGG archive format for **Arda deck example** by Jose-san: the archive lists it as **XLS**, not PDF. The workbook attachment was not retrievable for extraction in this pass, so it has not yet been compared card-by-card or used to change any quantities.
 - The Hero compiled ruleset is a community compilation with optional variants, not an official Council of Elrond ruling. The travel guide is a site/item aid, not an inventory. The Spanish file is a separate language-specific solo variant.
@@ -37,7 +47,7 @@ The source spreadsheet has been extracted into a card-by-card working CSV. Indep
 - The 1:1 resource/hazard recommendation differs from the current Gandalf Gene transcription (171 resources and 252 creatures/hazards). This is a rules/build comparison; do not alter the source quantities without evidence.
 - Targeted Council of Elrond database checks verified TW-193 Army of the Dead, TW-348 The White Tree, TD-54 Peril Returned, LE-96 Uruk-lieutenant and LE-100 Wild Trolls. The inventory now records card IDs and metadata; source quantities for Army of the Dead and The White Tree remain blank.
 - Identified direct downloads for MeCCG's character XLSX, Challenge Decks ZIP and Challenge Decks player-aid PDF. These are catalogue/Challenge Deck references, not new Arda quantity sources.
-- No new standard Hero Arda spreadsheet or exact deck file was found. The 699 explicit copies versus the workbook's 695 summary remains unresolved.
+- No new standard Hero Arda spreadsheet or exact deck file was found. The 699 explicit copies versus CCG Collector's 695 community summary remains unresolved.
 - The full 4.16 MB CoE JSON could not be loaded as one parseable file through the current GitHub connector, so the full automated match remains outstanding.
 
 ## Previous source-watch result — 28 October 2026
@@ -65,7 +75,7 @@ The source spreadsheet has been extracted into a card-by-card working CSV. Indep
 - The 699 explicit-copy total versus the published 695 summary remains unresolved.
 
 ## Next concrete work
-1. Recompute the workbook's Desglose totals by category from raw rows and locate the four-copy difference.
+1. Trace the four-copy difference between the 699 explicit Gene rows and CCG Collector's 695 community summary; treat the static 691 Desglose tab as stale.
 2. Obtain a parseable copy of the Council of Elrond `cards.json` or catalogue XLS, then match every source row by identity, expansion and rarity.
 3. Match all source rows to the independent transcription.
 4. Resolve or document remaining identity and rarity anomalies.
