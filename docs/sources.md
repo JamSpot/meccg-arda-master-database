@@ -18,6 +18,11 @@ https://cardgamegeek.com/database/decks/27774d75-5a7d-4509-ba89-8cb556f3bfc5
 Independent transcription. It reports 178 entries and notes two missing hazards, so it is a checksum/comparison source rather than a complete authority.
 
 
+### Council of Elrond — ARDA Sample Deck without Rares (Thorondor, 2015)
+https://councilofelrond.org/forum/viewtopic.php?f=37&t=2630
+
+The forum post (20 July 2015) exposes a downloadable **Arda Sample Deck_no rares.xls** attachment (83.5 KiB), described as a bilingual English/German beginner-friendly Arda list. The author says it is mostly The Wizards and The Dragons with a few Dark Minions cards, generally one of each unique and three of each non-unique, with extra Gold Rings/testing cards and more Doors of Night, Gates of Morning and Twilight. This is a distinct low-rarity quantity source; the attachment binary has not yet been retrieved or parsed, so no quantities are adopted.
+
 ### Council of Elrond — Arda Solitaire v0.2 (Kober, 2015)
 https://councilofelrond.org/forum/viewtopic.php?t=2578
 
