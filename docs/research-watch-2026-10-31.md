@@ -84,7 +84,29 @@ The Gene workbook's static Desglose sheet totals **691**, not 695. Its category 
 
 **Correct reconciliation status:** 699 explicit Gene row copies versus the independently reported 695 community total = **+4 unresolved**. The stale 691 Desglose table is a separate source artifact, not the explanation for the four-copy difference.
 
-## 3. Published sample Arda pool without rares — Thorondor (2015)
+## 3. Full MECCG Card List v1.13 catalogue audit
+
+A full local **MECCG.xls** workbook in the project Library contains embedded metadata identifying it as **Version 1.13**, dated 6 March 2010, matching the BGG card-list listing. It is 1.58 MB and contains 1,722 card records across 10 set codes, with English card names, set/type/alignment, card IDs and rarity/distribution fields.
+
+I used it as an independent metadata catalogue—not as an Arda quantity source—and matched the published workbooks:
+
+- **Gandalf Gene:** all 377 source rows now match a v1.13 catalogue record after resolving the source's shortened “Bert” label to **“Bert” (Bûrat)** (TW258), mapping the source's 20 “Minor Item” labels to the catalogue's “Resource Item” type, and applying the verified metadata corrections below.
+- **Jose-san ARDA.xls:** all 370 card rows match by English name, expansion, type and alignment (370/370). This strongly supports the local workbook as a valid card-pool transcription, although the BGG attachment's binary hash is still not confirmed.
+
+The audit identified and corrected these Gene metadata issues without changing any quantities:
+
+| Source row | Catalogue result | Correction |
+|---|---|---|
+| Bert | “Bert” (Bûrat), METW, TW258, Uncommon | Canonicalize card title |
+| Peath | METW, TW062, Fixed (F1) | Uncommon → Fixed |
+| Ambusher | METW, TW255, Common (CA1) | Uncommon → Common |
+| Peril Returned | METD, TD150, Common (C2) | MEDM → METD |
+| Uruk-Lieutenant | MELE, LE293, Rare | MEDM → MELE; fill rarity |
+| Wild Trolls | MELE, LE297, Common | MEDM → MELE; fill rarity |
+
+The updated [working inventory CSV](../data/gandalf-gene-arda-card-inventory.csv) now carries these corrections. The six exceptions are also recorded in the [v1.13 catalogue audit CSV](../data/catalogue-v1-13-audit.csv). The original 699-copy sum is unchanged; this is a metadata/identity improvement, not a resolution of the 695-versus-699 quantity discrepancy.
+
+## 4. Published sample Arda pool without rares — Thorondor (2015)
 
 The Council of Elrond thread [ARDA Sample Deck without Rares](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=2630) contains a downloadable **Arda Sample Deck_no rares.xls** attachment (83.5 KiB), posted on 20 July 2015 by Thorsten the Traveller (forum name thorondor).
 
@@ -92,7 +114,7 @@ The author describes it as a beginner-friendly pool that avoids rares, is mostly
 
 This is a meaningful independent Arda quantity source and a useful lower-rarity/entry-level comparison against Gandalf Gene and Jose-san. The forum page exposes the 83.5 KiB XLS attachment, but the current browser download path rejects the binary, so its rows and expansion totals have not yet been extracted. No quantities have been adopted. Retrieval and parsing of this workbook is now a high-priority next step.
 
-## 4. Dedicated Arda Solitaire rules — Kober (2015)
+## 5. Dedicated Arda Solitaire rules — Kober (2015)
 
 The Council of Elrond thread [Arda Solitaire](https://councilofelrond.org/forum/viewtopic.php?t=2578) contains a separate published solo-Arda rules PDF: **Arda Solitaire v0.2.pdf**, posted by Kober on 4 April 2015 (44.23 KiB).
 
@@ -100,7 +122,7 @@ A May 2016 comment compares it with Callasmar's BGG solo-Arda variant. The comme
 
 This is a distinct Arda-specific solo ruleset, not the normal constructed-deck solo variant and not a card-quantity list. The forum exposes the PDF attachment, but the current browser download path rejects its binary content, so I have not transcribed or adopted its rules text. It is a strong candidate for a later side-by-side solo-rules comparison with Callasmar and the 2013 solo-Arda session report.
 
-## 5. Historical Arda-design discussion clarifies pool boundaries and hazard omissions
+## 6. Historical Arda-design discussion clarifies pool boundaries and hazard omissions
 
 The Council of Elrond thread [Which sets are best for ARDA?](https://councilofelrond.org/forum/viewtopic.php?t=2494) adds useful context around the Gandalf Gene list:
 
@@ -110,7 +132,7 @@ The Council of Elrond thread [Which sets are best for ARDA?](https://councilofel
 
 This is community recollection and analysis, not a formal statement from Gandalf Gene or an official ruling. It is nevertheless a useful warning for the audit: a card's absence from a published Arda list is not automatically a transcription error. Some omissions may be intentional balance choices. It also supports keeping Hero and Minion pools separate rather than importing the whole MELE card set into the Hero baseline.
 
-## 6. Additional solo-Arda pool lead — La BSK
+## 7. Additional solo-Arda pool lead — La BSK
 
 The Spanish [SATM partida en solitario thread](https://labsk.net/index.php?topic=126528.30) (thread started 28 January 2014) contains two useful posts:
 
@@ -119,7 +141,7 @@ The Spanish [SATM partida en solitario thread](https://labsk.net/index.php?topic
 
 The forum evidence is accessible, but automated retrieval of the Google Doc returned HTTP 410. I have therefore recorded the pool-building method and links without extracting card names or adopting quantities. This is a separate solo-Arda variant, not a canonical Gene list.
 
-## 7. Canonical Gene expansion quantities — unchanged
+## 8. Canonical Gene expansion quantities — unchanged
 
 | Expansion | Explicit copies |
 |---|---:|
