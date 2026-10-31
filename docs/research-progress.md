@@ -9,9 +9,9 @@ The original Gandalf Gene workbook and a separate Jose-san Arda workbook are now
 - 374 distinct names among numeric rows because Nenseldë the Wingild appears twice; the two blank-quantity rows bring the unique named identity count to 376.
 - Numeric quantity sum: 699. CCG Collector's 3 June 2020 Council post independently reports 695, leaving +4 unresolved. The Gene workbook's static Desglose table actually sums to 691 and is stale; its categories match the separate Jose-san pool, not the current Gene card rows.
 - Army of the Dead and The White Tree have blank quantity fields; independent catalogue identifies both as METW.
-- Peril Returned (3 copies) is corrected from MEDM to METD; Uruk-Lieutenant and Wild Trolls (3 copies each) are corrected from MEDM to MELE. Rarity remains blank for the latter two.
+- Peril Returned (3 copies) is corrected from MEDM to METD; Uruk-Lieutenant and Wild Trolls (3 copies each) are corrected from MEDM to MELE. v1.13 confirms their rarities as Common, Rare and Common respectively for Peril Returned, Uruk-Lieutenant and Wild Trolls.
 - Verified expansion copies are METW 552, METD 108, MEDM 32, MELE 6 and MEBA 1; total remains 699.
-- Published expansion distinct counts 300 + 59 + 14 + 2 + 1 sum to 376, matching the working unique named identities. CCG Collector's headline says 377; the reason for the one-card difference is not confirmed.
+- Published expansion distinct counts 300 + 59 + 14 + 2 + 1 sum to 376, matching the working unique named identities. CCG Collector's headline says 377; the duplicate Nenseldë row may explain the headline difference, but that counting convention is not confirmed.
 
 ## Completed
 - Added a [reconciliation log](reconciliation-log.html) with the count bridge and named anomalies.
@@ -22,7 +22,8 @@ The original Gandalf Gene workbook and a separate Jose-san Arda workbook are now
 - Added the [25 October 2026 source watch](research-watch-2026-10-25.html), documenting direct MeCCG catalogue downloads for independent card identity, expansion and rarity checks.
 - Added the [26 October 2026 source watch](research-watch-2026-10-26.html), documenting the separate 888-card Dream Cards Arda list and distinguishing its role from the canonical pool.
 - Added the [27 October 2026 source watch](research-watch-2026-10-27.html), verifying current official card database download artifacts, tracking recent BGG Arda discussion leads, and recording three independent expansion corrections.
-- Added the [28 October 2026 source watch](research-watch-2026-10-28.html), documenting a previously untracked 2013 solo-Arda build with a session report and comparing its pile structure with the canonical format.\n- Added the [29 October 2026 source watch](research-watch-2026-10-29.html), documenting Arda Rules 4.0's general pile-sizing guidance, contrasting it with the 423-card Gandalf Gene Play Deck, and adding five targeted CoE card-metadata checks to the inventory.
+- Added the [28 October 2026 source watch](research-watch-2026-10-28.html), documenting a previously untracked 2013 solo-Arda build with a session report and comparing its pile structure with the canonical format.
+- Added the [29 October 2026 source watch](research-watch-2026-10-29.html), documenting Arda Rules 4.0's general pile-sizing guidance, contrasting it with the 423-card Gandalf Gene Play Deck, and adding five targeted CoE card-metadata checks to the inventory.
 - Added the [30 October 2026 source watch](research-watch-2026-10-30.html), cataloguing the 2014 Arda Revised rules, the 2023–24 Hero compiled ruleset, Thorin's Wizards/Dragons treasure-travel aid, the 2022 Spanish solo-Arda variant, and the BGG Arda deck example XLS lead. Corrected the source register's earlier PDF label for that XLS.
 - Added the [31 October 2026 source watch](research-watch-2026-10-31.html), parsed the local Jose-san ARDA.xls candidate, created a 322-row Hero/Neutral/Avatar comparison CSV, identified the source of the 695-copy figure, and corrected the stale Gene Desglose attribution.
 
@@ -32,7 +33,7 @@ The original Gandalf Gene workbook and a separate Jose-san Arda workbook are now
 
 - Identified a downloadable 83.5 KiB bilingual Arda Sample Deck_no rares.xls by Thorondor (20 July 2015), a low-rarity METW/METD/MEDM comparison pool. The attachment is listed but not yet retrievable for row-level extraction.
 
-- Parsed the full local MECCG Card List v1.13 workbook (1,722 records / 10 set codes) and matched all 377 Gandalf Gene rows and all 370 Jose-san rows; corrected six Gene metadata exceptions and added `data/catalogue-v1-13-audit.csv` without changing quantities.
+- Parsed the full local MECCG Card List v1.13 workbook (1,722 records / 10 set codes) and matched all 377 Gandalf Gene rows and all 370 Jose-san rows; corrected six Gene metadata exceptions, added `data/catalogue-v1-13-audit.csv`, and marked every inventory row's catalogue match status without changing quantities.
 
 ## Latest source-watch result — 31 October 2026
 - Parsed the local ARDA.xls workbook, a high-confidence candidate for BGG's Jose-san Arda deck example XLS. It has 370 unique names / 691 copies across all alignments.
