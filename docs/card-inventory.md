@@ -26,7 +26,7 @@ The published expansion subtotals (300 METW + 59 METD + 14 MEDM + 2 MELE + 1 MEB
 
 ## Remaining discrepancies and limitations
 
-- The source workbook's own Desglose summary says **695 copies**, while the explicit numeric rows still sum to **699**. The four-copy difference remains unresolved.
+- CCG Collector's 3 June 2020 Council of Elrond post reports **695 physical copies**, while the explicit Gene rows still sum to **699**. The four-copy difference remains unresolved. The Gene workbook's static Desglose tab totals **691**, but its categories match the separate Jose-san pool (including Minion categories absent from the Gene rows), so it is treated as stale rather than as the Gene summary.
 - Army of the Dead and The White Tree have blank quantity cells. Their expansions are known; their quantities are not.
 - Rarity remains blank in the extraction for Uruk-Lieutenant and Wild Trolls; this pass verified their expansion only.
 - Owned quantity and quantity-to-acquire fields are blank. They must not be treated as zero or as a statement about the user's collection.
@@ -34,6 +34,6 @@ The published expansion subtotals (300 METW + 59 METD + 14 MEDM + 2 MELE + 1 MEB
 
 ## How to use the CSV
 
-Open it in Excel, LibreOffice Calc, or another spreadsheet tool. Filter by expansion, card type, alignment, rarity, or quantity status. Keep the source quantity separate from your own owned count. Do not calculate a final shopping list until the four-copy discrepancy has been resolved.
+Open it in Excel, LibreOffice Calc, or another spreadsheet tool. Filter by expansion, card type, alignment, rarity, or quantity status. Keep the source quantity separate from your own owned count. Do not calculate a final shopping list until the four-copy discrepancy versus CCG Collector's 695-copy report has been resolved.
 
 See the [reconciliation log](reconciliation-log.html) for the count audit and [sources and downloads](sources.html) for published comparison material.
