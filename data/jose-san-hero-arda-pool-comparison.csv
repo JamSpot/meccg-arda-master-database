@@ -139,7 +139,7 @@ Scroll of Isildur,METW,1,1
 Shield of Iron-bound Ash,METW,2,3
 Star-glass,METW,2,
 Sting,METW,2,1
-Sword of Gondolin,METW,3,3
+Sword of Gondolin,METW,2,3
 The Mithril-coat,METW,1,1
 The One Ring,METW,1,1
 Torque of Hues,METW,1,1
@@ -284,10 +284,10 @@ Itangast Ahunt,METD,1,
 Leucaruth Ahunt,METD,1,
 Many Sorrows Befall,METD,3,3
 Peril Returned,METD,3,3
-Scatha Ahunt,METT,1,
-Scorba Ahunt,METT,1,
+Scatha Ahunt,METD,1,
+Scorba Ahunt,METD,1,
 Smaug Ahunt,METD,1,
-Times Are Evil,METC,3,3
+Times Are Evil,METD,3,3
 Folco Boffin,MEDM,1,1
 Lindion the Oronín,MEDM,1,1
 Mistress Lobelia,MEDM,1,
@@ -320,4 +320,4 @@ Power Built by Waiting,MEAS,3,
 Summons from Long Sleep,MEAS,3,
 Noble Steed,MEWH,3,
 Promptings of Wisdom,MEWH,3,
-Unabated in Malice,MEBA,3
+Unabated in Malice,MEBA,3,
