@@ -26,7 +26,7 @@
 | Static workbook Desglose total | 691 | Stale copied table; not a Gene checksum |
 | Published expansion subtotal sum | 376 | 300 + 59 + 14 + 2 + 1 |
 
-The static Desglose table's category values match the separate Jose-san workbook and include Minion categories not present in the Gene rows. The 695 figure comes from CCG Collector's forum post, not from the Gene workbook's Desglose tab.
+The static Desglose table's category values match the separate Jose-san workbook and include Minion categories not present in the Gene rows. The 695 figure comes from CCG Collector's forum post, not from the Gene workbook's Desglose tab. The intermediate collecting-list workbook labels 695 as “Source Desglose total”; that label is a provenance error and should be read as the CCG Collector published checksum.
 
 ## Expansion corrections from the independent catalogue
 
