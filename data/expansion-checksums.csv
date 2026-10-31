@@ -17,3 +17,13 @@ Verified working inventory,MELE,2,6,Uruk-Lieutenant and Wild Trolls corrected fr
 Verified working inventory,MEBA,1,1,No change
 Verified working inventory,TOTAL_NUMERIC_ROWS,374,699,Expansion reassignment does not change total copies; 4-copy difference versus published 695 remains unresolved
 Verified working inventory,TOTAL_UNIQUE_NAMED_IDENTITIES,376,,Includes two blank-quantity rows; Nenseldë duplicate deduplicated
+
+Jose-san Hero/Neutral/Avatar subset,METW,228,410,Minion alignment excluded; retains neutral hazards and five Wizards
+Jose-san Hero/Neutral/Avatar subset,METD,61,126,Minion alignment excluded
+Jose-san Hero/Neutral/Avatar subset,MEDM,18,48,Minion alignment excluded
+Jose-san Hero/Neutral/Avatar subset,MELE,4,12,Minion alignment excluded
+Jose-san Hero/Neutral/Avatar subset,MEAS,8,18,Minion alignment excluded
+Jose-san Hero/Neutral/Avatar subset,MEWH,2,6,Minion alignment excluded
+Jose-san Hero/Neutral/Avatar subset,MEBA,1,3,Minion alignment excluded
+Jose-san Hero/Neutral/Avatar subset,TOTAL,322,623,Separate comparison pool; not merged into Gandalf Gene
+Jose-san full source pool,TOTAL,370,691,Includes 48 Minion-alignment names / 68 copies; Minion rows excluded from this project's Hero comparison
