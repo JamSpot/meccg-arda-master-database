@@ -39,7 +39,7 @@ The original Gandalf Gene workbook and a separate Jose-san Arda workbook are now
 - Found additional BGG Arda resources: Arda Revised (2014 PDF); Compiled Arda Ruleset — Hero (2023, revisions through 13 March 2024); Thorin's Travel Guide to Treasure (2023 PDF, explicitly The Wizards and The Dragons only); and a Spanish Arda summary with a solitaire version added in November 2022.
 - Corrected the BGG archive format for **Arda deck example** by Jose-san: the archive lists it as **XLS**, not PDF. The workbook attachment was not retrievable for extraction in this pass, so it has not yet been compared card-by-card or used to change any quantities.
 - The Hero compiled ruleset is a community compilation with optional variants, not an official Council of Elrond ruling. The travel guide is a site/item aid, not an inventory. The Spanish file is a separate language-specific solo variant.
-- No newly found file establishes a replacement canonical quantity list. Explicit quantities remain METW 552, METD 108, MEDM 32, MELE 6 and MEBA 1 (699 total), versus the workbook's published 695 summary. Army of the Dead and The White Tree remain blank-quantity rows.
+- No newly found file establishes a replacement canonical quantity list. Explicit quantities remain METW 552, METD 108, MEDM 32, MELE 6 and MEBA 1 (699 total), versus CCG Collector's published 695 community summary. Army of the Dead and The White Tree remain blank-quantity rows.
 - No user decision is required for this pass.
 
 ## Previous source-watch result — 29 October 2026
@@ -53,7 +53,7 @@ The original Gandalf Gene workbook and a separate Jose-san Arda workbook are now
 ## Previous source-watch result — 28 October 2026
 - Found [My Solo Arda Build with Session Report](https://boardgamegeek.com/thread/1058232/my-solo-arda-build-with-session-report), published 22 October 2013 and edited with additional turns in November 2013. It describes separate MP, Ring, Resource, Minor Item, two Character, Hazard and Site decks, generally using one of each owned card plus selected multiples. It excludes Lidless Eye, White Hand and Balrog.
 - This is a meaningful solo-method comparison but not an exact decklist: no card-by-card quantities, spreadsheet or downloadable deck file were verified. It must not be used to change canonical card counts.
-- The original Gandalf Gene workbook remains the canonical quantity source. Its 699 explicit copies still conflict with its published 695 summary.
+- The original Gandalf Gene workbook remains the canonical quantity source. Its 699 explicit copies still conflict with CCG Collector's published 695 community summary.
 - Compared the locally archived MECCG_Card_List.xlsx: 144 catalogue rows, 45 normalized name overlaps, and no rarity values. It is too partial to establish the full pool or override set assignments; it does not resolve quantities.
 - No user decision is required for this research step.
 
