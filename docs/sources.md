@@ -18,6 +18,11 @@ https://cardgamegeek.com/database/decks/27774d75-5a7d-4509-ba89-8cb556f3bfc5
 Independent transcription. It reports 178 entries and notes two missing hazards, so it is a checksum/comparison source rather than a complete authority.
 
 
+### Council of Elrond — Which sets are best for ARDA? (2015–2020 discussion)
+https://councilofelrond.org/forum/viewtopic.php?t=2494
+
+Useful context for interpreting the Gandalf Gene Hero pool. A January 2015 reply distinguishes Hero and Minion Arda as separate pools, recommends a Wizards base with selected Dragons/Dark Minions cards, and cautions against agents in Arda. In June 2020, CCG Collector reports the 377-card / 695-copy summary. Follow-up discussion suggests Dragon Ahunt manifestations and Drakes were omitted from the Gene build because they could be disproportionately punishing in Arda, while the hazard mix was tuned toward Orcs, Trolls and Men. These are community observations, not confirmed author notes or official rulings; they help distinguish deliberate pool curation from missing-card errors.
+
 ### BoardGameGeek — My Solo Arda Build with Session Report
 https://boardgamegeek.com/thread/1058232/my-solo-arda-build-with-session-report
 
