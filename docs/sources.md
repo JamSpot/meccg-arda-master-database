@@ -36,7 +36,7 @@ Useful for card identity, corrected text, errata and current database informatio
 ### BoardGameGeek MECCG files
 https://boardgamegeek.com/boardgame/1915/middle-earth/files
 
-Important archive for downloadable MECCG files. The current archive lists MECCG Card List v1.13 as an XLS (card information, rarity and distribution; dated 6 March 2010), Starter Set Decks Lists as an XLS, and an **Arda deck example as an XLS spreadsheet** (Jose-san, listed as approximately 13 years old). The same archive separately lists Arda rules and solo/player-aid PDFs. This corrects the earlier PDF label; the XLS attachment contents still need to be obtained and parsed.
+Important archive for downloadable MECCG files. The current archive lists MECCG Card List v1.13 as an XLS (card information, rarity and distribution; dated 6 March 2010), Starter Set Decks Lists as an XLS, and an **Arda deck example as an XLS spreadsheet** (Jose-san, listed as approximately 13 years old). The same archive separately lists Arda rules and solo/player-aid PDFs. This corrects the earlier PDF label; a local ARDA.xls workbook in the project Library has now been parsed: it contains 370 unique card names with 691 ARDA copies. Its Excel metadata says last saved by Jose San Miguel, so it is a high-confidence candidate for the BGG Jose-san entry, although a binary hash match to the BGG attachment is still outstanding. The 322 Hero/Neutral/Avatar rows total 623 copies; Minion-alignment rows are excluded from this project's Hero comparison.
 
 
 ### BoardGameGeek Arda rules and player aids — checked 30 October 2026
@@ -107,9 +107,27 @@ Targeted checks of the [Council of Elrond cards.json](https://raw.githubusercont
 
 ### Latest source-watch note
 
-[Source watch — 30 October 2026](research-watch-2026-10-30.html) adds the 2014 Arda Revised rulebook, the 2023–24 Hero compiled ruleset, Thorin's 2023 treasure-travel aid, the 2022 Spanish solo-Arda variant, and corrects the BGG Arda deck example's format to XLS.
+[Source watch — 31 October 2026](research-watch-2026-10-31.html) adds the 2014 Arda Revised rulebook, the 2023–24 Hero compiled ruleset, Thorin's 2023 treasure-travel aid, the 2022 Spanish solo-Arda variant, and corrects the BGG Arda deck example's format to XLS.
 
 Previous watches: [29 October 2026](research-watch-2026-10-29.html), [28 October 2026](research-watch-2026-10-28.html), [27 October 2026](research-watch-2026-10-27.html), [26 October 2026](research-watch-2026-10-26.html), [25 October 2026](research-watch-2026-10-25.html) and [24 October 2026](research-watch-2026-10-24.html)
+
+
+
+### CCG Collector — published Gandalf Gene quantity summary (3 June 2020)
+
+[Council of Elrond thread: Which sets are best for ARDA?](https://councilofelrond.org/forum/viewtopic.php?t=2494)
+
+CCG Collector reports the Gandalf Gene Hero list as 377 distinct cards / 695 physical copies, with expansion identity counts of 300 METW, 59 METD, 14 MEDM, 2 MELE and 1 MEBA. The expansion subtotals sum to 376. This is the source of the project's 695-copy comparison figure; it is not the static Desglose table in the 2016 workbook.
+
+### Jose-san — Arda deck example XLS (parsed 31 October 2026)
+
+The BGG archive lists an **Arda deck example — XLS** by Jose-san. The local project Library's ARDA.xls was parsed and contains 370 unique card names / 691 copies across its full alignment mix. The workbook metadata says it was last saved by Jose San Miguel. This is a high-confidence candidate for the BGG entry, but the original BGG attachment binary has not yet been hash-compared.
+
+For this Hero-only project, the 48 Minion-alignment rows / 68 copies are excluded. The remaining Hero, Neutral and Avatar subset contains 322 names / 623 copies. The [card-by-card comparison CSV](../data/jose-san-hero-arda-pool-comparison.csv) compares those rows with Gandalf Gene quantities; it does not merge the pools.
+
+### La BSK — SATM partida en solitario (2014–2017)
+
+[Forum thread](https://labsk.net/index.php?topic=126528.30) started 28 January 2014. A 2014 post describes a personal Arda pool from The Wizards, The Dragons and Dark Minions, generally one copy per card except commons/uncommons at three copies, played solo with Callasmar's rules. A 4 June 2017 post by Borja links a [Google Docs card list](https://docs.google.com/document/d/1XSkyc_lnn0av7pbvqs814zlwN4kZSs4hKaNm00nm5Rw/edit?usp=sharing) and the [Callasmar solo-Arda rules file](https://boardgamegeek.com/filepage/87333/variante-a-las-reglas-arda-para-jugar-en-solitario). The forum states the list was used only for solo play. The Google Doc could not be extracted automatically (HTTP 410), so no card quantities were adopted.
 
 
 ## Source hierarchy
