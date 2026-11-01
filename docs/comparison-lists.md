@@ -73,3 +73,18 @@ Keep this source separate from both Gandalf Gene's canonical 423-card Arda Play 
 [Published Arda Rules 4.0 PDF](https://lureofmiddleearth.com/wp-content/uploads/2016/03/arda_4.0_en.pdf) describes shared-deck Arda for 2–7 players. Its general construction guidance is a 250+ Play Deck with equal numbers of resources and hazards, an MP deck of at least 15 cards per player (often around 100), around 70 characters in the Roving Character Deck for larger games, and a 30–35 card Minor Item Offering Deck.
 
 This is a rules baseline, not an exact list. The current Gandalf Gene transcription has 423 Play Deck cards split into 171 resources and 252 creatures/hazards, so it does not follow the generic 1:1 recommendation. Keep that difference visible; do not normalize the canonical list without primary-source evidence. This multiplayer Arda ruleset is also distinct from the experimental 2013 solo-Arda adaptation and from constructed-deck solo play.
+
+
+## BanalityBob — community Arda spreadsheet (2020)
+
+[Council of Elrond post](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=4324) links the [MECCG Arda Deck spreadsheet](https://docs.google.com/spreadsheets/d/1a_32IVLD7SkX6A8fqVsAz95i67HtcxAb4VZYuvxg8ns/edit?usp=sharing). The author describes separate resource and hazard decks, individual themed hazard decks, different ring handling and no Underdeep sites. This is a genuine list lead, but the sheet's card rows could not be extracted in this pass. Keep it unquantified until a workbook export is available; do not infer counts from the author's rules description.
+
+## Northern Exposure — three-player avatarless Hero Dream Card Arda (2025)
+
+[Council of Elrond source list](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=5233) gives explicit per-card quantities and set codes for a large, themed Dream Card build. Its section labels are: 25 starting-pool cards; 94 characters; 161 MP-deck cards; 50 roving minor items; 313 play-deck cards; and 95 sideboard cards. These sum to 738 listed copies across all labelled sections, including sideboard. The source says the game is for three players, uses no avatars, treats every character as Hero (including agents), restricts most site travel to the Northern Waste, and calls the Council at 25 MP. The list was followed by a note that the author was reworking it after two test games, without a replacement list being posted.
+
+This is a useful fully itemized comparison list, but it is a Dream Card / expanded-set variant, not a conventional Hero Arda card pool. Its numerous non-ICE set codes and fan-made cards must not be treated as physical acquisition requirements. No expansion totals have been imported into the canonical dataset; the raw list still needs a careful set-code normalization and version-status audit.
+
+## 2024 Arda variants — rules, not quantities
+
+The [ARDA VARIANTS thread](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=4992) records differences between the Basic Game, Gandalf Gene's house rules, a Wizards-of-Middle-Earth variant and a Winter/Lure 2024 variant. It links two PDFs: [Intro Game](https://www.councilofelrond.org/forum/download/file.php?id=4315) and [Arda_eng](https://www.councilofelrond.org/forum/download/file.php?id=4286). These should be compared as rules variants, not used as evidence for card quantities.
