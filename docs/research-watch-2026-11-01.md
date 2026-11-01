@@ -23,15 +23,15 @@ The published snapshot labels these sections:
 
 | Section | Listed cards |
 |---|---:|
-| Starting pool | 25 |
+| Starting pool | 26 |
 | Character pool | 94 |
 | MP deck | 161 |
 | Roving minor-item deck | 50 |
 | Play deck | 313 |
 | Sideboard | 95 |
-| **All labelled sections** | **738** |
+| **All labelled sections** | **739** |
 
-The 738 total is a simple sum of the source's section labels and includes the sideboard. It is not a canonical Arda total and should not be compared directly with Gandalf Gene's deck without matching scope and pile definitions.
+The 739 total is a simple sum of the source's section labels and includes the sideboard. It is not a canonical Arda total and should not be compared directly with Gandalf Gene's deck without matching scope and pile definitions.
 
 The list has per-card quantities and expansion codes. The rules describe a three-player, avatarless Hero game; all characters, including agents, count as Hero characters; most new-site travel is restricted to the Northern Waste; players draft faction-specific starting resources; the Council can be called at 25 MP; and the variant has six roving characters rather than the usual four. The list uses many Dream Card sets and fan-made cards, including codes such as NW, DF, FB, GW, ML, RS, NE, CP and others alongside original ICE sets.
 
