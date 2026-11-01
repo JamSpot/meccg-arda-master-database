@@ -7,7 +7,7 @@ title: Card inventory
 
 **Download the card-by-card inventory:** [gandalf-gene-arda-card-inventory.csv](../data/gandalf-gene-arda-card-inventory.csv)
 
-The CSV is a spreadsheet-ready working inventory with source-row references. Five expansion assignments have been cross-checked against an independent card catalogue: Army of the Dead and The White Tree are METW; Peril Returned is METD; Uruk-Lieutenant and Wild Trolls are MELE. The original extracted assignments are preserved in each affected row's notes. This improves the expansion breakdown without changing any quantity.
+The CSV is a spreadsheet-ready working inventory with source-row references. Expansion and rarity metadata have been checked against the full MECCG Card List v1.13 catalogue. Army of the Dead and The White Tree are METW; Peril Returned is METD; Uruk-Lieutenant and Wild Trolls are MELE. The audit also corrected Peath, Ambusher, Uruk-Lieutenant and Wild Trolls rarity metadata. These are metadata corrections only; no source quantities changed. The original extracted assignments are preserved in each affected row's notes. This improves the expansion breakdown without changing any quantity.
 
 ## Current working totals
 
@@ -28,7 +28,7 @@ The published expansion subtotals (300 METW + 59 METD + 14 MEDM + 2 MELE + 1 MEB
 
 - CCG Collector's 3 June 2020 Council of Elrond post reports **695 physical copies**, while the explicit Gene rows still sum to **699**. The four-copy difference remains unresolved. The Gene workbook's static Desglose tab totals **691**, but its categories match the separate Jose-san pool (including Minion categories absent from the Gene rows), so it is treated as stale rather than as the Gene summary.
 - Army of the Dead and The White Tree have blank quantity cells. Their expansions are known; their quantities are not.
-- Rarity remains blank in the extraction for Uruk-Lieutenant and Wild Trolls; this pass verified their expansion only.
+- The v1.13 catalogue audit also corrected rarity metadata without changing quantities: Peath is Fixed (not Uncommon), Ambusher is Common (not Uncommon), Uruk-Lieutenant is Rare, and Wild Trolls is Common. See the [catalogue audit CSV](../data/catalogue-v1-13-audit.csv) for the source-versus-catalogue trail.
 - Owned quantity and quantity-to-acquire fields are blank. They must not be treated as zero or as a statement about the user's collection.
 - The independent catalogue is a card-identity/set cross-check, not an Arda quantity source. The Council of Elrond card database remains the preferred current reference for card text and errata.
 
