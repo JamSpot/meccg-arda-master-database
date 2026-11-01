@@ -125,9 +125,9 @@ Targeted checks of the [Council of Elrond cards.json](https://raw.githubusercont
 
 ### Latest source-watch note
 
-[Source watch — 31 October 2026](research-watch-2026-10-31.html) adds the 2014 Arda Revised rulebook, the 2023–24 Hero compiled ruleset, Thorin's 2023 treasure-travel aid, the 2022 Spanish solo-Arda variant, and corrects the BGG Arda deck example's format to XLS.
+[Source watch — 1 November 2026](research-watch-2026-11-01.html) adds the itemized 2025 Northern Exposure Dream Card Hero-Arda variant, BanalityBob's public Arda spreadsheet, and the 2024 Arda Variants comparison thread with two downloadable rules PDFs. These are separately labelled variants and do not change the canonical Gandalf Gene quantities.
 
-Previous watches: [29 October 2026](research-watch-2026-10-29.html), [28 October 2026](research-watch-2026-10-28.html), [27 October 2026](research-watch-2026-10-27.html), [26 October 2026](research-watch-2026-10-26.html), [25 October 2026](research-watch-2026-10-25.html) and [24 October 2026](research-watch-2026-10-24.html)
+Previous watches: [31 October 2026](research-watch-2026-10-31.html), [29 October 2026](research-watch-2026-10-29.html), [28 October 2026](research-watch-2026-10-28.html), [27 October 2026](research-watch-2026-10-27.html), [26 October 2026](research-watch-2026-10-26.html), [25 October 2026](research-watch-2026-10-25.html) and [24 October 2026](research-watch-2026-10-24.html)
 
 
 
@@ -146,6 +146,23 @@ For this Hero-only project, the 48 Minion-alignment rows / 68 copies are exclude
 ### La BSK — SATM partida en solitario (2014–2017)
 
 [Forum thread](https://labsk.net/index.php?topic=126528.30) started 28 January 2014. A 2014 post describes a personal Arda pool from The Wizards, The Dragons and Dark Minions, generally one copy per card except commons/uncommons at three copies, played solo with Callasmar's rules. A 4 June 2017 post by Borja links a [Google Docs card list](https://docs.google.com/document/d/1XSkyc_lnn0av7pbvqs814zlwN4kZSs4hKaNm00nm5Rw/edit?usp=sharing) and the [Callasmar solo-Arda rules file](https://boardgamegeek.com/filepage/87333/variante-a-las-reglas-arda-para-jugar-en-solitario). The forum states the list was used only for solo play. The Google Doc could not be extracted automatically (HTTP 410), so no card quantities were adopted.
+
+
+### Council of Elrond — BanalityBob's Arda (2020)
+
+[Forum post](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=4324) links a public [MECCG Arda Deck Google Sheet](https://docs.google.com/spreadsheets/d/1a_32IVLD7SkX6A8fqVsAz95i67HtcxAb4VZYuvxg8ns/edit?usp=sharing) and a separate rules document. The author describes a community variant with non-standard character and minor-item choices, separate resource and hazard decks, themed hazard decks for each player, altered ring handling and no Underdeep sites. The spreadsheet opens as view-only, but its rows were not extractable through the current browser session; no card counts or expansion totals are adopted. Treat it as a distinct variant, not a replacement for Gandalf Gene.
+
+### Council of Elrond — ARDA with DCs: Northern Exposure (2025)
+
+[Forum thread](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=5233) is a fully itemized **three-player, avatarless Hero-alignment Dream Card Arda** build. The July–August 2025 posts give per-card quantities and expansion/set codes for a starting pool, character pool, MP deck, roving minor-item deck, play deck and sideboard. The published section labels total 25 starting-pool cards, 94 characters, 161 MP-deck cards, 50 minor items, 313 play-deck cards and 95 sideboard cards (738 listed copies if all sections are counted). The author added a note on 8 August 2025 that the build was being reworked after two tests, but no replacement card list is posted. It includes many Dream Card sets and treats all characters, including agents, as Hero characters. This is an important separately labelled comparison source, but not a standard physical-card Arda pool; its set-code quantities have not been normalized into the master CSV.
+
+### Council of Elrond — ARDA VARIANTS and Intro Game (2024)
+
+[ARDA VARIANTS thread](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=4992) compares the Arda Basic Game, Gandalf Gene's original house rules, a Wizards-of-Middle-Earth house variant and a Winter/Lure 2024 variant. It also links two downloadable rules PDFs: [arda_intro_game.pdf](https://www.councilofelrond.org/forum/download/file.php?id=4315) (127.6 KiB), an introductory variant with each MP card paired to a site, and [Arda_eng.pdf](https://www.councilofelrond.org/forum/download/file.php?id=4286) (67.33 KiB), a play-group rules variant. These are rules sources, not card-quantity sources. The thread is useful for recording rule differences without conflating them with the canonical deck.
+
+### Council of Elrond — Arda Expanded World custom cards (2010)
+
+[Arda Expanded World thread](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=1345) documents custom MSE cards for characters, unique and non-unique resources, and hazards. A 1.77 MiB character ZIP remains attached to the thread; the original PDF links used MegaUpload and are obsolete, with the author pointing users to an SVN/MSE source. These are custom fan-made additions rather than original ICE expansion cards, so they remain outside the genuine physical-card inventory and are not merged into the standard Hero pool.
 
 
 ## Source hierarchy
