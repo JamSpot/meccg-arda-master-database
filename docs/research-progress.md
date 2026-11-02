@@ -1,7 +1,7 @@
 # Research Progress
 
 ## Current stage
-The original Gandalf Gene workbook and a separate Jose-san Arda workbook are now parsed and compared. The full local MECCG Card List v1.13 catalogue has also been parsed: 1,722 card records across 10 set codes. All 377 Gene rows match after a title alias and metadata corrections; all 370 Jose-san rows match by name, set, type and alignment. The canonical Gene inventory remains 699 explicit copies, versus CCG Collector's independent 695-copy community summary. The Gene workbook's static Desglose tab totals 691 and appears stale: its categories match the Jose-san pool, including Minion categories absent from the Gene card rows. The priority is now the four-copy quantity reconciliation and retrieval of the no-rares sample XLS. The Council of Elrond Rules Committee cards.json and changes-guide.xlsx are now recorded as the current errata/text reference, while the MeCCG downloads page and independent metw.net/CollecCards catalogues provide additional metadata cross-checks.
+The original Gandalf Gene workbook and a separate Jose-san Arda workbook are now parsed and compared. The full local MECCG Card List v1.13 catalogue has also been parsed: 1,722 named entries across 10 set codes, of which 1,674 have original ICE card IDs across the seven official card expansions; 48 N/A-ID entries are sourcebook scenario/site material and are excluded from the physical-card inventory. All 377 Gene rows match after a title alias and metadata corrections; all 370 Jose-san rows match by name, set, type and alignment. The canonical Gene inventory remains 699 explicit copies, versus CCG Collector's independent 695-copy community summary. The Gene workbook's static Desglose tab totals 691 and appears stale: its categories match the Jose-san pool, including Minion categories absent from the Gene card rows. The priority is now the four-copy quantity reconciliation and retrieval of the no-rares sample XLS. The Council of Elrond Rules Committee cards.json and changes-guide.xlsx are now recorded as the current errata/text reference, while the MeCCG downloads page and independent metw.net/CollecCards catalogues provide additional metadata cross-checks.
 
 ## Confirmed from the extracted Gandalf Gene workbook
 - 377 named card rows after excluding title/header structure.
@@ -33,7 +33,7 @@ The original Gandalf Gene workbook and a separate Jose-san Arda workbook are now
 
 - Identified a downloadable 83.5 KiB bilingual Arda Sample Deck_no rares.xls by Thorondor (20 July 2015), a low-rarity METW/METD/MEDM comparison pool. The attachment is listed but not yet retrievable for row-level extraction.
 
-- Parsed the full local MECCG Card List v1.13 workbook (1,722 records / 10 set codes) and matched all 377 Gandalf Gene rows and all 370 Jose-san rows; corrected six Gene metadata exceptions, added `data/catalogue-v1-13-audit.csv`, and marked every inventory row's catalogue match status without changing quantities.
+- Parsed the full local MECCG Card List v1.13 workbook (1,674 official card-ID rows across seven ICE expansions; 48 N/A-ID sourcebook entries excluded) and matched all 377 Gandalf Gene rows and all 370 Jose-san rows; corrected six Gene metadata exceptions, added `data/catalogue-v1-13-audit.csv`, and marked every inventory row's catalogue match status without changing quantities.
 
 ## Latest source-watch result — 2 November 2026
 
