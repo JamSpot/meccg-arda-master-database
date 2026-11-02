@@ -1,7 +1,7 @@
 # Research Progress
 
 ## Current stage
-The original Gandalf Gene workbook and a separate Jose-san Arda workbook are now parsed and compared. The full local MECCG Card List v1.13 catalogue has also been parsed: 1,722 card records across 10 set codes. All 377 Gene rows match after a title alias and metadata corrections; all 370 Jose-san rows match by name, set, type and alignment. The canonical Gene inventory remains 699 explicit copies, versus CCG Collector's independent 695-copy community summary. The Gene workbook's static Desglose tab totals 691 and appears stale: its categories match the Jose-san pool, including Minion categories absent from the Gene card rows. The priority is now the four-copy quantity reconciliation and retrieval of the no-rares sample XLS.
+The original Gandalf Gene workbook and a separate Jose-san Arda workbook are now parsed and compared. The full local MECCG Card List v1.13 catalogue has also been parsed: 1,722 card records across 10 set codes. All 377 Gene rows match after a title alias and metadata corrections; all 370 Jose-san rows match by name, set, type and alignment. The canonical Gene inventory remains 699 explicit copies, versus CCG Collector's independent 695-copy community summary. The Gene workbook's static Desglose tab totals 691 and appears stale: its categories match the Jose-san pool, including Minion categories absent from the Gene card rows. The priority is now the four-copy quantity reconciliation and retrieval of the no-rares sample XLS. The Council of Elrond Rules Committee cards.json and changes-guide.xlsx are now recorded as the current errata/text reference, while the MeCCG downloads page and independent metw.net/CollecCards catalogues provide additional metadata cross-checks.
 
 ## Confirmed from the extracted Gandalf Gene workbook
 - 377 named card rows after excluding title/header structure.
@@ -20,7 +20,7 @@ The original Gandalf Gene workbook and a separate Jose-san Arda workbook are now
 - Published the [card-by-card working inventory](card-inventory.html) and [downloadable CSV](../data/gandalf-gene-arda-card-inventory.csv).
 - Added the [24 October 2026 source watch](research-watch-2026-10-24.html), including the Samwise deckbuilding tool and BGG file-format clarification.
 - Added the [25 October 2026 source watch](research-watch-2026-10-25.html), documenting direct MeCCG catalogue downloads for independent card identity, expansion and rarity checks.
-- Added the [26 October 2026 source watch](research-watch-2026-10-26.html), documenting the separate 888-card Dream Cards Arda list and distinguishing its role from the canonical pool.
+- Added the [26 October 2026 source watch](research-watch-2026-10-26.html); its earlier non-standard variant material was removed from active research on 2 November under the official-ICE-only scope.
 - Added the [27 October 2026 source watch](research-watch-2026-10-27.html), verifying current official card database download artifacts, tracking recent BGG Arda discussion leads, and recording three independent expansion corrections.
 - Added the [28 October 2026 source watch](research-watch-2026-10-28.html), documenting a previously untracked 2013 solo-Arda build with a session report and comparing its pile structure with the canonical format.
 - Added the [29 October 2026 source watch](research-watch-2026-10-29.html), documenting Arda Rules 4.0's general pile-sizing guidance, contrasting it with the 423-card Gandalf Gene Play Deck, and adding five targeted CoE card-metadata checks to the inventory.
@@ -35,7 +35,17 @@ The original Gandalf Gene workbook and a separate Jose-san Arda workbook are now
 
 - Parsed the full local MECCG Card List v1.13 workbook (1,722 records / 10 set codes) and matched all 377 Gandalf Gene rows and all 370 Jose-san rows; corrected six Gene metadata exceptions, added `data/catalogue-v1-13-audit.csv`, and marked every inventory row's catalogue match status without changing quantities.
 
-## Latest source-watch result — 31 October 2026
+## Latest source-watch result — 2 November 2026
+
+- Added the Council of Elrond Rules Committee's current cards database: 4,163,611-byte cards.json and 22,147-byte changes-guide.xlsx. The latest repository commit is 19 May 2026 (“CRF 22 applied”); its README says approximately 300 card texts have been updated. This is the current errata/text reference, not an Arda quantity source or literal original-print transcription.
+- Added direct MeCCG.com downloads: the MeCCG List of Cards XLS, character-list XLSX, Challenge Decks ZIP, full spoiler PDF, fixed-set PDF and Challenge Deck player aid PDF. These are catalogue or product references, not new Arda quantity lists.
+- Added metw.net's seven expansion cardlist PDFs. Their stated totals are METW 484, METD 180, MEDM 180, MELE 417, MEBA 104, MEWH 122 and MEAS 170. They provide historical card-category and rarity/distribution checks, not Arda quantities.
+- Added CollecCards' searchable English catalogue with set code, name, rarity, type and notes. Repeated entries include alignment-specific versions and Challenge Deck entries; they are not quantities to sum.
+- Rechecked current searches for new standard Arda decklists. No new standard Hero Arda XLS/deck file was verified. BanalityBob's spreadsheet and Thorondor's no-rares XLS remain the highest-priority unparsed list leads.
+- Enforced the user's scope: original, officially published ICE cards only. Dream Cards, fan-made/custom cards, unreleased cards and proxies are excluded. No quantities have been changed.
+- Canonical Gandalf Gene quantities remain METW 552, METD 108, MEDM 32, MELE 6 and MEBA 1 = 699. The four-copy difference versus CCG Collector's 695 remains unresolved.
+
+## Previous source-watch result — 31 October 2026
 - Parsed the local ARDA.xls workbook, a high-confidence candidate for BGG's Jose-san Arda deck example XLS. It has 370 unique names / 691 copies across all alignments.
 - Excluded 48 Minion-alignment rows / 68 copies from the project's Hero comparison. The Hero/Neutral/Avatar subset has 322 names / 623 copies, with expansion totals METW 410, METD 126, MEDM 48, MELE 12, MEAS 18, MEWH 6 and MEBA 3.
 - Compared the subset with Gandalf Gene: 242 shared names, 80 Jose-only, 134 Gene-only and 29 shared-name quantity differences. Added a downloadable card-by-card comparison CSV.
