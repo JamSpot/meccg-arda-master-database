@@ -59,7 +59,7 @@ Important archive for downloadable MECCG files. The current archive lists MECCG 
 
 
 ### MECCG Card List v1.13 — full catalogue copy
-A 1.58 MB local workbook named `MECCG.xls` is available in the project Library. Its embedded metadata identifies **Version 1.13**, dated 6 March 2010, matching the BGG archive listing. It contains 1,722 card records across 10 set codes and provides English card names, set/type/alignment, card IDs and rarity/distribution fields. It was used to cross-check 377 Gandalf Gene source rows and all 370 Jose-san ARDA rows. It is a card-identity/metadata source, not an Arda quantity source. The audit exceptions are recorded in [catalogue-v1-13-audit.csv](../data/catalogue-v1-13-audit.csv).
+A 1.58 MB local workbook named `MECCG.xls` is available in the project Library. Its embedded metadata identifies **Version 1.13**, dated 6 March 2010, matching the BGG archive listing. It contains 1,722 named entries across 10 set codes, but only 1,674 have original ICE card IDs across the seven official card expansions. The remaining 48 entries have N/A IDs and come from three ICE sourcebooks: 16 Hands of the Healer scenario entries, 16 A Long-Expected Party site-map entries and 16 Northern Waste site entries. They are not standard printed MECCG card records and are excluded from the physical-card master inventory. The seven eligible set counts are METW 492, METD 184, MEDM 183, MELE 419, MEAS 170, MEWH 122 and MEBA 104. It was used to cross-check 377 Gandalf Gene source rows and all 370 Jose-san ARDA rows. See the [v1.13 set-code audit CSV](../data/catalogue-v1-13-set-audit.csv) and [card-level catalogue audit](../data/catalogue-v1-13-audit.csv).
 
 ### BoardGameGeek Arda rules and player aids — checked 30 October 2026
 
