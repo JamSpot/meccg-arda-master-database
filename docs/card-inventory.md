@@ -9,6 +9,8 @@ title: Card inventory
 
 The CSV is a spreadsheet-ready working inventory with source-row references. Expansion and rarity metadata have been checked against the full MECCG Card List v1.13 catalogue. Army of the Dead and The White Tree are METW; Peril Returned is METD; Uruk-Lieutenant and Wild Trolls are MELE. The audit also corrected Peath, Ambusher, Uruk-Lieutenant and Wild Trolls rarity metadata. These are metadata corrections only; no source quantities changed. The original extracted assignments are preserved in each affected row's notes. This improves the expansion breakdown without changing any quantity.
 
+The v1.13 reference workbook contains 1,674 rows with original ICE card IDs across the seven official expansions. Its 48 additional N/A-ID entries belong to sourcebook scenario/site material from Hands of the Healer, A Long-Expected Party and The Northern Waste; they are excluded from this physical-card inventory. See the [v1.13 set-code audit](../data/catalogue-v1-13-set-audit.csv). Dream Cards and all fan-made/custom or unreleased cards are outside the project's scope.
+
 ## Current working totals
 
 | Expansion | Distinct cards with numeric quantities | Explicit physical copies |
