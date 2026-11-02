@@ -1,0 +1,12 @@
+set_code,source_title,listed_entries_with_set_code,entries_with_official_card_id,physical_card_inventory_status,notes
+METW,The Wizards,492,492,Include,Original ICE card expansion
+METD,The Dragons,184,184,Include,Original ICE card expansion
+MEDM,Dark Minions,183,183,Include,Original ICE card expansion
+MELE,The Lidless Eye,419,419,Include,Original ICE card expansion
+MEAS,Against the Shadow,170,170,Include,Original ICE card expansion
+MEWH,The White Hand,122,122,Include,Original ICE card expansion
+MEBA,The Balrog,104,104,Include,Original ICE card expansion
+MEHH,Hands of the Healer,16,0,Exclude,14 site entries plus 1 resource item and 1 resource event; all have N/A card IDs and are sourcebook scenario material
+MELP,A Long-Expected Party,16,0,Exclude,16 site-map entries; all have N/A card IDs and are not a standard printed card expansion
+MENW,The Northern Waste,16,0,Exclude,16 site entries; all have N/A card IDs and the sourcebook states these locations are not official MECCG cards as published
+TOTAL,All listed entries,1722,1674,48 excluded,Only the seven original ICE card expansions are eligible for the physical-card master inventory
