@@ -56,8 +56,8 @@ These are pool/category totals, not a claim that all cards belong to the canonic
 
 [La BSK: SATM partida en solitario](https://labsk.net/index.php?topic=126528.30) includes a 2014 pool-building description and a 4 June 2017 follow-up. The described pool uses The Wizards, The Dragons and Dark Minions; one copy of each card except commons/uncommons at three copies; and Callasmar's solo-Arda rules. Borja's 2017 post links a [Google Docs card list](https://docs.google.com/document/d/1XSkyc_lnn0av7pbvqs814zlwN4kZSs4hKaNm00nm5Rw/edit?usp=sharing) and the [solo-Arda rules file](https://boardgamegeek.com/filepage/87333/variante-a-las-reglas-arda-para-jugar-en-solitario). He says he had only played the pool solo. The Google Doc could not be extracted automatically, so this remains a separate source lead, not a quantity authority.
 
-## Later variants
-Later cooperative, revised, dream-card and community Arda projects remain separated from the canonical dataset.
+## Scope boundary
+Only original, officially published ICE Middle-earth CCG cards are eligible for comparison or quantity totals. Dream Cards, fan-made/custom cards, unreleased cards and proxies are excluded from this project entirely.
 
 
 ## 2013 — My Solo Arda Build with Session Report
@@ -78,12 +78,6 @@ This is a rules baseline, not an exact list. The current Gandalf Gene transcript
 ## BanalityBob — community Arda spreadsheet (2020)
 
 [Council of Elrond post](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=4324) links the [MECCG Arda Deck spreadsheet](https://docs.google.com/spreadsheets/d/1a_32IVLD7SkX6A8fqVsAz95i67HtcxAb4VZYuvxg8ns/edit?usp=sharing). The author describes separate resource and hazard decks, individual themed hazard decks, different ring handling and no Underdeep sites. This is a genuine list lead, but the sheet's card rows could not be extracted in this pass. Keep it unquantified until a workbook export is available; do not infer counts from the author's rules description.
-
-## Northern Exposure — three-player avatarless Hero Dream Card Arda (2025)
-
-[Council of Elrond source list](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=5233) gives explicit per-card quantities and set codes for a large, themed Dream Card build. Its section labels are: 26 starting-pool cards; 94 characters; 161 MP-deck cards; 50 roving minor items; 313 play-deck cards; and 95 sideboard cards. These sum to 739 listed copies across all labelled sections, including sideboard. The source says the game is for three players, uses no avatars, treats every character as Hero (including agents), restricts most site travel to the Northern Waste, and calls the Council at 25 MP. The list was followed by a note that the author was reworking it after two test games, without a replacement list being posted.
-
-This is a useful fully itemized comparison list, but it is a Dream Card / expanded-set variant, not a conventional Hero Arda card pool. Its numerous non-ICE set codes and fan-made cards must not be treated as physical acquisition requirements. No expansion totals have been imported into the canonical dataset; the raw list still needs a careful set-code normalization and version-status audit.
 
 ## 2024 Arda variants — rules, not quantities
 
