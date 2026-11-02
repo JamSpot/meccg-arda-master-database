@@ -28,6 +28,8 @@ Create an auditable card-level inventory for the canonical Gandalf Gene Hero Ard
 - Do not replace the source's rarity or expansion silently with a modern database value.
 - Preserve raw source fields separately from normalized/verified fields.
 - Keep canonical Gene membership separate from later Arda variants.
+- The physical-card master is limited to the seven original ICE card expansions: METW, METD, MEDM, MELE, MEAS, MEWH and MEBA. Exclude Dream Cards, fan-made/custom cards, unreleased material, sourcebook map/site entries without official card IDs, and proxies.
+- The v1.13 workbook has 48 additional N/A-ID entries from Hands of the Healer, A Long-Expected Party and The Northern Waste sourcebooks. They are scenario/map references, not standard printed MECCG card records; see the [v1.13 set-code audit](../data/catalogue-v1-13-set-audit.csv).
 - A card can have verified identity but unresolved deck quantity.
 - Do not treat the provisional acquisition list as final until the 699 explicit Gene copies versus CCG Collector's 695-copy community summary is reconciled. The Gene Desglose tab's 691 total is stale and is not the source of 695.
 - Never mark a card as owned without user confirmation.
