@@ -83,7 +83,7 @@ The original Gandalf Gene workbook and a separate Jose-san Arda workbook are now
 - Corrected distinct-card counts now align with the published expansion subtotals at 376 unique identities. The headline 377 likely counts duplicate Nenseldë twice. The physical-copy total remains 699 versus the published 695.
 
 ## Previous source-watch result — 26 October 2026
-- Documented the 888-card “The Houses of the North” Arda list on Council of Elrond. It is an itemized forum post last edited 30 July 2025, but includes Dream Cards, optional UEPs and unreleased-set experiments; it remains a separately labelled variant, not part of the canonical standard Hero pool.
+- The earlier 26 October source-watch entry for non-physical/custom Arda material has been superseded by a scope correction. Such material is no longer catalogued or compared in this project.
 - Reconfirmed the available downloads: BGG's MECCG Card List v1.13 XLS and Starter Set Decks Lists XLS, BGG's Arda example PDF, plus MeCCG's direct card catalogue XLS, Full Spoiler PDF and Fixed Sets PDF.
 - No new standard Hero Arda quantity source resolves the discrepancy. Explicit quantities remain 699 versus the published 695.
 
