@@ -7,37 +7,9 @@ title: Source watch — 1 November 2026
 
 ## Summary
 
-This pass found three additional Arda sources worth preserving in the project record:
+This pass identified BanalityBob's public Arda spreadsheet and the 2024 Arda Variants discussion with two downloadable rules PDFs. On 2 November, the project scope was tightened to original, officially published ICE cards only; previously noted Dream Card and custom-card material has been removed from active comparison. No quantities were changed.
 
-1. **Northern Exposure (2025)** — a fully itemized three-player, avatarless Hero Dream Card Arda list, with per-card quantities and set codes across its pools, MP deck, minor-item deck, play deck and sideboard.
-2. **BanalityBob's Arda (2020)** — a public Google Sheets deck list linked from the Council of Elrond, with separate resource/hazard decks and themed hazard decks for each player.
-3. **ARDA VARIANTS (2024)** — a comparison of several house-rule variants, with two attached rules PDFs.
-
-These do not replace or change the canonical Gandalf Gene Hero Arda pool. The new card lists are variants, and neither has yet yielded a validated, expansion-normalized quantity table suitable for the physical-card inventory.
-
-## 1. Northern Exposure — itemized Hero Dream Card Arda
-
-The [Council of Elrond thread](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=5233) is titled **ARDA with DCs - Northern Exposure (3-player avatarless hero alignment)**. It was posted on 30 July 2025, with the list revised through 6 August 2025 and a further note on 8 August 2025 saying the author was reworking it after two test games.
-
-The published snapshot labels these sections:
-
-| Section | Listed cards |
-|---|---:|
-| Starting pool | 26 |
-| Character pool | 94 |
-| MP deck | 161 |
-| Roving minor-item deck | 50 |
-| Play deck | 313 |
-| Sideboard | 95 |
-| **All labelled sections** | **739** |
-
-The 739 total is a simple sum of the source's section labels and includes the sideboard. It is not a canonical Arda total and should not be compared directly with Gandalf Gene's deck without matching scope and pile definitions.
-
-The list has per-card quantities and expansion codes. The rules describe a three-player, avatarless Hero game; all characters, including agents, count as Hero characters; most new-site travel is restricted to the Northern Waste; players draft faction-specific starting resources; the Council can be called at 25 MP; and the variant has six roving characters rather than the usual four. The list uses many Dream Card sets and fan-made cards, including codes such as NW, DF, FB, GW, ML, RS, NE, CP and others alongside original ICE sets.
-
-**Database treatment:** retain as a separate expanded/Dream Card comparison source. Do not merge its counts into the standard Hero Arda pool or turn its custom-set cards into physical acquisition requirements. Its August 8 rework note means the posted July/August list should be treated as a dated snapshot, not necessarily the author's final tested build. An expansion-by-expansion normalization remains to be done if this variant becomes a project priority.
-
-## 2. BanalityBob's Arda — public spreadsheet lead
+## 1. BanalityBob's Arda — public spreadsheet lead
 
 The [Council of Elrond post](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=4324) (16 September 2020) links a public [MECCG Arda Deck Google Sheet](https://docs.google.com/spreadsheets/d/1a_32IVLD7SkX6A8fqVsAz95i67HtcxAb4VZYuvxg8ns/edit?usp=sharing) and a separate rules document.
 
@@ -45,7 +17,7 @@ The author says the variant uses non-standard character and minor-item choices, 
 
 The sheet opened in view-only mode, but the current browser extraction exposed only a small part of its rows. I did not invent a total or adopt any quantities. The next step is to obtain an XLSX/CSV export and compare its card names and quantities against the v1.13 catalogue and the canonical Gene inventory.
 
-## 3. ARDA VARIANTS — rule comparison and downloadable PDFs
+## 2. ARDA VARIANTS — rule comparison and downloadable PDFs
 
 The [Council of Elrond ARDA VARIANTS thread](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=4992), started 1 March 2024, records differences among:
 
@@ -61,13 +33,7 @@ The thread links two rules files:
 
 These are rules references, not card lists. They should be stored as separate variants and not treated as a change to the canonical card pool.
 
-## 4. Arda Expanded World — custom-card boundary
-
-The [2010 Arda Expanded World thread](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=1345) describes custom MSE cards for characters, unique and non-unique resources, and hazards. The thread still exposes a 1.77 MiB character ZIP; the old MegaUpload links for the other categories are obsolete, and the thread points users toward SVN/MSE files.
-
-These are custom fan-made cards rather than original ICE expansion cards. They are outside the genuine physical-card acquisition inventory and should only be considered if a separate custom-card project is explicitly wanted.
-
-## 5. Existing quantity baselines — unchanged
+## 3. Existing quantity baselines — unchanged
 
 ### Gandalf Gene canonical comparison point
 
@@ -99,7 +65,7 @@ The parsed local workbook has 370 unique names / 691 copies across all alignment
 
 The 322-row comparison has 242 names shared with Gandalf Gene, 80 Jose-san-only names, 134 Gene-only names and 29 shared names with different quantities. These lists remain separate builds.
 
-## 6. Downloadable-source status
+## 4. Downloadable-source status
 
 | Source | Format | What it provides | Current status |
 |---|---|---|---|
@@ -107,12 +73,15 @@ The 322-row comparison has 242 names shared with Gandalf Gene, 80 Jose-san-only 
 | Jose-san Arda deck example | XLS | Alternative Arda pool | Local candidate parsed; BGG attachment hash outstanding |
 | Thorondor Arda Sample Deck without Rares | XLS | Beginner/lower-rarity Arda quantities | Attachment located (83.5 KiB); binary still not parsed |
 | BanalityBob's Arda | Google Sheets | Separate resource/hazard and themed-hazard pool | Public sheet located; export/row extraction still needed |
-| Northern Exposure | Forum itemized list | Dream Card Hero variant quantities | Text list readable; no XLS attachment; expansion normalization pending |
 | Arda Intro Game | PDF | Introductory rules variant | Attachment located (127.6 KiB) |
 | Arda_eng | PDF | Play-group Arda rules | Attachment located (67.33 KiB) |
 | Arda Revised | PDF | Revised rules | BGG download |
 | Compiled Arda Ruleset — Hero | PDF | Hero rules compilation | BGG download |
 | MECCG Card List v1.13 | XLS | Full card identity/set/rarity catalogue | Local catalogue parsed; not an Arda quantity source |
+
+## Scope correction — 2 November 2026
+
+Only original, officially published ICE cards are eligible for this project. Dream Cards, fan-made/custom cards, unreleased cards and proxies are excluded. This page no longer treats those materials as comparison sources.
 
 ## Next concrete work
 
