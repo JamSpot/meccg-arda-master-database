@@ -1,5 +1,9 @@
 # Sources & Downloads
 
+## Project scope
+
+Only original, officially published ICE Middle-earth CCG cards are eligible for the master card database and quantity comparisons. Dream Cards, fan-made/custom cards, unreleased cards and proxies are excluded. Minion Arda deck recommendations are out of scope.
+
 ## Primary and high-value sources
 
 ### Council of Elrond — Gandalf Gene
@@ -46,7 +50,7 @@ An independent set-coded catalogue used for a targeted expansion cross-check. It
 ### Council of Elrond card database
 https://github.com/council-of-elrond-meccg/meccg-cards-database
 
-Useful for card identity, corrected text, errata and current database information. Repository last updated 19 September 2026. The current tree includes [cards.json](https://github.com/council-of-elrond-meccg/meccg-cards-database/blob/master/cards.json) ([raw download](https://raw.githubusercontent.com/council-of-elrond-meccg/meccg-cards-database/master/cards.json), 4,163,611 bytes) and [changes-guide.xlsx](https://github.com/council-of-elrond-meccg/meccg-cards-database/blob/master/changes-guide.xlsx) ([raw download](https://raw.githubusercontent.com/council-of-elrond-meccg/meccg-cards-database/master/changes-guide.xlsx), 22,147 bytes). These are metadata/text verification resources, not Arda quantity sources. The project asks third-party community projects using its database to acknowledge it and notify the Council of Elrond.
+Useful for card identity, corrected text, errata and current database information. Latest repository commit verified 19 May 2026 (message: “CRF 22 applied”). The repository includes a 4,163,611-byte cards.json and a 22,147-byte changes-guide.xlsx. Its README says approximately 300 card texts have been updated, including CRF errata, Rules Book clarifications, Challenge Deck text and unified multi-version text. Treat it as a current rules-text reference, not a literal original-print transcription or an Arda quantity source. The README asks community projects using the data to acknowledge and notify the Council of Elrond. The current tree includes [cards.json](https://github.com/council-of-elrond-meccg/meccg-cards-database/blob/master/cards.json) ([raw download](https://raw.githubusercontent.com/council-of-elrond-meccg/meccg-cards-database/master/cards.json), 4,163,611 bytes) and [changes-guide.xlsx](https://github.com/council-of-elrond-meccg/meccg-cards-database/blob/master/changes-guide.xlsx) ([raw download](https://raw.githubusercontent.com/council-of-elrond-meccg/meccg-cards-database/master/changes-guide.xlsx), 22,147 bytes). These are metadata/text verification resources, not Arda quantity sources. The project asks third-party community projects using its database to acknowledge it and notify the Council of Elrond.
 
 ### BoardGameGeek MECCG files
 https://boardgamegeek.com/boardgame/1915/middle-earth/files
@@ -96,17 +100,12 @@ Published 21 January 2026. Use this to verify current rulings and clarifications
 ### Samwise — MECCG Card Gallery & Deckbuilder
 https://github.com/SylvanSign/samwise
 
-Offline card gallery and deckbuilder for standard MECCG cards, with filters, local save/load, human-readable deck files and Cardnum-format import/export. Its README says the card metadata comes from Cardnum and that Dream Cards are not currently included. This is a tool/format cross-check, not an authoritative Arda card pool.
+Offline card gallery and deckbuilder for standard MECCG cards, with filters, local save/load, human-readable deck files and Cardnum-format import/export. Its README says the card metadata comes from Cardnum. This is a tool/format cross-check, not an authoritative Arda card pool.
 
 ### MECCG Online
 https://github.com/Heinrich-Barth/meccg-online
 
 Supports Arda-format play, card browsing, deckbuilding and importing. Its README warns that included generic sample data is not suitable for full deckbuilding, so do not use that sample data as an authority for card counts.
-
-### Additional Arda variant: The Houses of the North
-
-[ARDA with Dream cards — The Houses of the North](https://councilofelrond.org/forum/viewtopic.php?t=4531) is an itemized, 888-card Dwarf-themed Arda list. The post was first published in November 2021 and last edited in July 2025. It groups cards by pile and records quantities/set codes, but includes Dream Cards, optional UEPs and some unreleased-set experiments. Keep it as a separate variant; it is not a standard Hero Arda quantity authority and is not a downloadable spreadsheet.
-
 
 ### Published Arda Rules 4.0 PDF
 
@@ -125,7 +124,7 @@ Targeted checks of the [Council of Elrond cards.json](https://raw.githubusercont
 
 ### Latest source-watch note
 
-[Source watch — 1 November 2026](research-watch-2026-11-01.html) adds the itemized 2025 Northern Exposure Dream Card Hero-Arda variant, BanalityBob's public Arda spreadsheet, and the 2024 Arda Variants comparison thread with two downloadable rules PDFs. These are separately labelled variants and do not change the canonical Gandalf Gene quantities.
+[Source watch — 2 November 2026](research-watch-2026-11-02.html) adds the current Council of Elrond Rules Committee card database, direct MeCCG catalogue downloads, seven independent expansion card-list PDFs and the CollecCards searchable catalogue. It confirms no change to the canonical Gandalf Gene quantities.
 
 Previous watches: [31 October 2026](research-watch-2026-10-31.html), [29 October 2026](research-watch-2026-10-29.html), [28 October 2026](research-watch-2026-10-28.html), [27 October 2026](research-watch-2026-10-27.html), [26 October 2026](research-watch-2026-10-26.html), [25 October 2026](research-watch-2026-10-25.html) and [24 October 2026](research-watch-2026-10-24.html)
 
@@ -160,10 +159,15 @@ For this Hero-only project, the 48 Minion-alignment rows / 68 copies are exclude
 
 [ARDA VARIANTS thread](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=4992) compares the Arda Basic Game, Gandalf Gene's original house rules, a Wizards-of-Middle-Earth house variant and a Winter/Lure 2024 variant. It also links two downloadable rules PDFs: [arda_intro_game.pdf](https://www.councilofelrond.org/forum/download/file.php?id=4315) (127.6 KiB), an introductory variant with each MP card paired to a site, and [Arda_eng.pdf](https://www.councilofelrond.org/forum/download/file.php?id=4286) (67.33 KiB), a play-group rules variant. These are rules sources, not card-quantity sources. The thread is useful for recording rule differences without conflating them with the canonical deck.
 
-### Council of Elrond — Arda Expanded World custom cards (2010)
 
-[Arda Expanded World thread](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=1345) documents custom MSE cards for characters, unique and non-unique resources, and hazards. A 1.77 MiB character ZIP remains attached to the thread; the original PDF links used MegaUpload and are obsolete, with the author pointing users to an SVN/MSE source. These are custom fan-made additions rather than original ICE expansion cards, so they remain outside the genuine physical-card inventory and are not merged into the standard Hero pool.
 
+
+### Current independent catalogue references — checked 2 November 2026
+
+- [MeCCG.com Lists and Downloads](https://meccg.com/cards/lists-and-downloads/) now directly indexes the MeCCG List of Cards XLS, character-list XLSX, Challenge Decks ZIP, spoiler PDF, fixed-set PDF and Challenge Deck player aid. These are catalogue/product references, not Arda deck quantity sources.
+- [metw.net expansion cardlists](https://metw.net/) provides PDFs for all seven ICE expansions. Their stated card totals are METW 484, METD 180, MEDM 180, MELE 417, MEBA 104, MEWH 122 and MEAS 170. The PDFs include card categories and rarity/distribution codes; the METW PDF includes an errata list dated 28 July 2000. Use them as historical independent set-membership/distribution checks, not current rules-text authorities or Arda quantities.
+- [CollecCards English Middle Earth list](https://www.colleccards.com/ListeMEccgAng.en.htm) is a searchable catalogue with set name/code, card name, rarity, rarity detail, type and notes. It contains alignment-specific versions and Challenge Deck entries; repeated rows are not Arda copy counts.
+- [Council of Elrond Rules Committee cards database](https://github.com/council-of-elrond-meccg/meccg-cards-database) has the current cards.json and changes-guide.xlsx. Latest commit verified 19 May 2026 (“CRF 22 applied”); the README reports approximately 300 card texts updated. It is a current errata/text reference, not an Arda quantity list or literal original-print transcription.
 
 ## Source hierarchy
 
