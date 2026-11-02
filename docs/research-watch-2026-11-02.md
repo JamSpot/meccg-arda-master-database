@@ -125,6 +125,23 @@ The source has two named METW rows with blank quantities (Army of the Dead and T
 
 Jose-san's separate workbook remains a comparison build: its Hero/Neutral/Avatar subset has 322 names and 623 copies after excluding Minion-alignment rows. It is not merged into Gandalf Gene.
 
+### Side-by-side Arda list quantities
+
+| Expansion | Gandalf Gene Hero Arda | Jose-san Hero-compatible subset |
+|---|---:|---:|
+| The Wizards (METW) | 552 | 410 |
+| The Dragons (METD) | 108 | 126 |
+| Dark Minions (MEDM) | 32 | 48 |
+| The Lidless Eye (MELE) | 6 | 12 |
+| The Balrog (MEBA) | 1 | 3 |
+| Against the Shadow (MEAS) | — | 18 |
+| The White Hand (MEWH) | — | 6 |
+| **Total** | **699** | **623** |
+
+These are separate lists, not a combined pool. Jose-san's full workbook has 370 identities and 691 copies; 48 Minion-alignment identities (68 copies) are excluded from the Hero-compatible comparison above. The remaining 322 Hero/Neutral/Avatar identities total 623 copies.
+
+The identity comparison has 242 names in common, 80 found only in Jose-san, and 134 found only in Gandalf Gene. Twenty-nine shared names have different quantities. These differences need card-by-card reconciliation before any merge.
+
 ## Next work
 
 1. Obtain and parse the MeCCG List of Cards XLS and compare its names, set codes, types and rarities with v1.13.
