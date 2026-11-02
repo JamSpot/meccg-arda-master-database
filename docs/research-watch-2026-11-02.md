@@ -70,7 +70,37 @@ Direct PDFs:
 - [The White Hand — 122 cards](https://metw.net/documents/Middle-Earth-The-White-Hand-Cardlist.pdf)
 - [Against the Shadow — 170 cards](https://metw.net/documents/Middle-Earth-Against-The-Shadow-Cardlist.pdf)
 
-## 4. CollecCards — searchable card catalogue
+## 4. Corrected v1.13 physical-card scope audit
+
+I re-opened the local 1.58 MB MECCG Card List v1.13 workbook and grouped its rows by set code, checking whether each entry has a real card ID.
+
+| Set code | Set/source | Entries with card IDs | Physical-card master |
+|---|---|---:|---|
+| METW | The Wizards | 492 | Include |
+| METD | The Dragons | 184 | Include |
+| MEDM | Dark Minions | 183 | Include |
+| MELE | The Lidless Eye | 419 | Include |
+| MEAS | Against the Shadow | 170 | Include |
+| MEWH | The White Hand | 122 | Include |
+| MEBA | The Balrog | 104 | Include |
+| MEHH | Hands of the Healer sourcebook | 0 of 16 entries | Exclude |
+| MELP | A Long-Expected Party sourcebook | 0 of 16 entries | Exclude |
+| MENW | The Northern Waste sourcebook | 0 of 16 entries | Exclude |
+| **Total** | **All v1.13 named entries** | **1,674 eligible card IDs** | **48 sourcebook entries excluded** |
+
+The workbook has 1,722 named entries across these codes, but the 48 additional sourcebook entries all have N/A rather than a card ID. They are 14 site entries plus one item and one event from Hands of the Healer, 16 A Long-Expected Party site-map entries, and 16 Northern Waste site entries. The Northern Waste sourcebook explicitly says its new location entries are not official MECCG cards as published. These are sourcebook scenario/map aids, not standard printed card records, so they are now excluded from the physical-card master.
+
+The eligible original ICE expansion catalogue counts therefore total **1,674**: METW 492 + METD 184 + MEDM 183 + MELE 419 + MEAS 170 + MEWH 122 + MEBA 104. This is a catalogue count, not the number of cards in the Gandalf Gene Arda deck.
+
+I added a machine-readable [v1.13 set-code audit CSV](../data/catalogue-v1-13-set-audit.csv) so this exclusion is explicit and repeatable.
+
+### Independent catalogue discrepancy
+
+The seven metw.net PDFs state lower counts for four expansions: METW 484 (v1.13 has 492), METD 180 (184), MEDM 180 (183), and MELE 417 (419). They match v1.13 for MEAS 170, MEWH 122 and MEBA 104. The difference is **17 entries** across the first four sets. The exact missing/different card names have not yet been reconciled, so the PDF totals are retained as a historical secondary check and do not override the card-ID workbook.
+
+CollecCards' separate set-summary estimates are METW 493, METD 184, MEDM 184, MELE 420, MEAS 172, MEWH 122 and MEBA 175. Its Balrog total includes grey-bordered reprints from earlier expansions, so that number is not comparable to the 104 unique Balrog expansion card IDs. These estimates are useful as another warning that catalogue counts depend on whether promos, reprints and product contents are included.
+
+## 5. CollecCards — searchable card catalogue
 
 [CollecCards' English Middle Earth list](https://www.colleccards.com/ListeMEccgAng.en.htm) exposes a large searchable table with set name, set code, card name, rarity, rarity detail, type and a note field. It distinguishes some Hero/Minion versions and includes Challenge Deck entries.
 
@@ -78,7 +108,7 @@ Direct PDFs:
 
 **Limit:** it is a collector/trading-site catalogue, not an Arda source. Repeated rows can represent alignment-specific versions or Challenge Deck printings; they must not be interpreted as Arda copy quantities or blindly summed.
 
-## 5. Quantity baseline — unchanged
+## 6. Quantity baseline — unchanged
 
 The canonical comparison remains the original Gandalf Gene Hero Arda workbook:
 
