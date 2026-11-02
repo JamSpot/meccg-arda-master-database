@@ -39,7 +39,7 @@ The current [Lists and downloads page](https://meccg.com/cards/lists-and-downloa
 | [Fixed Sets](https://meccg.es/meta/cards/list/Fixed%20Sets.pdf) | PDF | Fixed product contents, useful for sealed-product collation, not Arda quantities. |
 | [Challenge Decks player aid](https://meccg.es/meta/cards/list/MECCG-CD-playeraid_v1.0.pdf) | PDF | Card-by-card reference for the ten Challenge Decks. |
 
-The downloads page is an index of catalogue and Challenge Deck resources, not a newly published Arda quantity list. The public [MeCCG Decks page](https://meccg.com/decks/) is present, but no deck records were exposed in the page extraction during this pass.
+The downloads page is an index of catalogue and Challenge Deck resources, not a newly published Arda quantity list. The current [MeCCG Decks page](https://meccg.com/decks/) did not expose deck records in this pass. The older [MeCCG deck archive](https://meccg.es/mazos/) does expose many conventional tournament/constructed decklists, but no Arda entry was found on its index; it is not a new Arda pool source.
 
 ## 3. metw.net — independent expansion card-list PDFs
 
