@@ -34,6 +34,10 @@ This site teaches and documents **Arda format**: the shared-deck multiplayer gam
 
 In the Arda Basic Game, all players draw from the same shared decks. It is designed for 2–7 players, encourages improvisation and trading, and uses a different preparation and play structure from conventional constructed Hero-vs-Hazard MECCG. The standard shared piles are the Play Deck, MP Deck, Roving Character Deck and Minor Item Offering Deck.
 
+## Latest research update — 3 November 2026
+
+A newly documented 2024 Arda Intro Game PDF contains two separate sample card pools: a **505-card METW/METD no-rares pool** and a **606-card all-rarities pool**. These are alternative teaching-variant pools, not additions to the canonical Gandalf Gene quantities. [Read the research watch](docs/research-watch-2026-11-03.html).
+
 ## Arda card pool and research
 
 The database uses Gandalf Gene's 2016 Hero Arda list as its principal fixed card-pool comparison point. Alternative Hero Arda lists, revised rulesets and solo variants are kept separate rather than silently merged.
