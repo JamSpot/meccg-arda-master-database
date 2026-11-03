@@ -86,7 +86,7 @@ Spot-checks against the [Council of Elrond card database](https://github.com/cou
 | The Arkenstone | TW-341 | The Wizards | Hero |
 | The Mithril-coat | TW-345 | The Wizards | Hero |
 | The One Ring | TW-347 | The Wizards | Hero |
-| The Iron Crown | TW-496 | The Wizards promo | Hero |
+| The Iron Crown | TW-496 (CoE database); TW488 (v1.13) | The Wizards promo | Hero |
 
 The official database also contains similarly named **Minion-alignment** printings in The Lidless Eye. The sample pool's Hero entries must be mapped to the corresponding Hero card IDs, not to those Minion versions. This is an important identity check for the master inventory.
 
@@ -113,7 +113,26 @@ The Arkenstone is also listed in the promo archive, but the Arda PDF names the c
 
 These promo copies must be recorded in a separate **official promotional cards** category, not silently added to the seven base expansion totals. The source's 606-card total remains the author's whole-pool total; an expansion-only subtotal cannot yet be stated safely until the printing variants are resolved.
 
-The 500-card Card Hunters HQ count, the 492-card v1.13 audit and the 484-card metw.net checklist therefore use different inclusion scopes. Promo/alternate-printing inclusion explains at least part of the discrepancy, but the exact row-by-row difference between 484 and 492 remains open.
+### Exact base-set versus promo reconciliation
+
+The 484-versus-492 discrepancy is now resolved across all seven expansions. The metw.net PDFs count the base expansion cards; the v1.13 workbook has the same base rows plus 17 rows marked Promotion. Removing those 17 promo rows from v1.13 produces exactly the metw.net count in every expansion:
+
+| Expansion | metw.net base cards | v1.13 rows | Promo rows | Base rows after promo exclusion |
+|---|---:|---:|---:|---:|
+| METW | 484 | 492 | 8 | 484 |
+| METD | 180 | 184 | 4 | 180 |
+| MEDM | 180 | 183 | 3 | 180 |
+| MELE | 417 | 419 | 2 | 417 |
+| MEBA | 104 | 104 | 0 | 104 |
+| MEAS | 170 | 170 | 0 | 170 |
+| MEWH | 122 | 122 | 0 | 122 |
+| **Total** | **1,657** | **1,674** | **17** | **1,657** |
+
+This is the definitive reconciliation for the base expansion catalogue: **1,657 base cards plus 17 promotional rows = 1,674 v1.13 rows**. The detailed table is stored in [catalogue-expansion-reconciliation.csv](../data/catalogue-expansion-reconciliation.csv).
+
+Do not join card records across the v1.13 workbook and the Council of Elrond JSON database by TW number alone. The numbering schemes differ: for example, The Iron Crown is TW488 in the v1.13 workbook but TW-496 in the Council of Elrond database; v1.13 TW485–TW492 are its eight METW promo rows, whereas the CoE database uses overlapping TW-485–TW-491 IDs for region entries. Match by normalized name, set, type, alignment and printing status instead.
+
+The Card Hunters HQ 500-entry checklist is a mirror of the CoE database, not an independent base-set count. It contains additional promo/special entries. Its TW-500 Lure of MECCG entry is classified by the MeCCG collecting archive under “Others” as a special card, not an original ICE expansion card, so it is excluded from the canonical inventory.
 
 Lure of MECCG is present in the 500-entry mirror but is classified by the MeCCG collecting archive as a special card under “Others”. It is not an original ICE expansion card and is excluded from the canonical physical ICE expansion inventory. This is separate from Dream Cards; Dream Cards remain excluded as well.
 
