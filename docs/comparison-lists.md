@@ -144,3 +144,21 @@ The Library copy of ARDA.xls has an Arda quantity column and file properties ide
 The two promotional identities are Black Arrow (2 copies) and Fatty Bolger (1 copy). Therefore the previous 623-copy Hero-compatible figure remains correct, but **only 620 copies belong in the seven base-expansion totals**. Keep the three promo copies separate.
 
 The source workbook includes other alignments; only Avatar, Hero and Neutral rows were used. Minion and Stage rows were excluded from this Hero comparison. The detailed output is available in [the expansion summary CSV](../data/jose-san-hero-expansion-summary.csv) and [promo quantities CSV](../data/jose-san-promo-quantities.csv). The BGG file archive lists Jose-san's Arda deck example XLS; a binary hash match between the Library copy and the BGG attachment remains outstanding.
+
+
+## Base expansion catalogue reconciliation
+
+The metw.net expansion PDFs count base cards; the v1.13 workbook adds 17 promo rows. Removing those rows produces an exact match in every set:
+
+| Expansion | Base cards | v1.13 rows | Promo rows |
+|---|---:|---:|---:|
+| METW | 484 | 492 | 8 |
+| METD | 180 | 184 | 4 |
+| MEDM | 180 | 183 | 3 |
+| MELE | 417 | 419 | 2 |
+| MEBA | 104 | 104 | 0 |
+| MEAS | 170 | 170 | 0 |
+| MEWH | 122 | 122 | 0 |
+| **Total** | **1,657** | **1,674** | **17** |
+
+This resolves the earlier 484/492/500 catalogue-count confusion: 1,657 is the base expansion total, 17 v1.13 rows are promotional printings, and the 500-entry Card Hunters HQ list is a broader Council of Elrond database mirror. TW IDs differ between v1.13 and the CoE database; join by normalized card name and printing metadata, never by numeric TW ID alone. See [the reconciliation CSV](../data/catalogue-expansion-reconciliation.csv).
