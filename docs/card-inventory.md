@@ -11,6 +11,8 @@ The CSV is a spreadsheet-ready working inventory with source-row references. Exp
 
 The v1.13 reference workbook contains 1,674 rows with original ICE card IDs across the seven official expansions. Its 48 additional N/A-ID entries belong to sourcebook scenario/site material from Hands of the Healer, A Long-Expected Party and The Northern Waste; they are excluded from this physical-card inventory. See the [v1.13 set-code audit](../data/catalogue-v1-13-set-audit.csv). Dream Cards and all fan-made/custom or unreleased cards are outside the project's scope.
 
+Official physical promotional cards are tracked separately from the seven standard expansion totals. A promo printing can share a name with a base-set card, so card name alone is not enough to assign a printing or expansion quantity. The 2024 Arda Intro Game all-rarities sample includes at least Black Arrow, Fatty Bolger, Fury of the Iron Crown and The Iron Crown as English promo entries; the printing of The Arkenstone is unspecified. The Lure of MECCG special card is not an original ICE expansion card and is excluded. See the [3 November 2026 promo-scope research](research-watch-2026-11-03.html).
+
 ## Current working totals
 
 | Expansion | Distinct cards with numeric quantities | Explicit physical copies |
