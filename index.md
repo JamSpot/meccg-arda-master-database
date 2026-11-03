@@ -36,7 +36,7 @@ In the Arda Basic Game, all players draw from the same shared decks. It is desig
 
 ## Latest research update — 3 November 2026
 
-A newly documented 2024 Arda Intro Game PDF contains two separate sample card pools: a **505-card METW/METD no-rares pool** and a **606-card all-rarities pool**. These are alternative teaching-variant pools, not additions to the canonical Gandalf Gene quantities. [Read the research watch](docs/research-watch-2026-11-03.html).
+The 2024 Arda Intro Game PDF has two sample pools (505 and 606 cards), now linked to its public download. A row-level Jose-san extraction also separates the 623-copy Hero-compatible pool into **620 base-expansion copies plus 3 official promo copies**. [Read the research watch](docs/research-watch-2026-11-03.html).
 
 ## Arda card pool and research
 
