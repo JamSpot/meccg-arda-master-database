@@ -19,13 +19,13 @@ Historical context and later variants.
 ### CardGameGeek — Gandalf Gene transcription
 https://cardgamegeek.com/database/decks/27774d75-5a7d-4509-ba89-8cb556f3bfc5
 
-Independent transcription. It reports 178 entries and notes two missing hazards, so it is a checksum/comparison source rather than a complete authority.
+Derivative transcription of the original Council of Elrond post (not independent). It reports 178 main entries and notes two missing hazards, so it is a partial cross-check only; do not treat it as a new Arda pool or quantity authority.
 
 
 ### Council of Elrond — ARDA Sample Deck without Rares (Thorondor, 2015)
 https://councilofelrond.org/forum/viewtopic.php?f=37&t=2630
 
-The forum post (20 July 2015) exposes a downloadable **Arda Sample Deck_no rares.xls** attachment (83.5 KiB), described as a bilingual English/German beginner-friendly Arda list. The author says it is mostly The Wizards and The Dragons with a few Dark Minions cards, generally one of each unique and three of each non-unique, with extra Gold Rings/testing cards and more Doors of Night, Gates of Morning and Twilight. This is a distinct low-rarity quantity source; the attachment binary has not yet been retrieved or parsed, so no quantities are adopted.
+The forum post (20 July 2015) exposes a downloadable [Arda Sample Deck_no rares.xls](https://www.councilofelrond.org/forum/download/file.php?id=4091) attachment (83.5 KiB), described as a bilingual English/German beginner-friendly Arda list. The author says it is mostly The Wizards and The Dragons with a few Dark Minions cards, generally one of each unique and three of each non-unique, with extra Gold Rings/testing cards and more Doors of Night, Gates of Morning and Twilight. The direct attachment URL is now identified, but binary extraction still fails in this environment; no quantities are adopted until the workbook is parsed.
 
 ### Council of Elrond — Arda Solitaire v0.2 (Kober, 2015)
 https://councilofelrond.org/forum/viewtopic.php?t=2578
@@ -199,3 +199,14 @@ The author’s section totals are recorded as published, but independent row-by-
 - [Card Hunters HQ — The Wizards checklist](https://cardhuntershq.com/browse/meccg/TW/checklist) reports 500 entries and labels promo printings with rarity P. Its [data-sources page](https://cardhuntershq.com/sources) credits the Council of Elrond MECCG restoration archive, so this is a searchable mirror of that source, not an independent card-count check.
 - [MeCCG collecting archive](https://meccg.com/collecting/) separates English, German and other promo/misprint cards. Its English promo list includes The Iron Crown, The Arkenstone, Black Arrow, Fatty Bolger and Fury of the Iron Crown. Its German promo list includes A Pack at the Door, Swordmaster and Dwarven Axe. Lure of MECCG is listed separately under “Others” as a special card.
 - Use these pages to distinguish original expansion cards, official physical promotional printings, language-specific promos and special/community cards. Promo printings must not be silently counted as additional base-expansion cards. Lure of MECCG is excluded from the original ICE expansion inventory.
+
+
+### Jose-san Arda deck example — workbook extraction
+
+The Library copy ARDA.xls (311,808 bytes) is a card-list workbook with SET, TYPE, ALIGNMENT, RARITY, NAME, ARDA and FALTAN columns. Its workbook properties identify Jim Montanus as creator and José San Miguel as last editor (2 May 2010). This strongly matches the [Arda deck example by Jose-san in the BGG file archive](https://boardgamegeek.com/boardgame/1915/middle-earth/files).
+
+A row-level extraction of the ARDA quantity column confirms the previously reported Hero-compatible pool: **322 Avatar/Hero/Neutral card identities and 623 copies**. It contains **320 non-promo expansion identities / 620 copies**, plus two official promotional identities / three copies (Black Arrow x2 and Fatty Bolger x1). The expansion breakdown and promo rows are recorded in:
+- [Jose-san Hero expansion summary CSV](../data/jose-san-hero-expansion-summary.csv)
+- [Jose-san promo quantities CSV](../data/jose-san-promo-quantities.csv)
+
+Only Avatar, Hero and Neutral rows were used for this comparison. Minion and Stage rows were excluded from the active Hero research. The source's METW promo rows must remain separate from base-expansion quantities.
