@@ -117,7 +117,7 @@ The 500-card Card Hunters HQ count, the 492-card v1.13 audit and the 484-card me
 
 Lure of MECCG is present in the 500-entry mirror but is classified by the MeCCG collecting archive as a special card under “Others”. It is not an original ICE expansion card and is excluded from the canonical physical ICE expansion inventory. This is separate from Dream Cards; Dream Cards remain excluded as well.
 
-## 4. Comparison with existing Arda sources
+## 5. Comparison with existing Arda sources
 
 | Source | Scope | Play Deck / main pool | Other piles | Treatment |
 |---|---|---:|---:|---|
@@ -128,14 +128,39 @@ Lure of MECCG is present in the 500-entry mirror but is classified by the MeCCG 
 
 The Arda Intro Game piles are not directly additive to the Gandalf Gene totals. They use different deck sections and a different introductory rules structure. They must not be merged into the canonical list.
 
-## 5. Downloadable source status
+## 6. Jose-san workbook: exact Hero-compatible expansion quantities
 
-- **Available in the project research Library:** *The Arda Intro Game* PDF, 14 pages, 130,663 bytes, May 2024.
-- **Embedded card lists:** two sample pools, with quantities by deck section.
-- **Separate XLS/XLSX or .dek file:** none identified for this source.
-- **Public download URL:** not verified. No link has been invented.
+A row-level extraction was completed from the Library copy of ARDA.xls (311,808 bytes). The workbook contains SET, TYPE, ALIGNMENT, RARITY, NAME, ARDA and FALTAN columns. Its file properties name Jim Montanus as creator and José San Miguel as last editor (2 May 2010), matching the Jose-san Arda example listed in the BGG file archive. A binary hash comparison with the BGG attachment has not been completed, so the provenance match is strong but not hash-proven.
 
-## 6. Next reconciliation work
+Only Avatar, Hero and Neutral rows were retained. Minion and Stage rows were excluded from this Hero research. The extracted pool has **322 Hero-compatible identities and 623 copies**. The important refinement is that 3 of those copies are official promotional cards, not base-expansion copies.
+
+| Expansion | Base identities | Base copies | Promo identities | Promo copies | Total identities | Total copies |
+|---|---:|---:|---:|---:|---:|---:|
+| METW | 226 | 407 | 2 | 3 | 228 | 410 |
+| METD | 61 | 126 | 0 | 0 | 61 | 126 |
+| MEDM | 18 | 48 | 0 | 0 | 18 | 48 |
+| MELE | 4 | 12 | 0 | 0 | 4 | 12 |
+| MEBA | 1 | 3 | 0 | 0 | 1 | 3 |
+| MEAS | 8 | 18 | 0 | 0 | 8 | 18 |
+| MEWH | 2 | 6 | 0 | 0 | 2 | 6 |
+| **Total** | **320** | **620** | **2** | **3** | **322** | **623** |
+
+The two nonzero promo rows are **Black Arrow x2** and **Fatty Bolger x1**. The previous 623-copy total remains correct, but the expansion-only subtotal is **620**, with three promotional copies kept separately. This corrects the earlier tendency to count every METW-coded promo as a base METW expansion copy.
+
+The row-level summary is stored in [jose-san-hero-expansion-summary.csv](../data/jose-san-hero-expansion-summary.csv), with the promo detail in [jose-san-promo-quantities.csv](../data/jose-san-promo-quantities.csv). The BGG archive currently lists 69 files and includes Jose-san's Arda deck example XLS; no newer Arda XLS/XLSX or .dek file was found in the archive.
+
+A separate CardGameGeek listing of “Gandalf Gene's Arda Deck” is a derivative transcription of the original Council of Elrond post. It lists 178 main entries and explicitly says two hazards are missing; it is not an independent full-pool source. The current MeCCG.com Decks page has no deck entries.
+
+The Library also contains a 2022 “cards for Arda Leon” workbook with no expansion IDs and several names not yet matched to the original ICE catalogue. It has not been imported: its provenance and official-card-only scope are not sufficiently established. No Dream Cards or custom entries from it have been admitted.
+
+## 7. Downloadable source status
+
+- **Arda Intro Game PDF:** [download the 127.6 KiB attachment](https://www.councilofelrond.org/forum/download/file.php?id=4315). The forum post identifies the file as arda_intro_game.pdf, last edited 14 May 2024; the Library copy is 130,663 bytes, matching the listed size.
+- **Thorondor's no-rares Arda XLS:** [download the 83.5 KiB attachment](https://www.councilofelrond.org/forum/download/file.php?id=4091). The forum post describes a bilingual METW/METD-heavy list with a few Dark Minions cards. The binary download could not be extracted in this environment, so its quantities remain unverified.
+- **Jose-san Arda deck example:** listed as an XLS in the [BGG file archive](https://boardgamegeek.com/boardgame/1915/middle-earth/files); the Library copy ARDA.xls was extracted for the Hero-compatible summary above.
+- **Separate new XLSX or .dek file:** none identified in this pass.
+
+## 8. Next reconciliation work
 
 1. Normalize each sample-list entry to an original ICE card ID.
 2. Record expansion, alignment, deck section and quantity separately.
