@@ -210,3 +210,8 @@ A row-level extraction of the ARDA quantity column confirms the previously repor
 - [Jose-san promo quantities CSV](../data/jose-san-promo-quantities.csv)
 
 Only Avatar, Hero and Neutral rows were used for this comparison. Minion and Stage rows were excluded from the active Hero research. The source's METW promo rows must remain separate from base-expansion quantities.
+
+
+### Base-expansion versus promo count reconciliation
+
+The [metw.net cardlists](https://metw.net/) give the base counts for all seven expansions. The v1.13 workbook has 1,674 rows with IDs, but 17 are marked Promotion; after removing those rows, its expansion counts match the metw.net PDFs exactly (1,657 base cards total). The [reconciliation CSV](../data/catalogue-expansion-reconciliation.csv) records the per-expansion comparison. TW IDs are source-specific and must not be joined across the v1.13 and Council of Elrond databases.
