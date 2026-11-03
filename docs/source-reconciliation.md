@@ -70,7 +70,22 @@ Until the copy-count audit is complete, the inventory is improved but still not 
 
 ## Promotional-printing scope discovered 3 November 2026
 
-The current Card Hunters HQ The Wizards checklist reports 500 entries, but it is a mirror of the Council of Elrond restoration archive and includes promo rows marked P. It is not an independent count of the 484-card base The Wizards checklist. The MeCCG collecting archive separately lists English, German and other promo/misprint material. The v1.13 total of 492 may include some promotional entries; the exact eight-row difference from the 484 base checklist is still unresolved.
+The base-set count discrepancy is now resolved across all seven expansions. The metw.net cardlist PDFs give the base counts; the v1.13 workbook adds exactly 17 rows marked Promotion. Removing those 17 promo rows from the v1.13 totals reproduces every metw.net expansion count:
+
+| Expansion | metw.net base cards | v1.13 rows | Promo rows | Base rows |
+|---|---:|---:|---:|---:|
+| METW | 484 | 492 | 8 | 484 |
+| METD | 180 | 184 | 4 | 180 |
+| MEDM | 180 | 183 | 3 | 180 |
+| MELE | 417 | 419 | 2 | 417 |
+| MEBA | 104 | 104 | 0 | 104 |
+| MEAS | 170 | 170 | 0 | 170 |
+| MEWH | 122 | 122 | 0 | 122 |
+| **Total** | **1,657** | **1,674** | **17** | **1,657** |
+
+The reconciliation is recorded in [catalogue-expansion-reconciliation.csv](../data/catalogue-expansion-reconciliation.csv). The base expansion catalogue is therefore 1,657 cards; the 17 promo rows are a separate physical-printing category.
+
+The Card Hunters HQ The Wizards checklist reports 500 entries, but it mirrors the Council of Elrond restoration archive and includes a broader promo/special layer. It is not an independent base-set count. Its internal TW IDs are not compatible with the v1.13 numbering: for example, The Iron Crown is TW488 in v1.13 but TW-496 in the CoE database. Do not join records across these catalogues by TW number; normalize card name, set, type, alignment and printing status.
 
 The 2024 Arda Intro Game all-rarities pool includes at least four English promotional cards: Black Arrow, Fatty Bolger, Fury of the Iron Crown and The Iron Crown. The Arkenstone printing is not specified. These are not additional base METW copies; retain them in a separate promo-printing category until the exact physical printing is established. The special Lure of MECCG card is excluded from the original ICE expansion inventory.
 
