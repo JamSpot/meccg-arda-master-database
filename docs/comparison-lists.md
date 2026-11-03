@@ -82,3 +82,38 @@ This is a rules baseline, not an exact list. The current Gandalf Gene transcript
 ## 2024 Arda variants — rules, not quantities
 
 The [ARDA VARIANTS thread](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=4992) records differences between the Basic Game, Gandalf Gene's house rules, a Wizards-of-Middle-Earth variant and a Winter/Lure 2024 variant. It links two PDFs: [Intro Game](https://www.councilofelrond.org/forum/download/file.php?id=4315) and [Arda_eng](https://www.councilofelrond.org/forum/download/file.php?id=4286). These should be compared as rules variants, not used as evidence for card quantities.
+
+
+## 2024 — The Arda Intro Game sample pools (Jared Brayshaw)
+
+A 14-page community PDF, last updated May 2024, contains two sample Arda Intro Game card pools. A local copy is held in the project research Library; a public download URL was not verified in the 3 November 2026 pass.
+
+### METW + METD only, no rares
+
+- Play Deck: 141 Resource Events + 93 Hazard Events + 96 Hazard Creatures = **330**
+- MP Deck: **49**
+- Character Deck: **57**
+- Minor Item Deck: **34**
+- Ring Deck: **10**
+- Avatar Deck: **5**
+- Haven Deck: **20**
+- **Total: 505 cards across all listed piles**
+
+### All rarities and sets
+
+- Play Deck: 156 Resource Events + 107 Hazard Events + 97 Hazard Creatures = **360**
+- MP Deck: **88**
+- Character Deck: **71**
+- Minor Item Deck: **41**
+- Ring Deck: **21**
+- Avatar Deck: **5**
+- Haven Deck: **20**
+- **Total: 606 cards across all listed piles**
+
+The PDF uses an Arda Intro Game structure with sites paired to MP resources and separate Character, Minor Item, Ring, Haven and Avatar piles. It is a community teaching variant, not the canonical Gandalf Gene list and not a conventional constructed-deck solo format.
+
+Spot-checks against the Council of Elrond card database confirm that several distinctive entries are official ICE Hero cards, including Lindion the Oronín (DM-177), Emerald of Doriath (TD-112), Habergeon of Silver (TD-120), Valiant Sword (TD-161), Wormsbane (TD-172), Adamant Helmet (TD-96), Scabbard of Chalcedony (TD-150), The Arkenstone (TW-341), The Mithril-coat (TW-345), The One Ring (TW-347) and The Iron Crown (TW-496). Some similarly named Minion printings exist in The Lidless Eye; use the Hero card IDs only.
+
+The list's **Dreams of Lore** entry is the official ICE Hero card TW-210, not a Dream Card. Custom Dream Cards remain excluded.
+
+The totals above are the author's printed section totals. Exact row-level reconciliation, alignment checking for every line and expansion-by-expansion quantities are still required. Keep both sample pools separate from Gandalf Gene and Jose-san until that work is complete.
