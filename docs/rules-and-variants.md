@@ -35,9 +35,9 @@ Several solo adaptations have been identified. They are separate methods, not on
 
 See the [Arda-specific Solo Play guide](arda-solo-play.html) for the source-by-source comparison and the limits of what has been verified. Do not import the conventional Hero Solo Academy's Hero/Hazard decks or expedition sequence into Arda.
 
-## Intro / solo variant
+## Arda Intro Game — multiplayer teaching variant
 
-arda_intro_game.pdf is an introductory streamlined variant adapted from several Arda sources, including Gandalf Gene's deck. Its published sample counts and deck structure are useful for learning and solo play, but are not evidence for the original Gene list.
+[Download the 2024 Arda Intro Game PDF (127.6 KiB)](https://www.councilofelrond.org/forum/download/file.php?id=4315). This is a separate 2–5 player introductory multiplayer variant adapted from several Arda sources, including the Compiled Arda Ruleset — Hero, Arda Revised and Gandalf Gene. It uses paired MP-resource/site cards and separate Character, Minor Item, Ring, Haven and Avatar piles. Its 505-card METW/METD no-rares pool and 606-card all-rarities pool are alternative teaching lists, not the canonical Gene pool. **It is not a solo rules source**; use the Arda-specific solo guide and the separately documented solo variants for solo play. The all-rarities list includes official promotional printings, which must be kept outside base expansion totals. See the [3 November research watch](research-watch-2026-11-03.html).
 
 ## Principle
 
