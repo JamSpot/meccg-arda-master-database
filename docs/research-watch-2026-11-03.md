@@ -189,3 +189,15 @@ The Library also contains a 2022 “cards for Arda Leon” workbook with no expa
 6. Compare the normalized rows with Gandalf Gene and Jose-san without merging their quantities.
 
 Until those checks are complete, this source is a documented alternative pool, not an acquisition-list change.
+
+
+## 9. Current source-search results — 3 November 2026
+
+- The [BGG Middle-earth files archive](https://boardgamegeek.com/boardgame/1915/middle-earth/files) currently shows 69 files, including Jose-san's Arda deck example XLS and the v1.13 card catalogue. No newer Arda XLSX or .dek deck file was identified.
+- The [CardGameGeek Gandalf Gene deck transcription](https://cardgamegeek.com/database/decks/27774d75-5a7d-4509-ba89-8cb556f3bfc5) is a derivative of the original Council of Elrond post, not an independent source. It lists 178 main entries and says two hazards are missing.
+- The [2013 My Solo Arda Build with Session Report](https://boardgamegeek.com/thread/1058232/my-solo-arda-build-with-session-report) remains useful as a historical solo pile-design example, but it is not an exact card-by-card downloadable list. It is already referenced in the Arda Solo Play guide.
+- The [Thorondor no-rares XLS attachment](https://www.councilofelrond.org/forum/download/file.php?id=4091) is a real downloadable spreadsheet (83.5 KiB), but its binary content could not be extracted by the available browser/container route. It remains the next file to parse.
+- The [MeCCG.com Decks page](https://meccg.com/decks/) currently has no published deck entries. Its downloadable card catalogue is useful for catalogue checking, not as an Arda decklist.
+- The 2026 Council of Elrond Arda topics found in this pass are Dream Card or Minion-focused variants; they are excluded from the Hero-only official-card pool.
+
+No new independent, eligible Hero Arda quantity list was found in this search pass. The meaningful progress is the exact Jose-san promo split, the base-set catalogue reconciliation and the now-verified public download links.
