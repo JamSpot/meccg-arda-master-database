@@ -149,7 +149,7 @@ The Arda Intro Game piles are not directly additive to the Gandalf Gene totals. 
 
 ## 6. Jose-san workbook: exact Hero-compatible expansion quantities
 
-A row-level extraction was completed from the Library copy of ARDA.xls (311,808 bytes). The workbook contains SET, TYPE, ALIGNMENT, RARITY, NAME, ARDA and FALTAN columns. Its file properties name Jim Montanus as creator and José San Miguel as last editor (2 May 2010), matching the Jose-san Arda example listed in the BGG file archive. A binary hash comparison with the BGG attachment has not been completed, so the provenance match is strong but not hash-proven.
+A row-level extraction was completed from the Library copy of ARDA.xls (311,808 bytes). It has 1,402 card rows across the seven expansions, with SET, TYPE, ALIGNMENT, RARITY, NAME, ARDA and FALTAN columns; site and region rows are not included, so it is an Arda-pool worksheet rather than the full catalogue. Its file properties name Jim Montanus as creator and José San Miguel as last editor (2 May 2010), matching the Jose-san Arda example listed in the BGG file archive. A binary hash comparison with the BGG attachment has not been completed, so the provenance match is strong but not hash-proven.
 
 Only Avatar, Hero and Neutral rows were retained. Minion and Stage rows were excluded from this Hero research. The extracted pool has **322 Hero-compatible identities and 623 copies**. The important refinement is that 3 of those copies are official promotional cards, not base-expansion copies.
 
