@@ -117,3 +117,10 @@ Spot-checks against the Council of Elrond card database confirm that several dis
 The list's **Dreams of Lore** entry is the official ICE Hero card TW-210, not a Dream Card. Custom Dream Cards remain excluded.
 
 The totals above are the author's printed section totals. Exact row-level reconciliation, alignment checking for every line and expansion-by-expansion quantities are still required. Keep both sample pools separate from Gandalf Gene and Jose-san until that work is complete.
+
+
+### Promo-printing note for the 2024 Arda Intro Game all-rarities pool
+
+The all-rarities sample includes at least four English promotional cards: Black Arrow, Fatty Bolger, Fury of the Iron Crown and The Iron Crown. The Arkenstone is also listed in the promo archive, but the PDF does not identify which printing it uses. Keep those entries in a separate promo-printing audit until the physical version is known; do not add them to the seven standard expansion totals by card name alone.
+
+The 500-entry Card Hunters HQ The Wizards checklist is a mirror of the Council of Elrond restoration archive and includes promo printings (rarity P), so it is not an independent count of the 484-card base The Wizards checklist. The exact v1.13-versus-base-set difference remains unresolved.
