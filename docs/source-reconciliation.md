@@ -66,3 +66,12 @@ The local ARDA.xls is a high-confidence candidate for BGG's Jose-san Arda exampl
 4. Produce an audited acquisition table with provenance for every quantity.
 
 Until the copy-count audit is complete, the inventory is improved but still not a final shopping list.
+
+
+## Promotional-printing scope discovered 3 November 2026
+
+The current Card Hunters HQ The Wizards checklist reports 500 entries, but it is a mirror of the Council of Elrond restoration archive and includes promo rows marked P. It is not an independent count of the 484-card base The Wizards checklist. The MeCCG collecting archive separately lists English, German and other promo/misprint material. The v1.13 total of 492 may include some promotional entries; the exact eight-row difference from the 484 base checklist is still unresolved.
+
+The 2024 Arda Intro Game all-rarities pool includes at least four English promotional cards: Black Arrow, Fatty Bolger, Fury of the Iron Crown and The Iron Crown. The Arkenstone printing is not specified. These are not additional base METW copies; retain them in a separate promo-printing category until the exact physical printing is established. The special Lure of MECCG card is excluded from the original ICE expansion inventory.
+
+This does not change the Gandalf Gene quantity baseline of 699 or the 695 community report. It changes the catalogue method: card identity, expansion code, physical printing and promo status must be separate fields.
