@@ -175,3 +175,20 @@ For reconstructing the canonical Gene deck:
 4. Historical discussions and separately labelled Arda variants
 5. Current card databases for identity, expansion, rarity and errata verification
 6. Deckbuilding software as a technical cross-check only
+
+
+### The Arda Intro Game — Jared Brayshaw (May 2024)
+
+A 14-page community introductory Arda PDF, last updated May 2024. A local copy is held in the project research Library; a public download URL was not verified in the 3 November 2026 research pass.
+
+The PDF includes two itemized sample pools:
+- **METW + METD only, no rares:** Play Deck 330 (141 resource events, 93 hazard events, 96 hazard creatures); MP Deck 49; Character Deck 57; Minor Item Deck 34; Ring Deck 10; Avatar Deck 5; Haven Deck 20. Total across all listed piles: **505**.
+- **All rarities and sets:** Play Deck 360 (156 resource events, 107 hazard events, 97 hazard creatures); MP Deck 88; Character Deck 71; Minor Item Deck 41; Ring Deck 21; Avatar Deck 5; Haven Deck 20. Total across all listed piles: **606**.
+
+This is an Arda Intro Game teaching variant based on the Compiled Arda Ruleset — Hero, Arda Revised and Gandalf Gene. It uses an MP deck with sites paired to resources, plus separate Character, Minor Item, Ring, Haven and Avatar piles. It is not a conventional constructed Hero-vs-Hazard solo list and is not the canonical Gandalf Gene pool.
+
+Spot-checks against the Council of Elrond card database map entries such as Lindion the Oronín (DM-177, Hero), Emerald of Doriath (TD-112, Hero), Habergeon of Silver (TD-120, Hero), Valiant Sword (TD-161, Hero), Wormsbane (TD-172, Hero), Adamant Helmet (TD-96, Hero), Scabbard of Chalcedony (TD-150, Hero), The Arkenstone (TW-341, Hero), The Mithril-coat (TW-345, Hero), The One Ring (TW-347, Hero) and The Iron Crown (TW-496, Hero). The same database contains separate Minion-alignment printings for some similarly named cards; the Hero IDs must be used.
+
+The PDF includes **Dreams of Lore**, which is the original ICE Hero card TW-210 from The Wizards, not a Dream Card. No custom Dream Cards are included in the project inventory.
+
+The author’s section totals are recorded as published, but independent row-by-row reconciliation and expansion-by-expansion quantity totals remain outstanding. Do not merge these sample quantities into Gandalf Gene or Jose-san.
