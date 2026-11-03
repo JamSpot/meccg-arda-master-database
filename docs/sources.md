@@ -171,7 +171,7 @@ For this Hero-only project, the 48 Minion-alignment rows / 68 copies are exclude
 For reconstructing the canonical Gene deck:
 1. Original Gandalf Gene deck/spreadsheet
 2. Original Council post description
-3. Independent transcription/checksums
+3. Derivative transcriptions/checksums (not independent unless provenance is separate)
 4. Historical discussions and separately labelled Arda variants
 5. Current card databases for identity, expansion, rarity and errata verification
 6. Deckbuilding software as a technical cross-check only
@@ -179,7 +179,7 @@ For reconstructing the canonical Gene deck:
 
 ### The Arda Intro Game — Jared Brayshaw (May 2024)
 
-A 14-page community introductory Arda PDF, last updated May 2024. A local copy is held in the project research Library; a public download URL was not verified in the 3 November 2026 research pass.
+A 14-page community introductory Arda PDF, last edited 14 May 2024. [Download arda_intro_game.pdf (127.6 KiB)](https://www.councilofelrond.org/forum/download/file.php?id=4315). The Library copy is 130,663 bytes, matching the published attachment size.
 
 The PDF includes two itemized sample pools:
 - **METW + METD only, no rares:** Play Deck 330 (141 resource events, 93 hazard events, 96 hazard creatures); MP Deck 49; Character Deck 57; Minor Item Deck 34; Ring Deck 10; Avatar Deck 5; Haven Deck 20. Total across all listed piles: **505**.
