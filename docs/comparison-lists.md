@@ -124,3 +124,23 @@ The totals above are the author's printed section totals. Exact row-level reconc
 The all-rarities sample includes at least four English promotional cards: Black Arrow, Fatty Bolger, Fury of the Iron Crown and The Iron Crown. The Arkenstone is also listed in the promo archive, but the PDF does not identify which printing it uses. Keep those entries in a separate promo-printing audit until the physical version is known; do not add them to the seven standard expansion totals by card name alone.
 
 The 500-entry Card Hunters HQ The Wizards checklist is a mirror of the Council of Elrond restoration archive and includes promo printings (rarity P), so it is not an independent count of the 484-card base The Wizards checklist. The exact v1.13-versus-base-set difference remains unresolved.
+
+
+## Jose-san Arda source — row-level expansion reconciliation (3 November 2026)
+
+The Library copy of ARDA.xls has an Arda quantity column and file properties identifying José San Miguel as last editor. Its Hero-compatible rows reproduce the previously reported 322 identities / 623 copies, but the extraction now separates promotional printings from base expansion copies.
+
+| Expansion | Base identities | Base copies | Promo identities | Promo copies | Total identities | Total copies |
+|---|---:|---:|---:|---:|---:|---:|
+| METW | 226 | 407 | 2 | 3 | 228 | 410 |
+| METD | 61 | 126 | 0 | 0 | 61 | 126 |
+| MEDM | 18 | 48 | 0 | 0 | 18 | 48 |
+| MELE | 4 | 12 | 0 | 0 | 4 | 12 |
+| MEBA | 1 | 3 | 0 | 0 | 1 | 3 |
+| MEAS | 8 | 18 | 0 | 0 | 8 | 18 |
+| MEWH | 2 | 6 | 0 | 0 | 2 | 6 |
+| **Total** | **320** | **620** | **2** | **3** | **322** | **623** |
+
+The two promotional identities are Black Arrow (2 copies) and Fatty Bolger (1 copy). Therefore the previous 623-copy Hero-compatible figure remains correct, but **only 620 copies belong in the seven base-expansion totals**. Keep the three promo copies separate.
+
+The source workbook includes other alignments; only Avatar, Hero and Neutral rows were used. Minion and Stage rows were excluded from this Hero comparison. The detailed output is available in [the expansion summary CSV](../data/jose-san-hero-expansion-summary.csv) and [promo quantities CSV](../data/jose-san-promo-quantities.csv). The BGG file archive lists Jose-san's Arda deck example XLS; a binary hash match between the Library copy and the BGG attachment remains outstanding.
