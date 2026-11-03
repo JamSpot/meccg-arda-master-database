@@ -86,7 +86,7 @@ Spot-checks against the [Council of Elrond card database](https://github.com/cou
 | The Arkenstone | TW-341 | The Wizards | Hero |
 | The Mithril-coat | TW-345 | The Wizards | Hero |
 | The One Ring | TW-347 | The Wizards | Hero |
-| The Iron Crown | TW-496 | The Wizards | Hero |
+| The Iron Crown | TW-496 | The Wizards promo | Hero |
 
 The official database also contains similarly named **Minion-alignment** printings in The Lidless Eye. The sample pool's Hero entries must be mapped to the corresponding Hero card IDs, not to those Minion versions. This is an important identity check for the master inventory.
 
@@ -102,7 +102,7 @@ The [MeCCG collecting archive](https://meccg.com/collecting/) separates English,
 
 ### Consequence for the Arda Intro Game sample
 
-The 606-card “all rarities and sets” sample contains at least four clearly identifiable English promo cards:
+The 606-card “all rarities and sets” sample contains at least four clearly identifiable English promo cards (their TW IDs are promo catalogue entries, not base-expansion copies):
 
 - Black Arrow
 - Fatty Bolger
