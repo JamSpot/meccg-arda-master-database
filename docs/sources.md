@@ -215,3 +215,8 @@ Only Avatar, Hero and Neutral rows were used for this comparison. Minion and Sta
 ### Base-expansion versus promo count reconciliation
 
 The [metw.net cardlists](https://metw.net/) give the base counts for all seven expansions. The v1.13 workbook has 1,674 rows with IDs, but 17 are marked Promotion; after removing those rows, its expansion counts match the metw.net PDFs exactly (1,657 base cards total). The [reconciliation CSV](../data/catalogue-expansion-reconciliation.csv) records the per-expansion comparison. TW IDs are source-specific and must not be joined across the v1.13 and Council of Elrond databases.
+
+
+### Solo Arda build report — BoardGameGeek (2013)
+
+[My Solo Arda Build with Session Report](https://boardgamegeek.com/thread/1058232/my-solo-arda-build-with-session-report) is a historical community solo adaptation, not a complete downloadable card list. It describes separate MP, Ring, Resource, Minor Item, two Character, Hazard and Site decks; mostly one copy of each owned card with selected common-card multiples; and a target of 25 Marshaling Points in eight turns. The author excludes The Lidless Eye, The White Hand and The Balrog. It is already used in the Arda Solo Play guide as an experimental approach, not as canonical Arda rules or a source of exact expansion quantities.
