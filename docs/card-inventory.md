@@ -48,3 +48,10 @@ See the [reconciliation log](reconciliation-log.html) for the count audit and [s
 The row-level extraction of the Jose-san ARDA.xls copy produces 322 Avatar/Hero/Neutral identities and 623 copies. Of those, 320 identities / 620 copies are non-promo expansion cards; the remaining three copies are official promotional cards (Black Arrow x2, Fatty Bolger x1). Do not count those three promo copies as base METW quantities.
 
 See [the per-expansion CSV](../data/jose-san-hero-expansion-summary.csv) and [the promo detail CSV](../data/jose-san-promo-quantities.csv). The source's Minion and Stage rows were excluded from this Hero-only baseline.
+
+
+## Seven-expansion catalogue count resolved
+
+The metw.net base cardlists and v1.13 workbook now reconcile exactly: v1.13 contains 1,674 rows with IDs, including 17 rows marked Promotion; removing those promo rows leaves **1,657 base expansion cards**. The base counts by expansion are METW 484, METD 180, MEDM 180, MELE 417, MEBA 104, MEAS 170 and MEWH 122. See [the reconciliation CSV](../data/catalogue-expansion-reconciliation.csv).
+
+Do not use card IDs as cross-source join keys. The v1.13 and Council of Elrond databases assign different TW numbers to some of the same cards; use normalized name, set, type, alignment and printing status.
