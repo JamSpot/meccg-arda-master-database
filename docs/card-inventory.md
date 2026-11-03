@@ -41,3 +41,10 @@ The published expansion subtotals (300 METW + 59 METD + 14 MEDM + 2 MELE + 1 MEB
 Open it in Excel, LibreOffice Calc, or another spreadsheet tool. Filter by expansion, card type, alignment, rarity, or quantity status. Keep the source quantity separate from your own owned count. Do not calculate a final shopping list until the four-copy discrepancy versus CCG Collector's 695-copy report has been resolved.
 
 See the [reconciliation log](reconciliation-log.html) for the count audit and [sources and downloads](sources.html) for published comparison material.
+
+
+## Jose-san source: Hero-compatible quantity baseline
+
+The row-level extraction of the Jose-san ARDA.xls copy produces 322 Avatar/Hero/Neutral identities and 623 copies. Of those, 320 identities / 620 copies are non-promo expansion cards; the remaining three copies are official promotional cards (Black Arrow x2, Fatty Bolger x1). Do not count those three promo copies as base METW quantities.
+
+See [the per-expansion CSV](../data/jose-san-hero-expansion-summary.csv) and [the promo detail CSV](../data/jose-san-promo-quantities.csv). The source's Minion and Stage rows were excluded from this Hero-only baseline.
