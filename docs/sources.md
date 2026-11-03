@@ -192,3 +192,10 @@ Spot-checks against the Council of Elrond card database map entries such as Lind
 The PDF includes **Dreams of Lore**, which is the original ICE Hero card TW-210 from The Wizards, not a Dream Card. No custom Dream Cards are included in the project inventory.
 
 The author’s section totals are recorded as published, but independent row-by-row reconciliation and expansion-by-expansion quantity totals remain outstanding. Do not merge these sample quantities into Gandalf Gene or Jose-san.
+
+
+### Promo and checklist references — checked 3 November 2026
+
+- [Card Hunters HQ — The Wizards checklist](https://cardhuntershq.com/browse/meccg/TW/checklist) reports 500 entries and labels promo printings with rarity P. Its [data-sources page](https://cardhuntershq.com/sources) credits the Council of Elrond MECCG restoration archive, so this is a searchable mirror of that source, not an independent card-count check.
+- [MeCCG collecting archive](https://meccg.com/collecting/) separates English, German and other promo/misprint cards. Its English promo list includes The Iron Crown, The Arkenstone, Black Arrow, Fatty Bolger and Fury of the Iron Crown. Its German promo list includes A Pack at the Door, Swordmaster and Dwarven Axe. Lure of MECCG is listed separately under “Others” as a special card.
+- Use these pages to distinguish original expansion cards, official physical promotional printings, language-specific promos and special/community cards. Promo printings must not be silently counted as additional base-expansion cards. Lure of MECCG is excluded from the original ICE expansion inventory.
