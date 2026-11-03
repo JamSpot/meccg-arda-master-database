@@ -92,6 +92,31 @@ The official database also contains similarly named **Minion-alignment** printin
 
 The PDF includes **Dreams of Lore**, which is the original ICE Hero resource card TW-210 from The Wizards. It is not a Dream Card. No custom Dream Cards are being admitted to the project inventory.
 
+## 4. Promotional-printing and checklist scope discovery
+
+The current [Card Hunters HQ The Wizards checklist](https://cardhuntershq.com/browse/meccg/TW/checklist) reports **500 entries**. Its own source page identifies the Council of Elrond MECCG restoration archive as its data source, so it is a useful searchable mirror but **not an independent catalogue count**.
+
+The checklist marks numerous rows as promotional (rarity P), including alternate promo printings of cards already present in the main list (for example Barrow-wight, Pick-pocket, Boromir II, Dark Quarrels and Escape), plus entries TW-492 to TW-500. Those later rows include Fury of the Iron Crown, Neeker-breekers, Black Arrow, Fatty Bolger, The Iron Crown, A Pack at the Door, Swordmaster, Dwarven Axe and Lure of MECCG.
+
+The [MeCCG collecting archive](https://meccg.com/collecting/) separates English, German and other promo/misprint material. It lists The Iron Crown, The Arkenstone, Black Arrow, Fatty Bolger and Fury of the Iron Crown among English promos; A Pack at the Door, Swordmaster and Dwarven Axe appear in its German promo list. It places the Lure of MECCG special card under “Others”, not among the English ICE expansion cards.
+
+### Consequence for the Arda Intro Game sample
+
+The 606-card “all rarities and sets” sample contains at least four clearly identifiable English promo cards:
+
+- Black Arrow
+- Fatty Bolger
+- Fury of the Iron Crown
+- The Iron Crown
+
+The Arkenstone is also listed in the promo archive, but the Arda PDF names the card without identifying which physical printing is intended. That row needs a printing-level check.
+
+These promo copies must be recorded in a separate **official promotional cards** category, not silently added to the seven base expansion totals. The source's 606-card total remains the author's whole-pool total; an expansion-only subtotal cannot yet be stated safely until the printing variants are resolved.
+
+The 500-card Card Hunters HQ count, the 492-card v1.13 audit and the 484-card metw.net checklist therefore use different inclusion scopes. Promo/alternate-printing inclusion explains at least part of the discrepancy, but the exact row-by-row difference between 484 and 492 remains open.
+
+Lure of MECCG is present in the 500-entry mirror but is classified by the MeCCG collecting archive as a special card under “Others”. It is not an original ICE expansion card and is excluded from the canonical physical ICE expansion inventory. This is separate from Dream Cards; Dream Cards remain excluded as well.
+
 ## 4. Comparison with existing Arda sources
 
 | Source | Scope | Play Deck / main pool | Other piles | Treatment |
