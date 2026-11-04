@@ -5,6 +5,8 @@ title: Research watch — 3 November 2026
 
 # Research watch — 3 November 2026
 
+> **Correction — 4 November 2026:** The Hero Arda *The Arkenstone* entry is resolved to TW-341 (The Wizards, Hero, rare). The promo LE-418 is a separate Minion-alignment printing and is not used in this Hero pool. The full Arda Intro Game row-level and expansion audit is now in the [4 November research watch](research-watch-2026-11-04.html).
+
 ## Summary
 
 A previously overlooked community document contains **two complete sample Arda Intro Game card pools**, including card quantities by deck section:
