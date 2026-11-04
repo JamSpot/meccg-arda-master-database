@@ -16,7 +16,7 @@ A previously overlooked community document contains **two complete sample Arda I
 
 This is a meaningful additional published card-pool source. It is a separate 2024 introductory Arda variant, not a replacement for the canonical Gandalf Gene list. **No canonical Arda quantities have been changed.**
 
-The source copy is a 14-page PDF titled *The Arda Intro Game*, by Jared Brayshaw, last updated May 2024. A public download URL was not identified in this pass; the PDF is present in the project research Library.
+The source copy is a 14-page PDF titled *The Arda Intro Game*, by Jared Brayshaw, last updated May 2024. The public download is now verified: [Arda Intro Game PDF](https://www.councilofelrond.org/forum/download/file.php?id=4315).
 
 ## 1. What the PDF contains
 
@@ -70,7 +70,7 @@ The three Play Deck sections are stated as 141, 93 and 96 copies respectively. T
 | Haven Deck | 20 |
 | **Total across all listed piles** | **606** |
 
-These are the author's section totals, not yet an independent row-by-row re-count. The PDF contains item names and quantities for the Play, Minor Item and Ring piles, and resource/site pairings for the MP pile. The exact expansion totals still require normalization against the official card catalogue.
+These are the author's section totals. A row-by-row card-ID and expansion normalization was completed on 4 November 2026; see the [4 November research watch](research-watch-2026-11-04.html) and its downloadable CSVs. The MP paired site cards are additional physical cards omitted from the author's headline total.
 
 ## 3. Official-card scope check
 
@@ -111,9 +111,9 @@ The 606-card “all rarities and sets” sample contains at least four clearly i
 - Fury of the Iron Crown
 - The Iron Crown
 
-The Arkenstone is also listed in the promo archive, but the Arda PDF names the card without identifying which physical printing is intended. That row needs a printing-level check.
+The Hero Arda *The Arkenstone* is TW-341 (The Wizards, Hero, rare). The promo LE-418 is a separate Minion-alignment printing and is not used in this Hero pool.
 
-These promo copies must be recorded in a separate **official promotional cards** category, not silently added to the seven base expansion totals. The source's 606-card total remains the author's whole-pool total; an expansion-only subtotal cannot yet be stated safely until the printing variants are resolved.
+Four cards in the all-rarities list are confirmed official METW promos; 14 further copies have a base-versus-promo ambiguity within METW. The all-rarities expansion totals are now METW 514, METD 89, MEDM 15, MELE 6 and MEAS 1, plus 69 hazard copies whose exact METW/METD-versus-MELE printing remains unresolved. The source's 606 headline total also omits 88 MP-paired site cards, giving 694 physical card components.
 
 ### Exact base-set versus promo reconciliation
 
