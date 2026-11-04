@@ -98,5 +98,6 @@ These are working extraction figures, not a claim that every card identity and e
 - Multiplayer rules, solo adaptations, card lists and optional variants remain clearly distinguished.
 - Every quantity should retain its source and reconciliation status.
 - Only genuine physical MECCG cards are in scope — no proxies.
+- No Dream Cards, fan-made/custom cards or unreleased material.
 - Minion Arda is excluded unless specifically requested.
 - Conventional Hero Solo Academy lessons and decklists do not belong in this Arda project.
