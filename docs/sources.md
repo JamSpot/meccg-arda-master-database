@@ -149,7 +149,7 @@ For this Hero-only project, the 48 Minion-alignment rows / 68 copies are exclude
 
 ### Council of Elrond — BanalityBob's Arda (2020)
 
-[Forum post](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=4324) links a public [MECCG Arda Deck Google Sheet](https://docs.google.com/spreadsheets/d/1a_32IVLD7SkX6A8fqVsAz95i67HtcxAb4VZYuvxg8ns/edit?usp=sharing) and a separate rules document. The author describes a community variant with non-standard character and minor-item choices, separate resource and hazard decks, themed hazard decks for each player, altered ring handling and no Underdeep sites. The spreadsheet opens as view-only, but its rows were not extractable through the current browser session; no card counts or expansion totals are adopted. Treat it as a distinct variant, not a replacement for Gandalf Gene.
+[Forum post](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=4324) links a public [MECCG Arda Deck Google Sheet](https://docs.google.com/spreadsheets/d/1a_32IVLD7SkX6A8fqVsAz95i67HtcxAb4VZYuvxg8ns/edit?usp=sharing) and a separate rules document. The author describes a community variant with non-standard character and minor-item choices, separate resource and hazard decks, themed hazard decks for each player, altered ring handling and no Underdeep sites. The spreadsheet opens as view-only, but its rows were not extractable through the current browser session; no card counts or expansion totals are adopted. A 4 November 2026 browser check exposed only seven populated rows in the visible sheet view (the five Wizards, Fram Frampson and Saw Further and Deeper); the remainder of the visible grid is blank. Other tabs or hidden content could not be ruled out, so this is not treated as a complete card pool. Treat it as a distinct variant, not a replacement for Gandalf Gene.
 
 ### Council of Elrond — ARDA VARIANTS and Intro Game (2024)
 
@@ -181,7 +181,7 @@ For reconstructing the canonical Gene deck:
 
 A 14-page community introductory Arda PDF, last edited 14 May 2024. [Download arda_intro_game.pdf (127.6 KiB)](https://www.councilofelrond.org/forum/download/file.php?id=4315). The Library copy is 130,663 bytes, matching the published attachment size.
 
-The PDF includes two itemized sample pools:
+The PDF includes two itemized sample pools. A 4 November 2026 row-level normalization is now published in [the card inventory CSV](../data/arda-intro-game-card-inventory.csv) and [expansion summary CSV](../data/arda-intro-game-expansion-summary.csv). The author's 505/606 totals omit the MP-paired site cards, giving 554/694 physical card components when those sites are included.
 - **METW + METD only, no rares:** Play Deck 330 (141 resource events, 93 hazard events, 96 hazard creatures); MP Deck 49; Character Deck 57; Minor Item Deck 34; Ring Deck 10; Avatar Deck 5; Haven Deck 20. Total across all listed piles: **505**.
 - **All rarities and sets:** Play Deck 360 (156 resource events, 107 hazard events, 97 hazard creatures); MP Deck 88; Character Deck 71; Minor Item Deck 41; Ring Deck 21; Avatar Deck 5; Haven Deck 20. Total across all listed piles: **606**.
 
