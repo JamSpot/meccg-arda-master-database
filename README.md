@@ -9,6 +9,9 @@ A navigable learning site and auditable master database for Hero Arda in the Mid
 - Arda-specific solo guide: https://jamspot.github.io/meccg-arda-master-database/docs/arda-solo-play.html
 - Card inventory: https://jamspot.github.io/meccg-arda-master-database/docs/card-inventory.html
 - Inventory CSV: https://jamspot.github.io/meccg-arda-master-database/data/gandalf-gene-arda-card-inventory.csv
+- Arda Intro Game normalized inventory: https://jamspot.github.io/meccg-arda-master-database/data/arda-intro-game-card-inventory.csv
+- Arda Intro Game expansion summary: https://jamspot.github.io/meccg-arda-master-database/data/arda-intro-game-expansion-summary.csv
+- Latest research watch: https://jamspot.github.io/meccg-arda-master-database/docs/research-watch-2026-11-04.html
 
 ## Project boundaries
 
@@ -19,6 +22,7 @@ A navigable learning site and auditable master database for Hero Arda in the Mid
 - Canonical Gandalf Gene Arda is the primary card-pool comparison point.
 - Other Arda lists and rulesets are labelled comparisons or variants, not silently merged.
 - No proxies: acquisition work is for genuine physical MECCG cards.
+- No Dream Cards, fan-made/custom cards or unreleased material.
 - Source discrepancies are recorded rather than silently corrected.
 - Minion Arda is outside scope unless explicitly requested.
 
@@ -29,6 +33,10 @@ A navigable learning site and auditable master database for Hero Arda in the Mid
 3. [Rules and variants](docs/rules-and-variants.md)
 4. [Gandalf Gene canonical deck](docs/gandalf-gene.md)
 5. [Card inventory](docs/card-inventory.md) and [comparison lists](docs/comparison-lists.md)
+
+## Latest research update — 4 November 2026
+
+The 2024 Arda Intro Game sample pools have been normalized against official card IDs. Their physical totals are 554 (METW/METD no-rares) and 694 (all-rarities), including MP-paired site cards omitted from the PDF's headline totals. The all-rarities pool has 69 unresolved cross-set hazard printings. These remain separate from the canonical Gandalf Gene inventory.
 
 ## Current working quantity baseline
 
