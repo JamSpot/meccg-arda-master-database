@@ -1,7 +1,7 @@
 # Research Progress
 
 ## Current stage
-The original Gandalf Gene workbook and a separate Jose-san Arda workbook are now parsed and compared. The full local MECCG Card List v1.13 catalogue has also been parsed: 1,722 named entries across 10 set codes, of which 1,674 have original ICE card IDs across the seven official card expansions; 48 N/A-ID entries are sourcebook scenario/site material and are excluded from the physical-card inventory. All 377 Gene rows match after a title alias and metadata corrections; all 370 Jose-san rows match by name, set, type and alignment. The canonical Gene inventory remains 699 explicit copies, versus CCG Collector's independent 695-copy community summary. The Gene workbook's static Desglose tab totals 691 and appears stale: its categories match the Jose-san pool, including Minion categories absent from the Gene card rows. The priority is now the four-copy quantity reconciliation and retrieval of the no-rares sample XLS. The Council of Elrond Rules Committee cards.json and changes-guide.xlsx are now recorded as the current errata/text reference, while the MeCCG downloads page and independent metw.net/CollecCards catalogues provide additional metadata cross-checks.
+The original Gandalf Gene workbook and a separate Jose-san Arda workbook are parsed and compared. The full local MECCG Card List v1.13 catalogue has 1,674 original ICE card-ID rows across the seven official expansions, plus 17 promo rows; 48 N/A-ID sourcebook scenario/site entries are excluded. The 2024 Arda Intro Game PDF is now normalized against the current Council of Elrond card database: 727 row-level records across two variants, with no unmatched card identities after spelling/abbreviation aliases. Its physical totals are 554 (METW+METD no-rares) and 694 (all rarities); 69 all-rarities hazard copies remain cross-set ambiguous. The canonical Gene inventory remains 699 explicit copies versus CCG Collector's independent 695-copy community summary; the static 691 Desglose tab remains stale. No Intro Game quantities have been merged into Gene. The Council of Elrond Rules Committee cards.json and changes-guide.xlsx are now recorded as the current errata/text reference, while the MeCCG downloads page and independent metw.net/CollecCards catalogues provide additional metadata cross-checks.
 
 ## Confirmed from the extracted Gandalf Gene workbook
 - 377 named card rows after excluding title/header structure.
@@ -25,7 +25,8 @@ The original Gandalf Gene workbook and a separate Jose-san Arda workbook are now
 - Added the [28 October 2026 source watch](research-watch-2026-10-28.html), documenting a previously untracked 2013 solo-Arda build with a session report and comparing its pile structure with the canonical format.
 - Added the [29 October 2026 source watch](research-watch-2026-10-29.html), documenting Arda Rules 4.0's general pile-sizing guidance, contrasting it with the 423-card Gandalf Gene Play Deck, and adding five targeted CoE card-metadata checks to the inventory.
 - Added the [30 October 2026 source watch](research-watch-2026-10-30.html), cataloguing the 2014 Arda Revised rules, the 2023–24 Hero compiled ruleset, Thorin's Wizards/Dragons treasure-travel aid, the 2022 Spanish solo-Arda variant, and the BGG Arda deck example XLS lead. Corrected the source register's earlier PDF label for that XLS.
-- Added the [31 October 2026 source watch](research-watch-2026-10-31.html), parsed the local Jose-san ARDA.xls candidate, created a 322-row Hero/Neutral/Avatar comparison CSV, identified the source of the 695-copy figure, and corrected the stale Gene Desglose attribution.
+- Added the [31 October 2026 source watch](research-watch-2026-10-31.html), parsed the local Jose-san ARDA.xls candidate, created a 322-row strict Hero/Neutral/Avatar alignment-filtered comparison CSV, identified the source of the 695-copy figure, and corrected the stale Gene Desglose attribution.
+- Added the [4 November 2026 source watch](research-watch-2026-11-04.html), normalized both Arda Intro Game sample pools against official card IDs, added a 727-row card inventory CSV and an expansion summary CSV, counted the additional MP-paired site cards, and isolated 69 cross-set ambiguous hazard copies plus promo-printing uncertainties.
 
 - Added the 31 October Council of Elrond discussion context: Hero and Minion Arda are separate pool designs, and community commentary suggests Dragon Ahunt/Drake omissions in the Gene hazard mix may be intentional balance curation rather than extraction gaps.
 
@@ -34,6 +35,16 @@ The original Gandalf Gene workbook and a separate Jose-san Arda workbook are now
 - Identified a downloadable 83.5 KiB bilingual Arda Sample Deck_no rares.xls by Thorondor (20 July 2015), a low-rarity METW/METD/MEDM comparison pool. The attachment is listed but not yet retrievable for row-level extraction.
 
 - Parsed the full local MECCG Card List v1.13 workbook (1,674 official card-ID rows across seven ICE expansions; 48 N/A-ID sourcebook entries excluded) and matched all 377 Gandalf Gene rows and all 370 Jose-san rows; corrected six Gene metadata exceptions, added `data/catalogue-v1-13-audit.csv`, and marked every inventory row's catalogue match status without changing quantities.
+
+## Latest source-watch result — 4 November 2026
+
+- Normalized Jared Brayshaw's 2024 Arda Intro Game PDF against the current Council of Elrond cards.json (latest repository commit message: CRF 22 applied). Created a 727-row inventory covering both variants, MP resources, MP-paired sites, characters, minor items, rings, avatars and Haven sites.
+- Reproduced the author's 505/606 listed totals, then counted the additional 49/88 MP-paired site cards. The resulting physical totals are 554 and 694.
+- Expansion totals including paired sites: no-rares METW 461 / METD 93; all-rarities METW 514 / METD 89 / MEDM 15 / MELE 6 / MEAS 1, plus 69 cross-set ambiguous hazard copies.
+- Identified four confirmed METW promo copies in the all-rarities pool and 14 further copies where base-versus-promo printing is unspecified. The no-rares pool has 13 such copies. The Arkenstone row is resolved to Hero TW-341; the Minion promo LE-418 is not used.
+- Confirmed that Dreams of Lore (TW-210) is an original ICE Hero card, not a Dream Card. No Dream Cards, custom cards or Minion Arda decklists were imported.
+- Rechecked current Arda forum topics: the newest 2026 topic is a Dream Card/Minion variant and is excluded. BanalityBob's public sheet currently exposes only seven populated rows in the browser view; it is not a complete quantity source in this pass.
+- The 699 explicit Gandalf Gene copies versus CCG Collector's 695 remain unresolved. No canonical Gene quantities changed.
 
 ## Latest source-watch result — 2 November 2026
 
