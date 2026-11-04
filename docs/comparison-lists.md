@@ -2,6 +2,41 @@
 
 These lists are useful for comparison but must not be merged into the canonical Gandalf Gene deck without explicit evidence.
 
+## 4 November 2026 — Arda Intro Game row-level normalization
+
+The May 2024 *Arda Intro Game* PDF has now been mapped against the current official card database. Its two pools remain separate variants, not additions to Gandalf Gene.
+
+| Variant | PDF listed total | Additional MP-paired sites | Physical components |
+|---|---:|---:|---:|
+| METW + METD, no rares | 505 | 49 | **554** |
+| All rarities and sets | 606 | 88 | **694** |
+
+Physical expansion totals, including the MP-paired sites and Haven Deck:
+
+| Expansion | No rares | All rarities and sets |
+|---|---:|---:|
+| METW | 461 | 514 |
+| METD | 93 | 89 |
+| MEDM | — | 15 |
+| MELE | — | 6 |
+| MEAS | — | 1 |
+| Unresolved cross-set printings | 0 | 69 |
+| **Total physical components** | **554** | **694** |
+
+The all-rarities list has 69 hazard copies whose names match both an original METW/METD printing and a MELE printing; the PDF does not specify which printing it uses. Four further copies are confirmed METW promos (Black Arrow, Fatty Bolger, Fury of the Iron Crown and The Iron Crown). Fourteen more copies have a base-versus-promo printing ambiguity within METW. The no-rares list has 13 such copies.
+
+The author’s 505/606 totals count the MP resource cards but not the site cards paired with them. The additional 49/88 sites are physical cards and are included in the expansion totals above.
+
+Download the [727-row normalized card inventory](../data/arda-intro-game-card-inventory.csv) and [expansion summary](../data/arda-intro-game-expansion-summary.csv). The card-name aliases Beregrond → Beregond, Edehellond → Edhellond and Dwarven Ring – Durin → Dwarven Ring of Durin’s Tribe are documented in the inventory.
+
+The Hero Arda *Arkenstone* is TW-341 (Hero, The Wizards); the separate Minion promo LE-418 is not used. *Dreams of Lore* is the original ICE Hero card TW-210, not a Dream Card. No Dream Cards, custom cards or Minion Arda decklists were added.
+
+## Scope clarification — Jose-san comparison
+
+The 322-name / 623-copy Jose-san subset is a strict Avatar/Hero/Neutral alignment filter, retained for comparison only. It is not a replacement canonical Hero Arda list or a physical acquisition list. Keep the separate Minion Arda variant excluded; do not merge its quantities into the Hero pool.
+
+
+
 ## Jose-san — ARDA.xls (likely BGG Arda deck example)
 
 The BGG [MECCG files archive](https://boardgamegeek.com/boardgame/1915/middle-earth/files) lists an **Arda deck example — XLS** by Jose-san. The project Library contains a local ARDA.xls whose workbook metadata says it was last saved by Jose San Miguel on 2 May 2010. Its categories and totals match the previously recorded Jose-san summary, making it a high-confidence candidate for that BGG file; the BGG attachment has not yet been hash-compared.
@@ -86,7 +121,7 @@ The [ARDA VARIANTS thread](https://www.councilofelrond.org/forum/viewtopic.php?f
 
 ## 2024 — The Arda Intro Game sample pools (Jared Brayshaw)
 
-A 14-page community PDF, last updated May 2024, contains two sample Arda Intro Game card pools. A local copy is held in the project research Library; a public download URL was not verified in the 3 November 2026 pass.
+A 14-page community PDF, last updated May 2024, contains two sample Arda Intro Game card pools. [Download the public PDF](https://www.councilofelrond.org/forum/download/file.php?id=4315). The row-level inventory and expansion reconciliation were completed on 4 November 2026.
 
 ### METW + METD only, no rares
 
@@ -116,7 +151,7 @@ Spot-checks against the Council of Elrond card database confirm that several dis
 
 The list's **Dreams of Lore** entry is the official ICE Hero card TW-210, not a Dream Card. Custom Dream Cards remain excluded.
 
-The totals above are the author's printed section totals. Exact row-level reconciliation, alignment checking for every line and expansion-by-expansion quantities are still required. Keep both sample pools separate from Gandalf Gene and Jose-san until that work is complete.
+The author's printed section totals have now been independently reconciled row-by-row. The additional MP-paired site cards are counted separately, and unresolved cross-set printings are explicitly flagged. Keep both sample pools separate from Gandalf Gene and Jose-san.
 
 
 ### Promo-printing note for the 2024 Arda Intro Game all-rarities pool
