@@ -34,9 +34,9 @@ This site teaches and documents **Arda format**: the shared-deck multiplayer gam
 
 In the Arda Basic Game, all players draw from the same shared decks. It is designed for 2–7 players, encourages improvisation and trading, and uses a different preparation and play structure from conventional constructed Hero-vs-Hazard MECCG. The standard shared piles are the Play Deck, MP Deck, Roving Character Deck and Minor Item Offering Deck.
 
-## Latest research update — 3 November 2026
+## Latest research update — 4 November 2026
 
-The seven-expansion catalogue count is now reconciled: **1,657 base cards plus 17 promo rows** in v1.13. The Jose-san Hero pool is also split into **620 base-expansion copies plus 3 official promo copies**. [Read the research watch](docs/research-watch-2026-11-03.html).
+The 2024 Arda Intro Game sample pools are now normalized against official card IDs. The PDF's printed totals omit MP-paired site cards, so the physical pools are **554 cards** (no rares) and **694 cards** (all rarities). The all-rarities list still has 69 unresolved cross-set hazard printings; none of these quantities have been merged into Gandalf Gene. [Read the 4 November research watch](docs/research-watch-2026-11-04.html) and download the [normalized card inventory](data/arda-intro-game-card-inventory.csv) or [expansion summary](data/arda-intro-game-expansion-summary.csv).
 
 ## Arda card pool and research
 
