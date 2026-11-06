@@ -118,3 +118,33 @@ No Dream Cards, proxies, or Minion Arda recommendations have been introduced.
 2. Recheck the four-copy Gandalf Gene discrepancy against the original workbook rows.
 3. Continue extracting Thorondor's no-rares XLS and any complete BanalityBob export.
 4. Keep promo printings separate from base expansion card counts and from Arda deck quantities.
+
+
+## 7. New community leads checked on 6 November 2026
+
+### BoardGameGeek discussion leads
+
+The current Middle-earth BGG page surfaces two recent Variant discussions by proxegentyc:
+
+- **Turning MECCG into a Modular Solo Board Game – ARDA, Variants & Card Lists. Is it possible?** — shown as 23 days old.
+- **Looking for card lists to build ARDA decks** — shown as 21 days old.
+
+These are potential leads to further lists, but the individual BGG thread pages were not accessible to the research browser (403). No attachment, spreadsheet, card names or quantities could be verified from the indexed page. They are therefore recorded as leads only and have not been added to the master pool.
+
+[Open the Middle-earth BGG page and its current hot threads](https://boardgamegeek.com/boardgame/1915)
+
+### Gen Con 2026 Arda event
+
+The Gen Con listing for **Middle-Earth CCG: “Arda” Format** describes a four-hour shared-deck event for 4–18 players. It says that almost all cards for 2026 would be official versions rather than Virtuals. The listing does not publish the shared-pile inventory, card quantities or a downloadable deck file.
+
+[Gen Con 2026 event listing](https://www.gencon.com/events/303679)
+
+This is a useful contact lead for a real-world physical Arda pool, not a new quantity source. The listed game masters are Joe Bisz and Kenneth Hardcastle.
+
+### Current deck archive check
+
+The current MeCCG deck database contains many constructed tournament decks, but this pass did not verify a new Arda-labelled deck or shared-pool export. The database is still useful for conventional constructed-deck research; those lists must not be merged into the Arda shared pool.
+
+[MeCCG deck database](https://meccg.com/decks/)
+
+**Result:** no new Arda card quantities, XLS/XLSX decklist or `.dek` file was verified in this pass. The catalogue/promo reconciliation above remains unchanged.
