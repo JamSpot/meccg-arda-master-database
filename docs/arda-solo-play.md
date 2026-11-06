@@ -26,11 +26,17 @@ The author generally used one copy of each owned card, with selected multiples o
 
 ### 2. Kober — Arda Solitaire v0.2 (2015)
 
-[Find the Arda Solitaire v0.2 source on Council of Elrond](https://councilofelrond.org/forum/viewtopic.php?t=2578)
+[Read the Council of Elrond discussion and download Arda Solitaire v0.2 PDF (44.23 KiB)](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=2578)
 
-This is a separate Arda-specific solitaire rules document. A 2016 discussion compares it with Callasmar's approach: Kober's method preserves travel to the appropriate sites for Greater/Major Items, Information and Gold Rings rather than simply pairing a site with a playable card.
+Kober posted this on 4 April 2015 as a way to play Arda when friends are unavailable. The forum page recorded 2,328 downloads when checked on 6 November 2026. The PDF is a rules document, not a card-pool spreadsheet.
 
-**How to use this source:** keep Kober's site/travel logic intact if choosing this method. Do not import Callasmar's site/card pairing or the 2013 BGG hazard-draw multipliers unless the original Kober document says to. The PDF binary was listed on the forum but was not retrievable for full rule-by-rule extraction during this update.
+The follow-up discussion provides one important distinction. In May 2016, a commenter compared Kober's method with Callasmar's BGG variant:
+- Callasmar pairs a site with a playable card.
+- Kober's method retains travel to the relevant sites for Greater/Major Items, Information and Gold Rings.
+
+Kober later confirmed that themed Arda-solo builds are possible and desirable, mentioning his own Trolls-burning-Rohan-and-Gondor theme and an Orcs-of-Angmar theme.
+
+**How to use this source:** keep Kober's site/travel logic separate from Callasmar's site/card pairing and from the 2013 BGG report's hazard multipliers. The PDF attachment could not be retrieved for full extraction in this research pass, so this page does not invent its setup, turn sequence, hazard counts, scoring or end condition. A separate participant's comments about inventing cards are not part of Kober's rules. This project continues to use only official ICE cards.
 
 ### 3. Callasmar — solo Arda variant
 
@@ -50,7 +56,7 @@ The source register identifies [TierraMediaF2.pdf](https://boardgamegeek.com/boa
 |---|---|---|---|---|
 | Distinct solo source | Yes | Yes | Yes | Yes |
 | Separate Arda piles described | Yes | Requires original PDF | Site/card pairing noted | Requires source extraction |
-| Special site/travel handling | Hazard count scales with travel/staying | Retains travel to appropriate sites | Site paired with playable card | Not yet extracted |
+| Special site/travel handling | Hazard count scales with travel/staying | Retains travel to appropriate sites, per 2016 forum comparison | Site paired with playable card | Not yet extracted |
 | Published target / end condition recorded here | 25 MP in 8 turns | Not verified | Not verified | Not verified |
 | Complete procedure verified in this project | Partial session-report detail | No | No | No |
 
