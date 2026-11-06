@@ -11,7 +11,10 @@ A navigable learning site and auditable master database for Hero Arda in the Mid
 - Inventory CSV: https://jamspot.github.io/meccg-arda-master-database/data/gandalf-gene-arda-card-inventory.csv
 - Arda Intro Game normalized inventory: https://jamspot.github.io/meccg-arda-master-database/data/arda-intro-game-card-inventory.csv
 - Arda Intro Game expansion summary: https://jamspot.github.io/meccg-arda-master-database/data/arda-intro-game-expansion-summary.csv
-- Latest research watch: https://jamspot.github.io/meccg-arda-master-database/docs/research-watch-2026-11-04.html
+- Latest research watch: https://jamspot.github.io/meccg-arda-master-database/docs/research-watch-2026-11-06.html
+
+- Current promo-printing audit: https://jamspot.github.io/meccg-arda-master-database/data/promo-card-inventory-2026-11-06.csv
+- Current expansion reconciliation: https://jamspot.github.io/meccg-arda-master-database/data/catalogue-expansion-reconciliation.csv
 
 ## Project boundaries
 
