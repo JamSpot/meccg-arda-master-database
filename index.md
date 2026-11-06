@@ -34,9 +34,11 @@ This site teaches and documents **Arda format**: the shared-deck multiplayer gam
 
 In the Arda Basic Game, all players draw from the same shared decks. It is designed for 2–7 players, encourages improvisation and trading, and uses a different preparation and play structure from conventional constructed Hero-vs-Hazard MECCG. The standard shared piles are the Play Deck, MP Deck, Roving Character Deck and Minor Item Offering Deck.
 
-## Latest research update — 4 November 2026
+## Latest research update — 6 November 2026
 
-The 2024 Arda Intro Game sample pools are now normalized against official card IDs. The PDF's printed totals omit MP-paired site cards, so the physical pools are **554 cards** (no rares) and **694 cards** (all rarities). The all-rarities list still has 69 unresolved cross-set hazard printings; none of these quantities have been merged into Gandalf Gene. [Read the 4 November research watch](docs/research-watch-2026-11-04.html) and download the [normalized card inventory](data/arda-intro-game-card-inventory.csv) or [expansion summary](data/arda-intro-game-expansion-summary.csv).
+A current Council of Elrond/Card Hunters HQ cross-check identifies **1,683 card/printing records** across the seven expansions. One is TW-500, the separate Lure of MECCG event promo, which is not an original ICE card and remains excluded. The working ICE catalogue is **1,682 records**: 1,657 base expansion cards plus 25 promo-coded printings. This is eight above the historical v1.13 count; eight promo variants still need scan-level provenance checking. The four-copy Gandalf Gene discrepancy and all Arda deck quantities remain unchanged.
+
+No new Arda XLS/XLSX or `.dek` decklist was verified. Two recent BGG discussions and the Gen Con 2026 Arda event are recorded as leads only; none publishes a card-quantity pool. [Read the 6 November research watch](docs/research-watch-2026-11-06.html), download the [promo-printing audit](data/promo-card-inventory-2026-11-06.csv), or inspect the [expansion reconciliation](data/catalogue-expansion-reconciliation.csv).
 
 ## Arda card pool and research
 
