@@ -40,6 +40,10 @@ A current Council of Elrond/Card Hunters HQ cross-check identifies **1,683 card/
 
 No new Arda XLS/XLSX or `.dek` decklist was verified. Two recent BGG discussions and the Gen Con 2026 Arda event are recorded as leads only; none publishes a card-quantity pool. [Read the 6 November research watch](docs/research-watch-2026-11-06.html), download the [promo-printing audit](data/promo-card-inventory-2026-11-06.csv), or inspect the [expansion reconciliation](data/catalogue-expansion-reconciliation.csv).
 
+## Research links supplied for review
+
+The supplied MECCG bookmarks have now been checked and classified. The most relevant new Arda-solo lead is Kober's 2015 *Arda Solitaire v0.2* discussion; a 2025 Cardnum Deck Build Helper XLSX is also recorded as a secondary deck-reference tool, not an Arda pool. [Read the research-links review](docs/research-links-review-2026-11-06.html).
+
 ## Arda card pool and research
 
 The database uses Gandalf Gene's 2016 Hero Arda list as its principal fixed card-pool comparison point. Alternative Hero Arda lists, revised rulesets and solo variants are kept separate rather than silently merged.
@@ -73,7 +77,7 @@ The database uses Gandalf Gene's 2016 Hero Arda list as its principal fixed card
   <section class="home-link-card">
     <h3>Published sources</h3>
     <p>Find published Arda lists, downloadable spreadsheets, card catalogues and rules variants.</p>
-    <p><a href="docs/sources.html">Sources and downloads</a> · <a href="docs/comparison-lists.html">Compare lists</a></p>
+    <p><a href="docs/sources.html">Sources and downloads</a> · <a href="docs/comparison-lists.html">Compare lists</a> · <a href="docs/research-links-review-2026-11-06.html">Review supplied research links</a></p>
   </section>
 </div>
 
