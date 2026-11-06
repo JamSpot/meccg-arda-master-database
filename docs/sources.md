@@ -220,3 +220,26 @@ The [metw.net cardlists](https://metw.net/) give the base counts for all seven e
 ### Solo Arda build report — BoardGameGeek (2013)
 
 [My Solo Arda Build with Session Report](https://boardgamegeek.com/thread/1058232/my-solo-arda-build-with-session-report) is a historical community solo adaptation, not a complete downloadable card list. It describes separate MP, Ring, Resource, Minor Item, two Character, Hazard and Site decks; mostly one copy of each owned card with selected common-card multiples; and a target of 25 Marshaling Points in eight turns. The author excludes The Lidless Eye, The White Hand and The Balrog. It is already used in the Arda Solo Play guide as an experimental approach, not as canonical Arda rules or a source of exact expansion quantities.
+
+
+## Catalogue cross-checks added 6 November 2026
+
+### Council of Elrond card database
+- Raw card catalogue: https://raw.githubusercontent.com/council-of-elrond-meccg/meccg-cards-database/master/cards.json
+- Repository: https://github.com/council-of-elrond-meccg/meccg-cards-database
+- Current data includes TW-493 through TW-500 and TD-185 in addition to the v1.13 set totals. Use it for current IDs and card text, then classify promo provenance separately.
+
+### Card Hunters HQ — Middle-earth CCG checklist
+- Game overview: https://cardhuntershq.com/browse/meccg
+- Seven set checklists, current October 2026 catalogue count 1,683.
+- Its source register credits the Council of Elrond database. It is a collector checklist, not an Arda decklist or quantity source.
+
+### MECCG Full Spoiler List
+- PDF: https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf
+- 186 pages; compiled by Black Council of Mordor and updated by Adrian Teroux in February 2007.
+- Includes Standard Promo Cards on pages 184–185 and Special German Promo Cards on page 186, including the nine German promo cards.
+
+### MeCCG collecting archive and Lure event rules
+- Collecting/promos archive: https://meccg.com/collecting/
+- Lure of Middle-earth event rules: https://lureofmiddleearth.com/general-rules-middle-earth-ccg/
+- These distinguish the nine German promo cards from the separate Lure of MECCG event promo. The latter is excluded from the original ICE master.
