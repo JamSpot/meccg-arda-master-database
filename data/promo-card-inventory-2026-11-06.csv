@@ -1,0 +1,27 @@
+card_id,expansion,card_name,rarity,classification,scope_status,evidence_note
+TW-15,METW,Barrow-wight,P,Promo variant,Provisional include,Existing v1.13 promo row; physical printing provenance still needs scan-level review
+TW-80,METW,Pick-pocket,P,Promo variant,Provisional include,Existing v1.13 promo row; physical printing provenance still needs scan-level review
+TW-135,METW,Boromir II,P,Promo variant,Provisional include,Existing v1.13 promo row; physical printing provenance still needs scan-level review
+TW-208,METW,Dark Quarrels,P,Promo variant,Provisional include,Existing v1.13 promo row; physical printing provenance still needs scan-level review
+TW-230,METW,Escape,P,Promo variant,Provisional include,Existing v1.13 promo row; physical printing provenance still needs scan-level review
+TW-308,METW,Quickbeam,P,Promo variant,Provisional include,Existing v1.13 promo row; physical printing provenance still needs scan-level review
+TW-339,METW,Test of Form,P,Promo variant,Provisional include,Existing v1.13 promo row; physical printing provenance still needs scan-level review
+TW-492,METW,Fury of the Iron Crown,P,Standard English promo,Include,Listed in the 2007 Full Spoiler List standard promo section
+TW-493,METW,Neeker-breekers,P,Standard English promo,New ICE promo,Listed in the 2007 Full Spoiler List and current CoE database
+TW-494,METW,Black Arrow,P,Standard English promo,New ICE promo,Listed in the 2007 Full Spoiler List and current CoE database
+TW-495,METW,Fatty Bolger,P,Standard English promo,New ICE promo,Listed in the 2007 Full Spoiler List and current CoE database
+TW-496,METW,The Iron Crown,P,Standard English promo,New ICE promo,Listed in the 2007 Full Spoiler List and current CoE database
+TW-497,METW,A Pack at the Door,P,Special German promo,New ICE promo,Listed in the 2007 Full Spoiler List special German promo section
+TW-498,METW,Swordmaster,P,Special German promo,New ICE promo,Listed in the 2007 Full Spoiler List special German promo section
+TW-499,METW,Dwarven Axe,P,Special German promo,New ICE promo,Listed in the 2007 Full Spoiler List special German promo section
+TW-500,METW,Lure of MECCG,P,Lure event promo,Exclude non-ICE,Separate Lure event promo; outside original ICE publication scope
+TD-87,METD,Wolf-riders,P,Promo variant,Provisional include,Existing v1.13 promo row; physical printing provenance still needs scan-level review
+TD-182,METD,Ireful Flames,P,Standard English promo,Include,Listed in the 2007 Full Spoiler List standard promo section
+TD-183,METD,Horn of Defiance,P,Special German promo,Include,Listed in the 2007 Full Spoiler List special German promo section
+TD-184,METD,Ringil,P,Special German promo,Include,Listed in the 2007 Full Spoiler List special German promo section
+TD-185,METD,Belegennon,P,Special German promo,New ICE promo,Listed in the 2007 Full Spoiler List special German promo section
+DM-181,MEDM,Baugúr,P,Special German promo,Include,Listed in the 2007 Full Spoiler List special German promo section
+DM-182,MEDM,Freca,P,Special German promo,Include,Listed in the 2007 Full Spoiler List special German promo section
+DM-183,MEDM,Wolf,P,Special German promo,Include,Listed in the 2007 Full Spoiler List special German promo section
+LE-418,MELE,The Arkenstone,P,Standard English promo,Include,Listed in the 2007 Full Spoiler List standard promo section
+LE-419,MELE,Deadly Dart,P,Standard English promo,Include,Listed in the 2007 Full Spoiler List standard promo section
