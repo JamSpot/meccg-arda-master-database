@@ -55,3 +55,29 @@ See [the per-expansion CSV](../data/jose-san-hero-expansion-summary.csv) and [th
 The metw.net base cardlists and v1.13 workbook now reconcile exactly: v1.13 contains 1,674 rows with IDs, including 17 rows marked Promotion; removing those promo rows leaves **1,657 base expansion cards**. The base counts by expansion are METW 484, METD 180, MEDM 180, MELE 417, MEBA 104, MEAS 170 and MEWH 122. See [the reconciliation CSV](../data/catalogue-expansion-reconciliation.csv).
 
 Do not use card IDs as cross-source join keys. The v1.13 and Council of Elrond databases assign different TW numbers to some of the same cards; use normalized name, set, type, alignment and printing status.
+
+
+## 6 November 2026 — current catalogue and promo reconciliation
+
+The earlier 1,674 figure is the historical v1.13 workbook count, not the complete current printing catalogue. A current Council of Elrond database cross-check and Card Hunters HQ's seven-set checklists report 1,683 records. One of these, TW-500 Lure of MECCG, is a separate Lure event promo and is not an original ICE card, so it remains excluded.
+
+The working original-ICE catalogue is now **1,682 card/printing records**: **1,657 base expansion cards plus 25 promo-coded printings**. This is eight more than v1.13. Eight additional ICE promo cards were identified: TW-493 Neeker-breekers, TW-494 Black Arrow, TW-495 Fatty Bolger, TW-496 The Iron Crown, TW-497 A Pack at the Door, TW-498 Swordmaster, TW-499 Dwarven Axe and TD-185 Belegennon. The 2007 Full Spoiler List separately documents standard English promos and nine special German promos.
+
+| Expansion | Base cards | Working ICE printings |
+|---|---:|---:|
+| The Wizards (METW) | 484 | 499 |
+| The Dragons (METD) | 180 | 185 |
+| Dark Minions (MEDM) | 180 | 183 |
+| The Lidless Eye (MELE) | 417 | 419 |
+| The Balrog (MEBA) | 104 | 104 |
+| Against the Shadow (MEAS) | 170 | 170 |
+| The White Hand (MEWH) | 122 | 122 |
+| **Total** | **1,657** | **1,682** |
+
+The 1,682 working total includes eight promo-variant rows already present in v1.13 whose original printing provenance still needs scan-level checking. The audit keeps those rows provisional. TW-500 is excluded as a non-ICE event promo; it is not a Dream Card.
+
+- [Current expansion reconciliation CSV](../data/catalogue-expansion-reconciliation.csv)
+- [Full promo-printing audit CSV](../data/promo-card-inventory-2026-11-06.csv)
+- [6 November research watch](research-watch-2026-11-06.html)
+
+This does **not** alter the quantities in Gandalf Gene, Jose-san or the Arda Intro Game. It only improves the master card/printing catalogue.
