@@ -243,3 +243,10 @@ The [metw.net cardlists](https://metw.net/) give the base counts for all seven e
 - Collecting/promos archive: https://meccg.com/collecting/
 - Lure of Middle-earth event rules: https://lureofmiddleearth.com/general-rules-middle-earth-ccg/
 - These distinguish the nine German promo cards from the separate Lure of MECCG event promo. The latter is excluded from the original ICE master.
+
+
+## Community leads checked 6 November 2026 — not quantity sources
+
+- [BoardGameGeek Middle-earth page](https://boardgamegeek.com/boardgame/1915): currently surfaces two recent Variant discussions by proxegentyc about modular solo/Arda variants and finding Arda card lists. The individual threads were not accessible during this pass, so no card list or attachment has been verified.
+- [Gen Con 2026 — Middle-Earth CCG: “Arda” Format](https://www.gencon.com/events/303679): four-hour shared-deck event for 4–18 players; the listing says almost all cards would be official versions rather than Virtuals. It publishes no pool list or card quantities.
+- [MeCCG deck database](https://meccg.com/decks/): searchable constructed-deck archive; no new Arda shared-pool deck was verified in this pass. Conventional decklists are not to be merged into Arda quantities.
