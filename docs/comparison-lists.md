@@ -197,3 +197,27 @@ The metw.net expansion PDFs count base cards; the v1.13 workbook adds 17 promo r
 | **Total** | **1,657** | **1,674** | **17** |
 
 This resolves the earlier 484/492/500 catalogue-count confusion: 1,657 is the base expansion total, 17 v1.13 rows are promotional printings, and the 500-entry Card Hunters HQ list is a broader Council of Elrond database mirror. TW IDs differ between v1.13 and the CoE database; join by normalized card name and printing metadata, never by numeric TW ID alone. See [the reconciliation CSV](../data/catalogue-expansion-reconciliation.csv).
+
+
+## 6 November 2026 — official promo catalogue reconciliation
+
+The current Council of Elrond data and Card Hunters HQ set checklists report 1,683 records across the seven expansions. This is nine above the v1.13 workbook's 1,674 card-ID rows.
+
+The difference is eight official ICE promo entries plus TW-500, the separate Lure of MECCG event promo. TW-500 is not an original ICE card and is excluded. The working official ICE catalogue therefore rises to 1,682 physical card/printing records, subject to scan-level verification of eight older promo-variant printings.
+
+| Expansion | Base cards | v1.13 IDs | Current catalogue IDs | ICE promo printings in working count |
+|---|---:|---:|---:|---:|
+| METW | 484 | 492 | 500 (499 after excluding TW-500) | 15 |
+| METD | 180 | 184 | 185 | 5 |
+| MEDM | 180 | 183 | 183 | 3 |
+| MELE | 417 | 419 | 419 | 2 |
+| MEBA | 104 | 104 | 104 | 0 |
+| MEAS | 170 | 170 | 170 | 0 |
+| MEWH | 122 | 122 | 122 | 0 |
+| **Total** | **1,657** | **1,674** | **1,682 eligible** | **25** |
+
+The eight additional ICE promo IDs are TW-493 Neeker-breekers, TW-494 Black Arrow, TW-495 Fatty Bolger, TW-496 The Iron Crown, TW-497 A Pack at the Door, TW-498 Swordmaster, TW-499 Dwarven Axe and TD-185 Belegennon. The 2007 Full Spoiler List identifies the standard English promos and nine special German promos.
+
+The complete P-row audit, including the excluded TW-500 Lure event promo and the older promo-variant rows, is in [promo-card-inventory-2026-11-06.csv](../data/promo-card-inventory-2026-11-06.csv). Expansion-level counts are in [catalogue-expansion-reconciliation.csv](../data/catalogue-expansion-reconciliation.csv).
+
+This is a catalogue/printing update only. It does not change Gandalf Gene, Jose-san or Arda Intro Game deck quantities.
