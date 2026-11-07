@@ -10,6 +10,22 @@ The 2016 Rules 4.0 document describes the Basic Game, recommended pile sizes, mu
 
 [Read Arda Rules 4.0 (PDF)](https://lureofmiddleearth.com/wp-content/uploads/2016/03/arda_4.0_en.pdf)
 
+## Gandalf Gene's 2016 community build — keep its setup separate
+
+The [original Gene post](https://councilofelrond.org/forum/viewtopic.php?f=37&t=2870) describes a 2–5 player build, whereas Arda Rules 4.0 allows 2–7. Its Play Deck is 171 resources plus 252 creatures/hazards, rather than the generic 1:1 resource/hazard guidance in Rules 4.0.
+
+The setup sequence and starting location also differ:
+
+| Step | Arda Rules 4.0 Basic Game | Gandalf Gene 2016 build |
+|---|---|---|
+| Opening order | Draw 8 Play + 5 MP cards first | Select Wizard first |
+| Characters | Draft Wizard, then deal/draft up to 10 characters | Deal two major characters, then draft from a pool of 10 |
+| Minor items | Draft two after the hands and characters | Select two after the character draft, using priority rules for certain unique items |
+| MP exchange | General trading rules apply during play | Explicit one-for-one MP hand swap before starting |
+| Starting site | Rivendell or the Wizard's home site | Riverside or the Wizard's home site |
+
+The Gene post also specifies a One Ring win condition requiring Gollum and *Gollum's Fate*, no Underdeep sites, and a curated hazard mix that includes all Dragons and Dragons at Home but no Dragons Ahunt. Treat the 2016 post's pile contents and setup as one coherent community variant. Do not combine individual steps with the Basic Game sequence without an explicit table decision.
+
 ## Compiled Arda Ruleset — Hero
 
 The March 2024 Compiled Arda Ruleset – Hero is a rules reference based partly on the Middle-earth Arda Game, Arda Revised and Gandalf Gene's Arda Deck.
