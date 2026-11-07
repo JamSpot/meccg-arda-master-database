@@ -11,7 +11,7 @@ A navigable learning site and auditable master database for Hero Arda in the Mid
 - Inventory CSV: https://jamspot.github.io/meccg-arda-master-database/data/gandalf-gene-arda-card-inventory.csv
 - Arda Intro Game normalized inventory: https://jamspot.github.io/meccg-arda-master-database/data/arda-intro-game-card-inventory.csv
 - Arda Intro Game expansion summary: https://jamspot.github.io/meccg-arda-master-database/data/arda-intro-game-expansion-summary.csv
-- Latest research watch: https://jamspot.github.io/meccg-arda-master-database/docs/research-watch-2026-11-06.html
+- Latest research watch: https://jamspot.github.io/meccg-arda-master-database/docs/research-watch-2026-11-07.html
 
 - Current promo-printing audit: https://jamspot.github.io/meccg-arda-master-database/data/promo-card-inventory-2026-11-06.csv
 - Current expansion reconciliation: https://jamspot.github.io/meccg-arda-master-database/data/catalogue-expansion-reconciliation.csv
@@ -37,9 +37,9 @@ A navigable learning site and auditable master database for Hero Arda in the Mid
 4. [Gandalf Gene canonical deck](docs/gandalf-gene.md)
 5. [Card inventory](docs/card-inventory.md) and [comparison lists](docs/comparison-lists.md)
 
-## Latest research update — 4 November 2026
+## Latest research update — 7 November 2026
 
-The 2024 Arda Intro Game sample pools have been normalized against official card IDs. Their physical totals are 554 (METW/METD no-rares) and 694 (all-rarities), including MP-paired site cards omitted from the PDF's headline totals. The all-rarities pool has 69 unresolved cross-set hazard printings. These remain separate from the canonical Gandalf Gene inventory.
+The original Gandalf Gene post's full pile structure has been recorded: a 423-card Play Deck (171 resources and 252 creatures/hazards), plus separate MP, character and minor-item piles. Its 2–5 player community build is distinct from the 2–7 player Arda Rules 4.0 Basic Game. A CardGameGeek transcription is derivative and notes two missing hazards. No Arda quantities changed; the 699-versus-695 reconciliation remains open.
 
 ## Current working quantity baseline
 
