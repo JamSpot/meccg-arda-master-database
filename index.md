@@ -34,11 +34,11 @@ This site teaches and documents **Arda format**: the shared-deck multiplayer gam
 
 In the Arda Basic Game, all players draw from the same shared decks. It is designed for 2–7 players, encourages improvisation and trading, and uses a different preparation and play structure from conventional constructed Hero-vs-Hazard MECCG. The standard shared piles are the Play Deck, MP Deck, Roving Character Deck and Minor Item Offering Deck.
 
-## Latest research update — 6 November 2026
+## Latest research update — 7 November 2026
 
-A current Council of Elrond/Card Hunters HQ cross-check identifies **1,683 card/printing records** across the seven expansions. One is TW-500, the separate Lure of MECCG event promo, which is not an original ICE card and remains excluded. The working ICE catalogue is **1,682 records**: 1,657 base expansion cards plus 25 promo-coded printings. This is eight above the historical v1.13 count; eight promo variants still need scan-level provenance checking. The four-copy Gandalf Gene discrepancy and all Arda deck quantities remain unchanged.
+The original 2016 Gandalf Gene post has now been cross-checked at source level: it explicitly describes a **423-card Play Deck** (171 resources + 252 creatures/hazards), plus separate MP, Roving Character and Minor Item piles. It identifies this as a 2–5 player community build, distinct from the 2–7 player Arda Rules 4.0 Basic Game. A CardGameGeek transcription is confirmed as derivative and notes two missing hazards; it is not a replacement list. The 699-versus-695 discrepancy and all expansion quantities remain unchanged.
 
-No new Arda XLS/XLSX or `.dek` decklist was verified. Two recent BGG discussions and the Gen Con 2026 Arda event are recorded as leads only; none publishes a card-quantity pool. [Read the 6 November research watch](docs/research-watch-2026-11-06.html), download the [promo-printing audit](data/promo-card-inventory-2026-11-06.csv), or inspect the [expansion reconciliation](data/catalogue-expansion-reconciliation.csv).
+[Read the 7 November research watch](docs/research-watch-2026-11-07.html) for the source comparison and downloadable-file register. The [6 November catalogue audit](docs/research-watch-2026-11-06.html), [promo-printing CSV](data/promo-card-inventory-2026-11-06.csv) and [expansion reconciliation](data/catalogue-expansion-reconciliation.csv) remain available.
 
 ## Research links supplied for review
 
