@@ -34,6 +34,8 @@ The setup sequence in the post is also explicit: each player selects a Wizard; r
 
 **Ruleset distinction:** this post says 2–5 players, whereas the published Arda Rules 4.0 Basic Game supports 2–7. It is therefore a particular community Arda build, not a replacement for the general Basic Game rules. Its 171:252 Play Deck ratio also differs from the 1:1 resource/hazard construction guidance in Arda Rules 4.0. Preserve both source statements rather than “correcting” the Gene list to fit the generic recommendation.
 
+The setup sequence and starting site also differ from Arda Rules 4.0: Gene selects the Wizard first, then deals/drafts characters, chooses minor items, draws the two hands and starts at Riverside or the Wizard's home site. Rules 4.0 draws the hands first, then drafts Wizards, characters and minor items, and starts at Rivendell or the Wizard's home site. Use one sequence as a package; do not combine the steps casually.
+
 The original post says it uses no optional Arda card errata. Its own setup and drafting instructions remain part of this particular build and should be taught as such, not silently generalized to every Arda table.
 
 **Download:** [GandalfGeneArda.xls — Council of Elrond attachment ID 945](https://www.councilofelrond.org/forum/download/file.php?id=945). The forum page lists it as 79 KiB. The binary could not be re-fetched through the research browser in this pass; the already-extracted project copy remains the working source pending a binary hash comparison.
