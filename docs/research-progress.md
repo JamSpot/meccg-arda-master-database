@@ -118,3 +118,12 @@ The original Gandalf Gene workbook and a separate Jose-san Arda workbook are par
 - Needs reconciliation — row-level investigation remains.
 - Variant — belongs to another Arda list/ruleset.
 - Excluded — outside canonical project scope.
+
+
+## 8 November 2026 — Challenge Deck reference-source audit
+
+- Added a dated research watch and updated the homepage and Sources & Downloads register.
+- Checked the current MeCCG card-list XLS, Fixed Sets PDF, Challenge Decks ZIP and Challenge Deck player aid. The PDF references are readable; the XLS and ZIP binaries remain unavailable for extraction in this environment.
+- Inspected all ten plaintext Challenge Deck `.deck` files in Samwise. The main A-deck quantities match the player aid, but A–E sideboards are one card short in the `.deck` files because the separately listed backup Wizard is absent. Prefer the player aid for complete Challenge Deck lists.
+- These are conventional Challenge Deck/product references, not Arda shared pools. No Dream Cards or custom cards were imported.
+- **Arda quantity result: no change.** Gandalf Gene remains at 699 explicit copies; the 695 comparison and two blank quantities remain unresolved.
