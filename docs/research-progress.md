@@ -127,3 +127,11 @@ The original Gandalf Gene workbook and a separate Jose-san Arda workbook are par
 - Inspected all ten plaintext Challenge Deck `.deck` files in Samwise. The main A-deck quantities match the player aid, but A–E sideboards are one card short in the `.deck` files because the separately listed backup Wizard is absent. Prefer the player aid for complete Challenge Deck lists.
 - These are conventional Challenge Deck/product references, not Arda shared pools. No Dream Cards or custom cards were imported.
 - **Arda quantity result: no change.** Gandalf Gene remains at 699 explicit copies; the 695 comparison and two blank quantities remain unresolved.
+
+
+## Latest source-watch result — 9 November 2026
+
+- Identified two recent BoardGameGeek hot-thread leads: “Turning MECCG into a Modular Solo Board Game – ARDA, Variants & Card Lists. Is it possible?” and “Looking for card lists to build ARDA decks,” both by proxegentyc and listed as roughly three weeks old. Direct BGG thread access returned HTTP 403; thread contents and attachments are unverified, so neither is treated as a card list.
+- Verified the official Gen Con 2026 listing for a 4–18 player shared-deck Hero Arda event. The organizer said almost all cards would be official versions rather than Virtuals. This is evidence of active physical-card play, not a card-pool source.
+- Rechecked Arda Rules 4.0 as the published general format reference; its 250+ Play Deck and balanced resource/hazard guidance are sizing recommendations, not a fixed list.
+- No new downloadable Arda card pool or deck file was verified. Gandalf Gene remains 699 explicit copies versus CCG Collector's 695; the two blank quantity rows remain unresolved. No quantities changed.
