@@ -263,3 +263,12 @@ A comparison of all ten files with the MeCCG Challenge Deck player aid found tha
 The Council of Elrond database remains a current card-text/errata reference, not a quantity source. Its README requires acknowledgement and notification before third-party projects use its data. No card data was copied from it into this project during this pass.
 
 See the [8 November research watch](research-watch-2026-11-08.html) for direct downloads, the detailed comparison and the extraction limitations. None of these references changes the Gandalf Gene 699-copy working total or resolves the 695-versus-699 discrepancy.
+
+
+### BoardGameGeek — recent Arda research leads (checked 9 November 2026)
+
+The [Middle-earth game page](https://boardgamegeek.com/boardgame/1915/middle-earth) currently surfaces two recent discussion titles by proxegentyc: “Turning MECCG into a Modular Solo Board Game – ARDA, Variants & Card Lists. Is it possible?” (listed as about 23 days old) and “Looking for card lists to build ARDA decks” (about 21 days old). Direct thread retrieval returned HTTP 403 in this pass, so their bodies, replies, attachments and any actual card lists remain unverified. These are watchlist leads, not quantity sources.
+
+### Gen Con 2026 — Hero Arda event listing
+
+[Middle-Earth CCG: “Arda” Format](https://www.gencon.com/events/303679), run by Prof Joe Games during Gen Con Indy (30 July–2 August 2026), describes a casual shared-deck event for 4–18 players and says almost all cards would be official versions rather than Virtuals. This confirms recent community use of official-card Arda play, but publishes no pool list, expansion quantities or downloadable deck file. Event context only; not a quantity authority.
