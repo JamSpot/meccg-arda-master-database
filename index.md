@@ -34,6 +34,12 @@ This site teaches and documents **Arda format**: the shared-deck multiplayer gam
 
 In the Arda Basic Game, all players draw from the same shared decks. It is designed for 2–7 players, encourages improvisation and trading, and uses a different preparation and play structure from conventional constructed Hero-vs-Hazard MECCG. The standard shared piles are the Play Deck, MP Deck, Roving Character Deck and Minor Item Offering Deck.
 
+## Latest research update — 9 November 2026
+
+Two recent BoardGameGeek discussion leads directly concern modular solo Arda and finding card lists for Arda decks. Their titles are visible on the current game page, but BGG blocked retrieval of the thread contents and attachments, so they are not yet verified decklists. A Gen Con 2026 event listing also confirms a 4–18 player shared-deck Arda session prioritizing official card versions. No new pool or downloadable card-list file was verified, and the Gandalf Gene quantities remain unchanged at 699 explicit copies.
+
+[Read the 9 November research watch](docs/research-watch-2026-11-09.html) for details and limitations.
+
 ## Latest research update — 8 November 2026
 
 A new reference-source group has been checked: MeCCG's current card-list XLS, fixed-pack PDF, Challenge Decks ZIP and three-page Challenge Deck player aid, plus ten plaintext Challenge Deck files in the Samwise repository. These are useful for card-name, set-code and deck-file checks, but **none is an Arda pool**. The Samwise A–E files also omit the backup Wizard from their sideboard section compared with the player aid, so the PDF takes precedence for complete Challenge Deck lists. The XLS and ZIP binaries could not be extracted in this pass. No Arda quantities changed: the Gandalf Gene working total remains 699 explicit copies, with the 695 comparison and two blank quantities unresolved.
