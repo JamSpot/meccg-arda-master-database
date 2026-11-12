@@ -125,3 +125,10 @@ These are working extraction figures, not a claim that every card identity and e
 - No Dream Cards, fan-made/custom cards or unreleased material.
 - Minion Arda is excluded unless specifically requested.
 - Conventional Hero Solo Academy lessons and decklists do not belong in this Arda project.
+
+
+### Additional source reviewed — Arda Rules 5.1 (12 November 2026)
+
+The user supplied the original Council of Elrond **Arda Rules 5.1.pdf** attachment (version posted 28 May 2012). It is a primary rules reference, not a decklist. The forum editor says it made no major rules changes; the notable Expanded World addition is the Ring Special Item Deck, alongside suggested home rules and editorial refinements. The PDF gives flexible deck-size guidance and distinguishes the Basic Game's 20-MP Council from Expanded World's 25-MP threshold. Its Virtual Card Set 1, custom Arda card designs and altered-card text are excluded from the physical ICE-only inventory. No canonical quantities changed.
+
+[Read the Arda Rules 5.1 source review](docs/arda-rules-5-1-source-review.html).
