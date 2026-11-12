@@ -285,3 +285,9 @@ The [Middle-earth game page](https://boardgamegeek.com/boardgame/1915/middle-ear
 ### Latest source-watch note — 12 November 2026
 
 [Source watch — 12 November 2026](research-watch-2026-11-12.html) records the forum-wide source review, identifies the custom Arda Expanded World printable archive as excluded, and logs the 2023 cooperative proposal as a rules lead only. No eligible card quantities changed.
+
+
+### Council of Elrond — Arda Rules 5.1 (2012)
+https://councilofelrond.org/forum/viewtopic.php?t=1127
+
+[Arda Rules 5.1.pdf](https://www.councilofelrond.org/forum/download/file.php?id=466), 32 pages, posted 28 May 2012 by Eric Dane (Thorsten the Traveller); concept by Joe Bisz, design by Joe Bisz and Eric Dané. The forum post says there were no major rules changes from earlier versions, but adds suggested Expanded World home rules, editorial refinements and identifies the Ring Special Item Deck as the most noteworthy addition. Primary rules reference, not a card inventory. Its Expanded World section includes Virtual Card Set 1, newly designed Arda cards and altered-card text; these are excluded from the ICE-only physical-card master inventory. See [Arda Rules 5.1 source review](arda-rules-5-1-source-review.html).
