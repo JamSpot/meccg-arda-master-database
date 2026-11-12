@@ -144,3 +144,6 @@ The original Gandalf Gene workbook and a separate Jose-san Arda workbook are par
 - Reviewed the 2023 Arda Co-op proposal. It describes an eight-pile cooperative variant based on Gandalf Gene, but supplies no complete decklist or expansion counts.
 - Rechecked BanalityBob's public Google Sheet; the accessible preview remains incomplete, so no quantities were adopted.
 - The canonical Gandalf Gene inventory remains 699 explicit copies (METW 552, METD 108, MEDM 32, MELE 6, MEBA 1) against CCG Collector's 695-copy report. The four-copy discrepancy and blank quantities for Army of the Dead / The White Tree remain unresolved.
+
+
+- Reviewed the user-supplied Council of Elrond attachment **Arda Rules 5.1.pdf** (attachment 466; 32 pages; posted 28 May 2012). Confirmed provenance and version history from the original forum thread. Recorded Basic Game pile structure, flexible size guidance, setup, hazard-passing threshold and separate 20-MP Basic / 25-MP Expanded World Council thresholds. The Ring Special Item Deck is the standout Expanded World addition. The PDF is rules-only, not a card-quantity source; its Virtual Card Set 1, custom Arda designs and altered-card text are explicitly excluded from the ICE-only master inventory. No card quantities changed. See [Arda Rules 5.1 source review](arda-rules-5-1-source-review.html).
