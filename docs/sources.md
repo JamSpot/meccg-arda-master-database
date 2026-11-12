@@ -272,3 +272,16 @@ The [Middle-earth game page](https://boardgamegeek.com/boardgame/1915/middle-ear
 ### Gen Con 2026 — Hero Arda event listing
 
 [Middle-Earth CCG: “Arda” Format](https://www.gencon.com/events/303679), run by Prof Joe Games during Gen Con Indy (30 July–2 August 2026), describes a casual shared-deck event for 4–18 players and says almost all cards would be official versions rather than Virtuals. This confirms recent community use of official-card Arda play, but publishes no pool list, expansion quantities or downloadable deck file. Event context only; not a quantity authority.
+
+
+### Arda Expanded World printable cards — excluded custom material (checked 12 November 2026)
+
+[Council of Elrond thread: Cards for Arda Expanded World](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=1345) describes revised Arda cards created with Magic Set Editor and supplied as printable PDFs / MSE source files. Its [Arda cards Eric — characters ZIP](https://www.councilofelrond.org/forum/download/file.php?id=265) is listed as 1.77 MiB; the thread also identifies character, unique-resource, non-unique-resource and hazard files. These are community-created custom cards, not original ICE releases, so the ZIP and associated print files are recorded only as excluded-source evidence. No names or quantities are imported. The thread also distinguishes these Arda Expanded World cards from Dream Card / Virtual Card sets, which are likewise excluded.
+
+### Council of Elrond — Arda Co-op? (2023)
+
+[Forum proposal](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=4771) starts from the Gandalf Gene deck and proposes eight piles (Quest, Play, Ring, Minor Item, Character, Creature, Event and Sauron) for a cooperative format. It remains a discussion proposal with open questions about loss conditions and tuning; no complete card list, downloadable pool or expansion quantities are supplied. It is not an independent Arda card pool.
+
+### Latest source-watch note — 12 November 2026
+
+[Source watch — 12 November 2026](research-watch-2026-11-12.html) records the forum-wide source review, identifies the custom Arda Expanded World printable archive as excluded, and logs the 2023 cooperative proposal as a rules lead only. No eligible card quantities changed.
