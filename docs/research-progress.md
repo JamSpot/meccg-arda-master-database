@@ -135,3 +135,12 @@ The original Gandalf Gene workbook and a separate Jose-san Arda workbook are par
 - Verified the official Gen Con 2026 listing for a 4–18 player shared-deck Hero Arda event. The organizer said almost all cards would be official versions rather than Virtuals. This is evidence of active physical-card play, not a card-pool source.
 - Rechecked Arda Rules 4.0 as the published general format reference; its 250+ Play Deck and balanced resource/hazard guidance are sizing recommendations, not a fixed list.
 - No new downloadable Arda card pool or deck file was verified. Gandalf Gene remains 699 explicit copies versus CCG Collector's 695; the two blank quantity rows remain unresolved. No quantities changed.
+
+
+## Latest source-watch result — 12 November 2026
+
+- Reviewed the 46-topic Council of Elrond Arda forum index and rechecked the available original-card Hero Arda leads. Recent 2025–26 topics are Dream Card / Minion variants and remain excluded.
+- Identified the 2010 “Cards for Arda Expanded World” printable archive, including a 1.77 MiB character ZIP and associated MSE/PDF card files. The thread describes community-created custom cards, not ICE releases; recorded as an explicit exclusion and did not import any card identities or quantities.
+- Reviewed the 2023 Arda Co-op proposal. It describes an eight-pile cooperative variant based on Gandalf Gene, but supplies no complete decklist or expansion counts.
+- Rechecked BanalityBob's public Google Sheet; the accessible preview remains incomplete, so no quantities were adopted.
+- The canonical Gandalf Gene inventory remains 699 explicit copies (METW 552, METD 108, MEDM 32, MELE 6, MEBA 1) against CCG Collector's 695-copy report. The four-copy discrepancy and blank quantities for Army of the Dead / The White Tree remain unresolved.
