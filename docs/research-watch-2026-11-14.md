@@ -7,7 +7,7 @@ title: Research watch — 14 November 2026
 
 ## Result
 
-**No new eligible ICE-only Hero Arda card pool or downloadable deck file was verified.** This pass did uncover a published Dream Card Arda decklist and a material audit issue in the separate 2022 Leon workbook. Both are excluded from the canonical physical-card database.
+**No new eligible ICE-only Hero Arda card pool or downloadable deck file was verified.** This pass did uncover two published Dream Card Arda decklists and a material audit issue in the separate 2022 Leon workbook. Both are excluded from the canonical physical-card database.
 
 ## 1. Published Dream Card Arda list — The Houses of the North
 
