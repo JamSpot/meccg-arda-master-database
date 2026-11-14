@@ -291,3 +291,20 @@ The [Middle-earth game page](https://boardgamegeek.com/boardgame/1915/middle-ear
 https://councilofelrond.org/forum/viewtopic.php?t=1127
 
 [Arda Rules 5.1.pdf](https://www.councilofelrond.org/forum/download/file.php?id=466), 32 pages, posted 28 May 2012 by Eric Dane (Thorsten the Traveller); concept by Joe Bisz, design by Joe Bisz and Eric Dané. The forum post says there were no major rules changes from earlier versions, but adds suggested Expanded World home rules, editorial refinements and identifies the Ring Special Item Deck as the most noteworthy addition. Primary rules reference, not a card inventory. Its Expanded World section includes Virtual Card Set 1, newly designed Arda cards and altered-card text; these are excluded from the ICE-only physical-card master inventory. See [Arda Rules 5.1 source review](arda-rules-5-1-source-review.html).
+
+
+### Council of Elrond — ARDA with Dream Cards: The Houses of the North (2021–2025; excluded)
+
+[Forum thread and full text decklist](https://councilofelrond.org/forum/viewtopic.php?p=38931). The Dwarves-themed Arda list was first posted on 3 November 2021 and last edited on 30 July 2025. The author describes it as a Dream Card Arda, says it uses Dream Card rules/UEPs and includes cards from unreleased sets. The full 888-card list is posted across the forum thread; no separate XLS/XLSX or downloadable deck file is attached there. It is a published Arda decklist, but not an ICE-only Hero pool, so it is excluded from all master quantities. Several entries also occur in the user-supplied Leon workbook, confirming that workbook contains non-ICE material.
+
+### Council of Elrond — The Nine are Abroad (23 September 2026; excluded)
+
+[Forum post](https://councilofelrond.org/forum/viewtopic.php?f=37&t=5369) describes a nine-player **Dream Card Minion Arda** box and points to the [Mellon deckbuilder](https://meccg.herokuapp.com/#/decks), where the author says the list can be played and downloaded through the deckbuilder. This is a current Arda lead, but it is explicitly Dream Card and Minion material and is outside this Hero ICE-only project.
+
+### Leon 2022 workbook — provenance and scope warning
+
+The Library file `cards for Arda Leon 20220901.xlsx` came from a Facebook/Lookaside URL supplied by the user; the original URL is no longer retrievable. Workbook metadata says “Leon en Claudia.” A row-level audit finds a 974-copy formula summary but 975 copies when the listed quantities are summed, because the hazard-creature formula omits one Carrion Birds copy. Exact-name screening against v1.13 leaves 95 unresolved names (112 copies); several are confirmed Dream Card entries. The workbook is therefore not a verified published ICE-only source and supplies no safe expansion totals. See [comparison-list audit](comparison-lists.html#leon--2022-arda-pool-user-supplied-mixeduncertain-not-ice-only).
+
+### Latest source-watch note — 14 November 2026
+
+[Source watch — 14 November 2026](research-watch-2026-11-14.html) records the new Dream Card Arda decklist, the current 2026 DC/Minion lead, and the row-level audit of the Leon workbook. No eligible ICE-only Hero Arda quantities changed.
