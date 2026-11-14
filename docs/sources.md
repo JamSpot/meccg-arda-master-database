@@ -299,7 +299,7 @@ https://councilofelrond.org/forum/viewtopic.php?t=1127
 
 ### Council of Elrond — The Nine are Abroad (23 September 2026; excluded)
 
-[Forum post](https://councilofelrond.org/forum/viewtopic.php?f=37&t=5369) describes a nine-player **Dream Card Minion Arda** box and points to the [Mellon deckbuilder](https://meccg.herokuapp.com/#/decks), where the author says the list can be played and downloaded through the deckbuilder. This is a current Arda lead, but it is explicitly Dream Card and Minion material and is outside this Hero ICE-only project.
+[Forum post](https://councilofelrond.org/forum/viewtopic.php?t=5369) describes a nine-player **Dream Card Minion Arda** box and points to the [Mellon deckbuilder](https://meccg.herokuapp.com/#/decks), where the author says the list can be played and downloaded through the deckbuilder. This is a current Arda lead, but it is explicitly Dream Card and Minion material and is outside this Hero ICE-only project.
 
 ### Leon 2022 workbook — provenance and scope warning
 
