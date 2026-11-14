@@ -21,7 +21,18 @@ title: Research watch — 14 November 2026
 
 This is a useful published Arda decklist for documenting the wider community, but it is **not** an ICE-only Hero pool. No names or quantities from it are imported into the master database.
 
-## 2. 2022 Leon workbook — row-level audit and exclusion
+## 2. Published Dream Card Hero Arda list — Northern Exposure
+
+[Council of Elrond: ARDA with DCs — Northern Exposure](https://councilofelrond.org/forum/viewtopic.php?t=5233)
+
+- Posted **30 July 2025**, last edited **6 August 2025**.
+- A **three-player, avatarless Hero-alignment** variant focused on the Umli, Elves of Evermist and Berninga in the Northern Wastes.
+- The thread gives a detailed pool/deck list and a **95-card sideboard**; no separate XLS/XLSX or standalone deck file is attached.
+- It explicitly uses Dream Cards and non-ICE set codes such as NW, DF, RS, GW and FB alongside ICE cards.
+
+This is a useful Hero-alignment community list, but not an ICE-only pool. It is excluded. Names such as Great Seagull, Bain and Gorfaur the Lame also occur in the Leon workbook, supporting the conclusion that the workbook contains Dream Card/other non-ICE material; this does not establish that the two lists are the same build.
+
+## 3. 2022 Leon workbook — row-level audit and exclusion
 
 The Library copy of `cards for Arda Leon 20220901.xlsx` was originally supplied from a Facebook/Lookaside URL that is no longer retrievable. Workbook metadata identifies the creator as **Leon en Claudia**, with creation date **1 September 2022** and last-modified date **21 February 2024**. Its public-source provenance cannot be independently verified, so it is treated as a user-supplied comparison workbook, not a verified published list.
 
@@ -46,15 +57,15 @@ A normalized English-name screen against the **1,674 card-ID rows** in the origi
 
 This is a name-level screen only, not a definitive ICE filter. The unmatched group includes spelling/abbreviation/translation variants, but also names confirmed in the published Dream Card Arda list above. The workbook has no per-card set or printing IDs, so it cannot support safe expansion totals. It is not an ICE-only list and is not merged into any canonical quantity.
 
-## 3. Current Arda forum lead — The Nine are Abroad
+## 4. Current Arda forum lead — The Nine are Abroad
 
 [Council of Elrond post, 23 September 2026](https://councilofelrond.org/forum/viewtopic.php?t=5369) announces a nine-player **Dream Card Minion Arda** box and points to the [Mellon deckbuilder](https://meccg.herokuapp.com/#/decks). The author says the list can be played and downloaded through that deckbuilder. It is current, but explicitly Dream Card and Minion material, so it is outside this Hero ICE-only project.
 
-## 4. BoardGameGeek file archive check
+## 5. BoardGameGeek file archive check
 
 The current [BoardGameGeek MECCG files index](https://boardgamegeek.com/boardgame/1915/middle-earth/files) surfaces the *Compiled Arda Ruleset — Hero* (15 March 2024) and older Arda resources, but no newer ICE-only Hero Arda card pool. The compiled ruleset is a rules reference, not a card-quantity source.
 
-## 5. Canonical quantities — unchanged
+## 6. Canonical quantities — unchanged
 
 | Expansion | Gandalf Gene explicit copies |
 |---|---:|
