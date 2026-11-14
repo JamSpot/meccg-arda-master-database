@@ -72,20 +72,30 @@ After the independent expansion corrections already recorded in the master inven
 
 Do not merge the two sources' quantities. They are different Arda builds.
 
-## Leon — 2022 Arda card pool
-The spreadsheet cards for Arda Leon 20220901.xlsx is a later and broader Hero Arda card pool.
+## Leon — 2022 Arda pool (user-supplied; mixed/uncertain, not ICE-only)
 
-Reported category counts:
-- Hazard creatures: 143
-- Hazard events: 190
-- Resource events: 265
-- Resources: 199
-- Characters: 100
-- Minor items: 54
-- Rings: 23
-- Headline total: 974
+The workbook `cards for Arda Leon 20220901.xlsx` was supplied from a Facebook/Lookaside link; that original link is no longer retrievable. Its file properties identify the creator as **Leon en Claudia**, with a creation date of 1 September 2022 and last-modified date of 21 February 2024. Treat it as an independent comparison workbook, not a verified public/published decklist.
 
-These are pool/category totals, not a claim that all cards belong to the canonical Gene deck.
+The workbook's displayed category totals are:
+
+| Category | Workbook summary | Direct row sum |
+|---|---:|---:|
+| Hazard creatures | 143 | **144** |
+| Hazard events | 190 | 190 |
+| Resource events | 265 | 265 |
+| Resources | 199 | 199 |
+| Characters | 100 | 100 |
+| Minor items | 54 | 54 |
+| Rings | 23 | 23 |
+| **Total** | **974** | **975** |
+
+The one-copy error is inside the workbook: the first hazard-creature category formula starts at row 7, while row 6 contains **Carrion Birds — 1 copy**. The formula therefore omits that copy. The 974 headline is not a reliable checksum; the direct sum of the listed quantity cells is 975.
+
+A name-level screen against the 1,674 card-ID rows in the original MECCG Card List v1.13 catalogue found **803 of 898 distinct names** with an exact normalized English-name match. The other **95 names account for 112 copies** (85 names have non-zero quantities; 10 have zero). The exact matches account for 863 copies. This is only a screening result: several unmatched entries are abbreviations, misspellings or translations, and a name match cannot identify a specific printing or expansion.
+
+Importantly, several names in the workbook also appear in the published Dream Card Arda list *The Houses of the North* under non-standard set codes, including **A More or Less Decent Giant (DF), Asfaloth (RS), Carc (DF), Bolg, Son of Azog (DF), Gorfaur the Lame (NE), His Beard Long and Forked (DF)** and **Aglarond (TI)**. This confirms that the workbook is not a clean ICE-only pool. It has no per-card expansion/printing identifiers, so safe expansion totals cannot be derived from it.
+
+**Disposition:** retain only as an excluded comparison lead. Do not merge its quantities or names into the physical ICE-only master database, and do not use its 974/975 total as an Arda acquisition target.
 
 ## 2014–2017 — Spanish community solo-Arda pool
 
