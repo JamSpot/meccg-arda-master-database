@@ -156,4 +156,4 @@ The original Gandalf Gene workbook and a separate Jose-san Arda workbook are par
 - Re-audited the user-supplied 2022 Leon workbook. Its category formulas total 974, but the listed quantities sum to 975 because the hazard-creature formula omits one Carrion Birds copy. Exact-name screening against v1.13 matched 803 of 898 names; 95 unresolved names carry 112 copies. Several of those names are confirmed Dream Card entries, so the workbook is not ICE-only and cannot supply reliable expansion totals. No quantities were imported.
 - The canonical Gandalf Gene baseline remains 699 explicit copies (METW 552, METD 108, MEDM 32, MELE 6, MEBA 1) against CCG Collector's independent 695-copy report. The four-copy discrepancy and the two blank quantity rows remain unresolved.
 
-See [14 November source watch](research-watch-2026-11-14.html) and [comparison-list audit](comparison-lists.html#leon--2022-arda-pool-user-supplied-mixeduncertain-not-ice-only).
+See [14 November source watch](research-watch-2026-11-14.html) and [comparison-list audit](comparison-lists.html#leon-2022-arda-pool).
