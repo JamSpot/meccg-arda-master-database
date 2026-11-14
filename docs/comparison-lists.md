@@ -97,6 +97,12 @@ Importantly, several names in the workbook also appear in the published Dream Ca
 
 **Disposition:** retain only as an excluded comparison lead. Do not merge its quantities or names into the physical ICE-only master database, and do not use its 974/975 total as an Arda acquisition target.
 
+## Published Dream Card Arda — The Houses of the North (2021–2025; excluded)
+
+[Council of Elrond thread and full text list](https://councilofelrond.org/forum/viewtopic.php?p=38931). The Dwarves-themed Arda list was first posted on 3 November 2021 and last edited on 30 July 2025. Its author describes it as a Dream Card Arda, says it uses Dream Card rules/UEPs and includes cards from unreleased sets, and gives the pool as **888 cards**. The card-by-card list is spread across forum posts; there is no separate XLS/XLSX or standalone deck file attached in the thread.
+
+The list mixes original ICE cards with non-ICE entries. Examples identified with non-standard set codes include A More or Less Decent Giant (DF), Asfaloth (RS), Carc (DF), Bolg, Son of Azog (DF), Gorfaur the Lame (NE), His Beard Long and Forked (DF) and Aglarond (TI). This is a published Arda decklist, but it is **not** an ICE-only Hero pool. It is retained as an excluded community reference only; no card identities or quantities are imported into the master database.
+
 ## 2014–2017 — Spanish community solo-Arda pool
 
 [La BSK: SATM partida en solitario](https://labsk.net/index.php?topic=126528.30) includes a 2014 pool-building description and a 4 June 2017 follow-up. The described pool uses The Wizards, The Dragons and Dark Minions; one copy of each card except commons/uncommons at three copies; and Callasmar's solo-Arda rules. Borja's 2017 post links a [Google Docs card list](https://docs.google.com/document/d/1XSkyc_lnn0av7pbvqs814zlwN4kZSs4hKaNm00nm5Rw/edit?usp=sharing) and the [solo-Arda rules file](https://boardgamegeek.com/filepage/87333/variante-a-las-reglas-arda-para-jugar-en-solitario). He says he had only played the pool solo. The Google Doc could not be extracted automatically, so this remains a separate source lead, not a quantity authority.
