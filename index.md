@@ -132,3 +132,10 @@ These are working extraction figures, not a claim that every card identity and e
 The user supplied the original Council of Elrond **Arda Rules 5.1.pdf** attachment (version posted 28 May 2012). It is a primary rules reference, not a decklist. The forum editor says it made no major rules changes; the notable Expanded World addition is the Ring Special Item Deck, alongside suggested home rules and editorial refinements. The PDF gives flexible deck-size guidance and distinguishes the Basic Game's 20-MP Council from Expanded World's 25-MP threshold. Its Virtual Card Set 1, custom Arda card designs and altered-card text are excluded from the physical ICE-only inventory. No canonical quantities changed.
 
 [Read the Arda Rules 5.1 source review](docs/arda-rules-5-1-source-review.html).
+
+
+### Additional source review — 14 November 2026
+
+A published 888-card *Houses of the North* Arda decklist is now documented, but it explicitly uses Dream Cards and unreleased-set material, so it is excluded. The separate 2022 Leon workbook also contains Dream Card entries and has a one-copy formula error (974 summary versus 975 row-level). Neither changes the ICE-only master quantities.
+
+[Read the 14 November research watch](docs/research-watch-2026-11-14.html).
