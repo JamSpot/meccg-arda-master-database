@@ -303,7 +303,7 @@ https://councilofelrond.org/forum/viewtopic.php?t=1127
 
 ### Leon 2022 workbook — provenance and scope warning
 
-The Library file `cards for Arda Leon 20220901.xlsx` came from a Facebook/Lookaside URL supplied by the user; the original URL is no longer retrievable. Workbook metadata says “Leon en Claudia.” A row-level audit finds a 974-copy formula summary but 975 copies when the listed quantities are summed, because the hazard-creature formula omits one Carrion Birds copy. Exact-name screening against v1.13 leaves 95 unresolved names (112 copies); several are confirmed Dream Card entries. The workbook is therefore not a verified published ICE-only source and supplies no safe expansion totals. See [comparison-list audit](comparison-lists.html#leon--2022-arda-pool-user-supplied-mixeduncertain-not-ice-only).
+The Library file `cards for Arda Leon 20220901.xlsx` came from a Facebook/Lookaside URL supplied by the user; the original URL is no longer retrievable. Workbook metadata says “Leon en Claudia.” A row-level audit finds a 974-copy formula summary but 975 copies when the listed quantities are summed, because the hazard-creature formula omits one Carrion Birds copy. Exact-name screening against v1.13 leaves 95 unresolved names (112 copies); several are confirmed Dream Card entries. The workbook is therefore not a verified published ICE-only source and supplies no safe expansion totals. See [comparison-list audit](comparison-lists.html#leon-2022-arda-pool).
 
 ### Latest source-watch note — 14 November 2026
 
