@@ -136,6 +136,6 @@ The user supplied the original Council of Elrond **Arda Rules 5.1.pdf** attachme
 
 ### Additional source review — 14 November 2026
 
-A published 888-card *Houses of the North* Arda decklist is now documented, but it explicitly uses Dream Cards and unreleased-set material, so it is excluded. The separate 2022 Leon workbook also contains Dream Card entries and has a one-copy formula error (974 summary versus 975 row-level). Neither changes the ICE-only master quantities.
+Two published Dream Card Arda lists are now documented: the 888-card *Houses of the North* Dwarves build and the three-player Hero-alignment *Northern Exposure* variant with a 95-card sideboard. Both mix Dream Cards/non-ICE material and are excluded. The separate 2022 Leon workbook also contains Dream Card entries and has a one-copy formula error (974 summary versus 975 row-level). Neither changes the ICE-only master quantities.
 
 [Read the 14 November research watch](docs/research-watch-2026-11-14.html).
