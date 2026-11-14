@@ -297,6 +297,10 @@ https://councilofelrond.org/forum/viewtopic.php?t=1127
 
 [Forum thread and full text decklist](https://councilofelrond.org/forum/viewtopic.php?p=38931). The Dwarves-themed Arda list was first posted on 3 November 2021 and last edited on 30 July 2025. The author describes it as a Dream Card Arda, says it uses Dream Card rules/UEPs and includes cards from unreleased sets. The full 888-card list is posted across the forum thread; no separate XLS/XLSX or downloadable deck file is attached there. It is a published Arda decklist, but not an ICE-only Hero pool, so it is excluded from all master quantities. Several entries also occur in the user-supplied Leon workbook, confirming that workbook contains non-ICE material.
 
+### Council of Elrond — ARDA with DCs: Northern Exposure (30 July–6 August 2025; excluded)
+
+[Forum thread and full text decklist](https://councilofelrond.org/forum/viewtopic.php?t=5233) describes a three-player, avatarless **Hero-alignment** Arda variant built around Umli, Elves of Evermist and Berninga in the Northern Wastes. It includes a detailed pool/deck list and a 95-card sideboard, but no standalone spreadsheet or deck file. The author explicitly labels it a DC Arda; the list mixes ICE cards with Dream Card/non-ICE set codes. It is excluded from the physical ICE-only master database, despite being Hero-alignment.
+
 ### Council of Elrond — The Nine are Abroad (23 September 2026; excluded)
 
 [Forum post](https://councilofelrond.org/forum/viewtopic.php?t=5369) describes a nine-player **Dream Card Minion Arda** box and points to the [Mellon deckbuilder](https://meccg.herokuapp.com/#/decks), where the author says the list can be played and downloaded through the deckbuilder. This is a current Arda lead, but it is explicitly Dream Card and Minion material and is outside this Hero ICE-only project.
