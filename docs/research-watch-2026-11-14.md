@@ -48,11 +48,11 @@ This is a name-level screen only, not a definitive ICE filter. The unmatched gro
 
 ## 3. Current Arda forum lead — The Nine are Abroad
 
-[Council of Elrond post, 23 September 2026](https://councilofelrond.org/forum/viewtopic.php?f=37&t=5369) announces a nine-player **Dream Card Minion Arda** box and points to the [Mellon deckbuilder](https://meccg.herokuapp.com/#/decks). The author says the list can be played and downloaded through that deckbuilder. It is current, but explicitly Dream Card and Minion material, so it is outside this Hero ICE-only project.
+[Council of Elrond post, 23 September 2026](https://councilofelrond.org/forum/viewtopic.php?t=5369) announces a nine-player **Dream Card Minion Arda** box and points to the [Mellon deckbuilder](https://meccg.herokuapp.com/#/decks). The author says the list can be played and downloaded through that deckbuilder. It is current, but explicitly Dream Card and Minion material, so it is outside this Hero ICE-only project.
 
 ## 4. BoardGameGeek file archive check
 
-The current [BoardGameGeek MECCG files index](https://boardgamegeek.com/files/thing/1915) surfaces the *Compiled Arda Ruleset — Hero* (15 March 2024) and older Arda resources, but no newer ICE-only Hero Arda card pool. The compiled ruleset is a rules reference, not a card-quantity source.
+The current [BoardGameGeek MECCG files index](https://boardgamegeek.com/boardgame/1915/middle-earth/files) surfaces the *Compiled Arda Ruleset — Hero* (15 March 2024) and older Arda resources, but no newer ICE-only Hero Arda card pool. The compiled ruleset is a rules reference, not a card-quantity source.
 
 ## 5. Canonical quantities — unchanged
 
