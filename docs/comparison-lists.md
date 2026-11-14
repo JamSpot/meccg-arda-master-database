@@ -72,7 +72,7 @@ After the independent expansion corrections already recorded in the master inven
 
 Do not merge the two sources' quantities. They are different Arda builds.
 
-## Leon — 2022 Arda pool (user-supplied; mixed/uncertain, not ICE-only)
+## Leon — 2022 Arda pool (user-supplied; mixed/uncertain, not ICE-only) {#leon-2022-arda-pool}
 
 The workbook `cards for Arda Leon 20220901.xlsx` was supplied from a Facebook/Lookaside link; that original link is no longer retrievable. Its file properties identify the creator as **Leon en Claudia**, with a creation date of 1 September 2022 and last-modified date of 21 February 2024. Treat it as an independent comparison workbook, not a verified public/published decklist.
 
