@@ -103,6 +103,15 @@ Importantly, several names in the workbook also appear in the published Dream Ca
 
 The list mixes original ICE cards with non-ICE entries. Examples identified with non-standard set codes include A More or Less Decent Giant (DF), Asfaloth (RS), Carc (DF), Bolg, Son of Azog (DF), Gorfaur the Lame (NE), His Beard Long and Forked (DF) and Aglarond (TI). This is a published Arda decklist, but it is **not** an ICE-only Hero pool. It is retained as an excluded community reference only; no card identities or quantities are imported into the master database.
 
+## Published Dream Card Hero Arda — Northern Exposure (2025; excluded)
+
+[Council of Elrond thread and full text list](https://councilofelrond.org/forum/viewtopic.php?t=5233). This is a **three-player, avatarless Hero-alignment** Arda variant focused on the Northern Wastes factions (Umli, Elves of Evermist and Berninga), posted 30 July 2025 and last edited 6 August 2025. The thread contains a detailed pool/deck list and a **95-card sideboard**, but no separate XLS/XLSX or standalone deck file.
+
+Although it is Hero-alignment, the list explicitly uses Dream Cards and numerous non-ICE set codes (for example NW, DF, RS, GW and FB), alongside original ICE cards. It is therefore not an eligible physical ICE-only Hero pool. It shares names such as Great Seagull, Bain and Gorfaur the Lame with the Leon workbook, reinforcing the need to keep that workbook out of the canonical inventory.
+
+Retain as a published community variant reference only. Do not import its card names or quantities into the master database.
+
+
 ## 2014–2017 — Spanish community solo-Arda pool
 
 [La BSK: SATM partida en solitario](https://labsk.net/index.php?topic=126528.30) includes a 2014 pool-building description and a 4 June 2017 follow-up. The described pool uses The Wizards, The Dragons and Dark Minions; one copy of each card except commons/uncommons at three copies; and Callasmar's solo-Arda rules. Borja's 2017 post links a [Google Docs card list](https://docs.google.com/document/d/1XSkyc_lnn0av7pbvqs814zlwN4kZSs4hKaNm00nm5Rw/edit?usp=sharing) and the [solo-Arda rules file](https://boardgamegeek.com/filepage/87333/variante-a-las-reglas-arda-para-jugar-en-solitario). He says he had only played the pool solo. The Google Doc could not be extracted automatically, so this remains a separate source lead, not a quantity authority.
