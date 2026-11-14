@@ -147,3 +147,13 @@ The original Gandalf Gene workbook and a separate Jose-san Arda workbook are par
 
 
 - Reviewed the user-supplied Council of Elrond attachment **Arda Rules 5.1.pdf** (attachment 466; 32 pages; posted 28 May 2012). Confirmed provenance and version history from the original forum thread. Recorded Basic Game pile structure, flexible size guidance, setup, hazard-passing threshold and separate 20-MP Basic / 25-MP Expanded World Council thresholds. The Ring Special Item Deck is the standout Expanded World addition. The PDF is rules-only, not a card-quantity source; its Virtual Card Set 1, custom Arda designs and altered-card text are explicitly excluded from the ICE-only master inventory. No card quantities changed. See [Arda Rules 5.1 source review](arda-rules-5-1-source-review.html).
+
+
+## Latest source-watch result — 14 November 2026
+
+- Rechecked the Council of Elrond Arda forum index and the current BoardGameGeek files index. The newest Arda forum lead is a 23 September 2026 nine-player Dream Card Minion Arda; the BGG Arda-specific file surfaced is the March 2024 *Compiled Arda Ruleset - Hero*, which is rules material rather than a card pool. No new eligible ICE-only Hero Arda XLS/XLSX or deck file was verified.
+- Found and reviewed the published *ARDA with Dream Cards — The Houses of the North* list (first posted 3 November 2021; last edited 30 July 2025). It is a Dwarves-themed 888-card Dream Card Arda and includes unreleased-set material. The complete list is text across forum posts, not a separate spreadsheet. It is explicitly excluded.
+- Re-audited the user-supplied 2022 Leon workbook. Its category formulas total 974, but the listed quantities sum to 975 because the hazard-creature formula omits one Carrion Birds copy. Exact-name screening against v1.13 matched 803 of 898 names; 95 unresolved names carry 112 copies. Several of those names are confirmed Dream Card entries, so the workbook is not ICE-only and cannot supply reliable expansion totals. No quantities were imported.
+- The canonical Gandalf Gene baseline remains 699 explicit copies (METW 552, METD 108, MEDM 32, MELE 6, MEBA 1) against CCG Collector's independent 695-copy report. The four-copy discrepancy and the two blank quantity rows remain unresolved.
+
+See [14 November source watch](research-watch-2026-11-14.html) and [comparison-list audit](comparison-lists.html#leon--2022-arda-pool-user-supplied-mixeduncertain-not-ice-only).
