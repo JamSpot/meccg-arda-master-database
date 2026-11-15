@@ -312,3 +312,13 @@ The Library file `cards for Arda Leon 20220901.xlsx` came from a Facebook/Lookas
 ### Latest source-watch note — 14 November 2026
 
 [Source watch — 14 November 2026](research-watch-2026-11-14.html) records the new Dream Card Arda decklist, the current 2026 DC/Minion lead, and the row-level audit of the Leon workbook. No eligible ICE-only Hero Arda quantities changed.
+
+### Theo-Donly — MECCG deck-checking and collection utilities (checked 15 November 2026)
+
+[GitHub tools directory](https://github.com/Theo-Donly/theo-donly.github.io/tree/main/MECCG/tools)
+
+- [MECCG Deck Checker](https://github.com/Theo-Donly/theo-donly.github.io/blob/main/MECCG/tools/MECCG-Deck-Checker.html) — last modified 23 May 2026.
+- [MECCG Deck Distinction](https://github.com/Theo-Donly/theo-donly.github.io/blob/main/MECCG/tools/MECCG-Deck-Distinction.html) — last modified 2 June 2023.
+- [MECCG Collection Generator](https://github.com/Theo-Donly/theo-donly.github.io/blob/main/MECCG/tools/MECCG-Collection-Generator.html).
+
+The Deck Checker embeds 1,736 catalogue keys with card-name variants, card image identifiers, rarity, alignment and card type. This is not a distinct-original-card count: multiple alignment/site representations and naming conversions are present. The tool is a third-party metadata/deck-validation aid, not an Arda card pool or quantity source. A spot-check of Army of the Dead (TW), The White Tree (TW), Peril Returned (TD), Uruk-lieutenant (LE) and Wild Trolls (LE) agrees with the existing v1.13 expansion audit. Do not use this utility to set master quantities or override original catalogue assignments.
