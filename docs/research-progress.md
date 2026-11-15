@@ -157,3 +157,11 @@ The original Gandalf Gene workbook and a separate Jose-san Arda workbook are par
 - The canonical Gandalf Gene baseline remains 699 explicit copies (METW 552, METD 108, MEDM 32, MELE 6, MEBA 1) against CCG Collector's independent 695-copy report. The four-copy discrepancy and the two blank quantity rows remain unresolved.
 
 See [14 November source watch](research-watch-2026-11-14.html) and [comparison-list audit](comparison-lists.html#leon-2022-arda-pool).
+
+## Latest source-watch result — 15 November 2026
+
+- No new eligible ICE-only Hero Arda card pool, Arda spreadsheet or standalone Arda deck file was verified.
+- Identified Theo-Donly's MECCG Deck Checker, Deck Distinction and Collection Generator HTML utilities. The Deck Checker contains 1,736 catalogue keys and can serve as a secondary card-name/type/alignment/rarity cross-check, but it is not a unique-card count or Arda pool. Five targeted expansion assignments agree with the existing v1.13 audit.
+- Rechecked the current BGG file archive, CardGameGeek deck database, MeCCG.com deck archive and targeted Council of Elrond searches. The Arda-related BGG entries remain the previously catalogued Jose-san XLS and rules PDFs; the CardGameGeek result remains a derivative Gandalf Gene transcription missing two hazards. No new eligible list was found.
+- Thorondor's no-rares XLS and BanalityBob's Google Sheet remain the two highest-priority unparsed list leads; neither yielded a complete downloadable export in this pass.
+- Canonical Gandalf Gene quantities remain METW 552, METD 108, MEDM 32, MELE 6 and MEBA 1 = 699. CCG Collector's 695-copy report and the two blank quantity rows remain unresolved. No quantities changed.
