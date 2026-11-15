@@ -34,6 +34,12 @@ This site teaches and documents **Arda format**: the shared-deck multiplayer gam
 
 In the Arda Basic Game, all players draw from the same shared decks. It is designed for 2–7 players, encourages improvisation and trading, and uses a different preparation and play structure from conventional constructed Hero-vs-Hazard MECCG. The standard shared piles are the Play Deck, MP Deck, Roving Character Deck and Minor Item Offering Deck.
 
+## Latest research update — 15 November 2026
+
+No new ICE-only Hero Arda card pool or downloadable Arda deck file was verified. A new third-party MECCG Deck Checker / Deck Distinction / Collection Generator toolset has been recorded as a secondary metadata aid only; it does not provide Arda quantities. The BGG, CardGameGeek, MeCCG.com and Council of Elrond checks did not reveal a new eligible list. The Gandalf Gene baseline remains 699 explicit copies versus CCG Collector's 695, unresolved.
+
+[Read the 15 November research watch](docs/research-watch-2026-11-15.html) for the source checks, tool details and download status.
+
 ## Latest research update — 12 November 2026
 
 The Council of Elrond Arda forum review found no new eligible ICE Hero card pool. It did identify a downloadable 2010 **Arda Expanded World** printable-card ZIP, but the thread describes these as community-created Magic Set Editor cards, so they are explicitly excluded alongside Dream Cards, Virtuals and proxies. A 2023 cooperative Arda proposal is recorded as a rules lead only; it has no complete list or quantities. The Gandalf Gene inventory remains 699 explicit copies.
