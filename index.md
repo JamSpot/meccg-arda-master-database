@@ -24,7 +24,7 @@ This site teaches and documents **Arda format**: the shared-deck multiplayer gam
 ## Recommended learning order
 
 1. **Learn the format:** [Arda Overview](docs/arda-overview.html).
-2. **Choose how you will play:** [Multiplayer Basic Game](docs/arda-multiplayer-play.html) or [Arda-specific Solo Play](docs/arda-solo-play.html).
+2. **Choose how you will play:** [Multiplayer Basic Game](docs/arda-multiplayer-play.html) or [Arda-specific Solo Play](docs/arda-solo-play.html). If playing alone, start with the [First Solo Arda Game walkthrough](docs/arda-solo-first-game.html) for the documented 2013 method.
 3. **Choose the rules version:** [Rules & Variants](docs/rules-and-variants.html). Do not mix Basic Game, Arda Revised, Expanded World or solo variant rules without checking their sources.
 4. **Understand the card pool:** [Gandalf Gene — canonical deck](docs/gandalf-gene.html).
 5. **Check individual cards and quantities:** [Card Inventory](docs/card-inventory.html) and [Comparison Lists](docs/comparison-lists.html).
