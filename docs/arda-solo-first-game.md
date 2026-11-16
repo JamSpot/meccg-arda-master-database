@@ -50,14 +50,14 @@ The principle is to include broad card variety, then add extra copies of useful 
 1. Shuffle the MP, Resource, Minor Item, Character and Hazard piles. Do not shuffle the Ring Deck or Site Deck.
 2. Draw one Wizard at random and put them at Rivendell.
 3. Draw one character from Character Deck 1 (mind 6 or higher).
-4. Draw characters from Character Deck 2 until you reach the 20 direct-influence limit or draw a character that would take you over it. The over-limit character is placed in the face-up roaming-character area and ends this selection process.
+4. Draw characters from Character Deck 2 until you reach the **20 total mind** starting-company limit or draw a character that would take you over it. Put the over-limit character in the face-up roaming-character area; that draw ends the selection process.
 5. Draw two random Minor Items and assign them to your starting company.
 6. Reveal the top four Minor Items as a face-up offering. These can be found during a site phase as if they were in your hand.
 7. Draw **five Resource cards** and **three MP cards**. Keep these as separate hands.
 8. Reveal one character from Character Deck 1 and three from Character Deck 2 as face-up roaming characters. These can be recruited as if they were in your hand.
 9. Record the starting company, its mind total, the four face-up Minor Items and the four face-up characters.
 
-The source's starting company procedure is unusual: the Wizard is already in play, one mind-6-or-higher character is added, then lower-mind characters are drawn until the 20 direct-influence limit is reached or exceeded by the next draw. Do not replace this with the multiplayer Arda drafting procedure.
+The source's starting company procedure is unusual: the Wizard is already in play, one mind-6-or-higher character is added, then lower-mind characters are drawn until the 20 total mind limit is reached or the next draw would exceed it. This is a mind limit, not a direct-influence limit. Do not replace this with the multiplayer Arda drafting procedure.
 
 ## 4. The movement and hazard procedure
 
@@ -115,14 +115,14 @@ Gandalf controls Théoden; Círdan controls Elladan. The author then splits them
 
 ### Company 1: Gandalf and Théoden travel to Bag End
 
-1. Bag End is a travel destination, so calculate the hazard draw using **four times Bag End's printed hazard number**. Check the actual site card rather than guessing the number.
+1. The Hero version of Bag End has a site draw number of **2**, so this travelling company draws **8 hazard cards** (4 × 2). Check your physical site card if using a different printing or site version.
 2. The author plays **Giants**. Gandalf uses **Block** and takes a strike, but is wounded. He survives his body check.
-3. The author then plays **Thunder's Companion**. Théoden taps to face a strike; Gandalf also faces a strike while wounded. Both survive and the creature is defeated, earning its kill MPs under the card/rules procedure.
+3. The author then plays **Thunderer's Companion**. Théoden taps to face a strike; Gandalf also faces a strike while wounded. Both survive and the creature is defeated, earning its kill MPs under the card/rules procedure.
 4. At Bag End's site phase, Théoden discards **Cram** to untap, then taps to play **Mistress Lobelia**.
 
 ### Company 2: Círdan and Elladan travel to Lórien
 
-1. This is a second travelling company, so calculate a fresh hazard draw using **four times Lórien's printed hazard number**.
+1. The Hero Lórien site card also has a draw number of **2**, so this second travelling company also draws **8 hazard cards** (4 × 2).
 2. The author plays **Hobgoblins** and then **Crebain**. The company defeats both attacks; their kill MPs are added to the running score as described in the report.
 3. The company does not play a resource at the site in this example.
 
@@ -130,7 +130,7 @@ Gandalf controls Théoden; Círdan controls Elladan. The author then splits them
 
 The author replaces the MP card used to play Mistress Lobelia with a new MP draw. The session report records **10 MPs after turn 1**.
 
-The important lesson is not to aim for exactly 10 MPs in your own first turn. The draws and combat rolls are random. Notice instead the sequence:
+The important lesson is not to aim for exactly 10 MPs in your own first turn. The draws and combat rolls are random. In this example, each company draws eight hazards but only two hazards are played against it under the unmodified Hazard Limit. The draw count is not the same as the number you may play. Notice instead the sequence:
 
 - Each company gets its own movement/hazard sequence.
 - Travelling sets the 4× hazard draw; the Hazard Limit still controls how many hazards can actually be played.
