@@ -102,10 +102,12 @@ https://github.com/SylvanSign/samwise
 
 Offline card gallery and deckbuilder for standard MECCG cards, with filters, local save/load, human-readable deck files and Cardnum-format import/export. Its README says the card metadata comes from Cardnum. This is a tool/format cross-check, not an authoritative Arda card pool.
 
-### MECCG Online
-https://github.com/Heinrich-Barth/meccg-online
+### MECCG online practice platforms
 
-Supports Arda-format play, card browsing, deckbuilding and importing. Its README warns that included generic sample data is not suitable for full deckbuilding, so do not use that sample data as an authority for card counts.
+- [Mellon / Sit Down and Play](https://meccg.herokuapp.com/) — MeCCG.com describes this browser platform as supporting single-player, multiplayer (up to 10) and Arda. Decks and saved games are stored locally. Treat single-player as a solo play mode, not evidence of an AI opponent. [Platform overview and setup links](https://meccg.com/play-online/).
+- [MECCG Online](https://github.com/Heinrich-Barth/meccg-online) — supports Arda-format play, card browsing, deckbuilding and importing. Its README warns that included generic sample data is not suitable for full deckbuilding, so do not use that sample data as an authority for card counts.
+
+These are optional digital practice environments; they do not replace the physical ICE card-pool inventory or establish Arda quantities.
 
 ### Published Arda Rules 4.0 PDF
 
