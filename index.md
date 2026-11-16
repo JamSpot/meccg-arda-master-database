@@ -30,6 +30,12 @@ This site teaches and documents **Arda format**: the shared-deck multiplayer gam
 5. **Check individual cards and quantities:** [Card Inventory](docs/card-inventory.html) and [Comparison Lists](docs/comparison-lists.html).
 6. **Check provenance and outstanding work:** [Sources & Downloads](docs/sources.html), [Source Reconciliation](docs/source-reconciliation.html) and [Research Progress](docs/research-progress.html).
 
+## Latest learning update — 16 November 2026
+
+The [First Solo Arda Game walkthrough](docs/arda-solo-first-game.html) now includes a worked opening turn, a fair hazard-selection checklist, the 20-mind starting-company explanation, and an eight-turn score sheet. It follows the 2013 solo-Arda experiment and keeps its house rules separate from multiplayer Arda and other solitaire variants.
+
+[Go straight to the first solo game](docs/arda-solo-first-game.html).
+
 ## What Arda is
 
 In the Arda Basic Game, all players draw from the same shared decks. It is designed for 2–7 players, encourages improvisation and trading, and uses a different preparation and play structure from conventional constructed Hero-vs-Hazard MECCG. The standard shared piles are the Play Deck, MP Deck, Roving Character Deck and Minor Item Offering Deck.
