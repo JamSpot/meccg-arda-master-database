@@ -70,14 +70,14 @@ This is the defining solo adjustment.
 For each company:
 
 1. Choose whether it travels to another site or stays at its current site.
-2. Check the site's printed **draw number**.
+2. Check the site's printed **hazard-player draw number** (the darker draw box).
 3. If the company **travels**, draw hazards equal to **four times** that number.
 4. If the company **stays**, draw hazards equal to **twice** that number.
 5. Play hazards against your own company, up to the applicable Hazard Limit, choosing the legal sequence that would cause the most harm.
 6. Resolve attacks and hazard effects using the normal card text and MECCG rules.
 7. Discard unused hazards as the source's session report does, then continue to the next company.
 
-The 4× travelling / 2× staying multiplier belongs to this 2013 solo build only. It is not a rule for multiplayer Arda, Kober v0.2 or other solo variants.
+The normal rules distinguish the resource player's draw number (lighter box) from the hazard player's draw number (darker box); this solo method scales the hazard player's number. See the [Council of Elrond Official Game Rules](https://councilofelrond.org/rules/) for the standard draw procedure. The 4× travelling / 2× staying multiplier belongs to this 2013 solo build only. It is not a rule for multiplayer Arda, Kober v0.2 or other solo variants.
 
 ### How to choose hazards fairly
 
@@ -138,14 +138,14 @@ Gandalf controls Théoden; Círdan controls Elladan. The author then splits them
 
 ### Company 1: Gandalf and Théoden travel to Bag End
 
-1. The Hero version of Bag End has a site draw number of **2**, so this travelling company draws **8 hazard cards** (4 × 2). The [Council of Elrond card database](https://github.com/council-of-elrond-meccg/meccg-cards-database) is a useful secondary lookup; check your physical site card if using a different printing or site version.
+1. The Hero version of Bag End shows **2** for the hazard player's draw, so this travelling company draws **8 hazard cards** (4 × 2). The [Council of Elrond card database](https://github.com/council-of-elrond-meccg/meccg-cards-database) is a useful secondary lookup; check the darker draw box on your physical site card if using a different printing or site version.
 2. The author plays **Giants**. Gandalf uses **Block** and takes a strike, but is wounded. He survives his body check.
 3. The author then plays **Thunderer's Companion**. Théoden taps to face a strike; Gandalf also faces a strike while wounded. Both survive and the creature is defeated, earning its kill MPs under the card/rules procedure.
 4. At Bag End's site phase, Théoden discards **Cram** to untap, then taps to play **Mistress Lobelia**.
 
 ### Company 2: Círdan and Elladan travel to Lórien
 
-1. The Hero Lórien site card also has a draw number of **2**, so this second travelling company also draws **8 hazard cards** (4 × 2).
+1. The Hero Lórien site card also shows **2** for the hazard player's draw, so this second travelling company also draws **8 hazard cards** (4 × 2).
 2. The author plays **Hobgoblins** and then **Crebain**. The company defeats both attacks; their kill MPs are added to the running score as described in the report.
 3. The company does not play a resource at the site in this example.
 
