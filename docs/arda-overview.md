@@ -13,6 +13,14 @@ Arda is not simply conventional two-player MECCG with a larger card pool. It has
 
 The solo guide is not a substitute for the multiplayer rules. Likewise, the multiplayer guide does not assume a solo opponent or use the conventional Hero Solo Academy's fixed Hero and Hazard decks.
 
+## Optional digital practice
+
+If you want to rehearse the Arda procedure or test a solo variant before laying out your physical cards, the community's [Mellon / Sit Down and Play platform](https://meccg.herokuapp.com/) is described as supporting single-player, multiplayer and Arda. It stores decks and saved games locally. This is an optional digital practice tool, not a replacement for your genuine physical-card pool, and its single-player mode should not be assumed to provide an AI opponent.
+
+The [MECCG Online project](https://github.com/Heinrich-Barth/meccg-online) also supports Arda-format play, card browsing and deckbuilding. Its README warns that the included generic sample data is incomplete for full deckbuilding, so do not use it as a card-count authority.
+
+For current platform details and setup instructions, see [MeCCG's Play Online guide](https://meccg.com/play-online/).
+
 ## Canonical card-pool reference
 
 The principal fixed decklist in this project is Gandalf Gene's Arda Deck, published on the Council of Elrond forum in December 2016.
