@@ -18,7 +18,7 @@ The author designed this method to use a broad personal MECCG collection for a s
 - **A dead Wizard costs 5 MPs**
 - The author draws and plays hazards against their own company, deliberately choosing the most harmful legal attacks
 
-The author describes the method as experimental and says some card interactions required a judgement call. Treat it as a playable home variant, not a tournament-tight rules document. Keep a note of any house ruling you make so it stays consistent between sessions.
+The author describes the method as experimental and says some card interactions required a judgement call. Treat it as a playable home variant, not a tournament-tight rules document. Keep a note of any house ruling you make so it stays consistent between sessions.\n\n### Two extra card-use changes in this variant\n\nThe original post also says that Wizard-specific cards may be used by any Wizard. It proposes that character-specific cards may be used by any non-Wizard character with mind 6 or higher, but explicitly marks that second change as **playtesting**. If you want to reproduce the author's experiment, record both changes before play; if you prefer a stricter game, omit the playtesting change and accept that the session may play differently. Neither change is a general multiplayer Arda rule.
 
 ## 2. Build the piles
 
@@ -96,7 +96,51 @@ At reconciliation, return to those limits. The report describes discarding unuse
 
 Keep the Resource, MP and Hazard discards separate. The source's piles have different jobs; merging them makes the game harder to audit and changes the feel of the variant.
 
-## 7. Eight-turn score sheet
+## 7. Worked example: the first turn
+
+The original report's first turn is useful because it shows how the separate piles and the solo hazard procedure work together. This is a retelling of the author's example, not a required opening draw.
+
+### Opening draw
+
+The author randomly draws:
+
+- **Wizard:** Gandalf, placed at Rivendell.
+- **Mind-6-or-higher character:** Círdan.
+- **Lower-mind characters:** Théoden and Elladan.
+- **Minor Items:** Cram, given to Théoden; Elf-stone, given to Elladan.
+- **MP hand:** Woodmen, Mistress Lobelia and Andúril.
+- **Resource hand:** five cards from the Resource Deck.
+
+Gandalf controls Théoden; Círdan controls Elladan. The author then splits them into two companies.
+
+### Company 1: Gandalf and Théoden travel to Bag End
+
+1. Bag End is a travel destination, so calculate the hazard draw using **four times Bag End's printed hazard number**. Check the actual site card rather than guessing the number.
+2. The author plays **Giants**. Gandalf uses **Block** and takes a strike, but is wounded. He survives his body check.
+3. The author then plays **Thunder's Companion**. Théoden taps to face a strike; Gandalf also faces a strike while wounded. Both survive and the creature is defeated, earning its kill MPs under the card/rules procedure.
+4. At Bag End's site phase, Théoden discards **Cram** to untap, then taps to play **Mistress Lobelia**.
+
+### Company 2: Círdan and Elladan travel to Lórien
+
+1. This is a second travelling company, so calculate a fresh hazard draw using **four times Lórien's printed hazard number**.
+2. The author plays **Hobgoblins** and then **Crebain**. The company defeats both attacks; their kill MPs are added to the running score as described in the report.
+3. The company does not play a resource at the site in this example.
+
+### End of the example turn
+
+The author replaces the MP card used to play Mistress Lobelia with a new MP draw. The session report records **10 MPs after turn 1**.
+
+The important lesson is not to aim for exactly 10 MPs in your own first turn. The draws and combat rolls are random. Notice instead the sequence:
+
+- Each company gets its own movement/hazard sequence.
+- Travelling sets the 4× hazard draw; the Hazard Limit still controls how many hazards can actually be played.
+- A character may need to untap before performing a site action.
+- Defeated hazard creatures contribute kill MPs; track these separately from MP resources played.
+- The two-company approach creates more opportunities, but also exposes more characters to hazards.
+
+If you want to follow the report closely, use the same opening cards only as a demonstration. Do not stack or arrange your deck to force this result.
+
+## 8. Eight-turn score sheet
 
 Use this small record after every turn. It helps you see whether the 25-MP target is realistic and makes repeated games comparable.
 
@@ -113,7 +157,7 @@ Use this small record after every turn. It helps you see whether the 25-MP targe
 
 At the end of turn 8, check whether you have reached **25 MPs**, applying the source's **−5 MP penalty if your Wizard has been killed**. The original report treats corruption checks and other end-game checks as relevant to its own session; continue to follow the normal rules and card text for those checks.
 
-## 8. How to keep the challenge fair
+## 9. How to keep the challenge fair
 
 Use the same discipline every game:
 
@@ -123,7 +167,37 @@ Use the same discipline every game:
 - **House rulings:** write them down before the next session. Do not decide an ambiguous card interaction in whichever way benefits you at that moment.
 - **Difficulty:** record the final score, turn count, character deaths and any unusually favourable or unfavourable draws. Adjust the pool only between games.
 
-## 9. What this guide does not combine
+## 10. What this guide does not combine
+
+This walkthrough deliberately does not import:
+
+
+Use this small record after every turn. It helps you see whether the 25-MP target is realistic and makes repeated games comparable.
+
+| Turn | MPs at end of turn | Wizard alive? | Company / site | Important losses or notes |
+|---:|---:|---|---|---|
+| 1 |  |  |  |  |
+| 2 |  |  |  |  |
+| 3 |  |  |  |  |
+| 4 |  |  |  |  |
+| 5 |  |  |  |  |
+| 6 |  |  |  |  |
+| 7 |  |  |  |  |
+| 8 |  |  |  |  |
+
+At the end of turn 8, check whether you have reached **25 MPs**, applying the source's **−5 MP penalty if your Wizard has been killed**. The original report treats corruption checks and other end-game checks as relevant to its own session; continue to follow the normal rules and card text for those checks.
+
+## 9. How to keep the challenge fair
+
+Use the same discipline every game:
+
+- **Hazards:** choose the strongest legal play, not the kindest one. Do not hold back a playable attack simply because it might kill a character.
+- **Company size:** the source's author found that splitting into small companies could be dangerous and later thought one medium-sized company might be wiser. Treat that as a strategic observation, not a compulsory rule.
+- **Card pool:** record every pile and its multiples. If you add more copies of a powerful resource, consider whether the hazard pile also needs a consistent increase; do not change pile contents mid-game to rescue a poor draw.
+- **House rulings:** write them down before the next session. Do not decide an ambiguous card interaction in whichever way benefits you at that moment.
+- **Difficulty:** record the final score, turn count, character deaths and any unusually favourable or unfavourable draws. Adjust the pool only between games.
+
+## 10. What this guide does not combine
 
 This walkthrough deliberately does not import:
 
