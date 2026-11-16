@@ -138,7 +138,7 @@ Gandalf controls Théoden; Círdan controls Elladan. The author then splits them
 
 ### Company 1: Gandalf and Théoden travel to Bag End
 
-1. The Hero version of Bag End has a site draw number of **2**, so this travelling company draws **8 hazard cards** (4 × 2). Check your physical site card if using a different printing or site version.
+1. The Hero version of Bag End has a site draw number of **2**, so this travelling company draws **8 hazard cards** (4 × 2). The [Council of Elrond card database](https://github.com/council-of-elrond-meccg/meccg-cards-database) is a useful secondary lookup; check your physical site card if using a different printing or site version.
 2. The author plays **Giants**. Gandalf uses **Block** and takes a strike, but is wounded. He survives his body check.
 3. The author then plays **Thunderer's Companion**. Théoden taps to face a strike; Gandalf also faces a strike while wounded. Both survive and the creature is defeated, earning its kill MPs under the card/rules procedure.
 4. At Bag End's site phase, Théoden discards **Cram** to untap, then taps to play **Mistress Lobelia**.
