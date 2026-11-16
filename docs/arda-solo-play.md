@@ -2,7 +2,7 @@
 
 > **Scope:** This page covers solo adaptations of the Arda format only. It is not the conventional MECCG Hero Solo Academy and does not use that Academy's fixed Hero Resource deck, separate complementary Hazard deck, or Rivendell-to-Moria teaching expedition.
 
-## Start here: play a documented solo variant\n\nIf you want to get a first game to the table, use the new [First Solo Arda Game walkthrough](arda-solo-first-game.html). It turns the 2013 BoardGameGeek build into a practical setup, movement/hazard, site-phase and eight-turn score sequence. It remains explicitly separate from Kober's method and the other solo variants.\n\n## Compare the available Arda solitaire methods
+## Start here: play a documented solo variant\n\nIf you want to get a first game to the table, use the new [First Solo Arda Game walkthrough](arda-solo-first-game.html). It gives you the pile setup, a worked first turn, a fair hazard-selection checklist, site-phase guidance and an eight-turn score sheet. It remains explicitly separate from Kober's method and the other solo variants.\n\n## Compare the available Arda solitaire methods
 
 Arda is normally described through a format with specialised card piles. Solo adaptations change how those piles, site travel, opposing hazards and scoring are handled. The sources collected for this project describe several different approaches. They are not interchangeable, and there is no single universal solo-Arda ruleset established by the sources reviewed so far.
 
