@@ -53,7 +53,7 @@ Use this order for the Arda Basic Game:
 9. Reveal four Minor Items from the Offering Deck as the face-up offering. These may be played by any player as if from hand.
 10. Start at Rivendell or at your Wizard's home site, as appropriate.
 
-Keep each player's Play Hand and MP Hand separate throughout the game.
+Keep each player's Play Hand and MP Hand separate throughout the game.\n\n### Optional printable table aids\n\nIf you want a clearer physical layout, the Council of Elrond archive has two printable Arda aids: [Roving Character placemat (451.92 KiB)](https://www.councilofelrond.org/forum/download/file.php?id=389) and [All Piles Arda placemat (3.11 MiB)](https://www.councilofelrond.org/forum/download/file.php?id=388). They are layout aids, not additional rules or card lists. Print them only if useful for your table.
 
 ## 4. Learn the turn sequence
 
