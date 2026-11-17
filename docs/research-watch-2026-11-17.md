@@ -36,7 +36,7 @@ The 2010 [Arda Game Variant: The Mission Cards](https://www.councilofelrond.org/
 No new eligible card quantities were imported. Keep the existing sources separate:
 
 - Gandalf Gene's 2016 Hero Arda workbook remains the primary fixed-pool reference.
-- Jose-san's 2022? / BGG Arda example remains a separate Hero/Neutral/Avatar comparison pool; do not merge it.
+- Jose-san's BGG Arda example remains a separate Hero/Neutral/Avatar comparison pool; do not merge it.
 - Thorondor's 2015 no-rares XLS remains an identified but unparsed comparison list.
 - Dream Card, custom, virtual and Minion Arda material remains outside the user's ICE-only Hero scope.
 
