@@ -165,3 +165,12 @@ See [14 November source watch](research-watch-2026-11-14.html) and [comparison-l
 - Rechecked the current BGG file archive, CardGameGeek deck database, MeCCG.com deck archive and targeted Council of Elrond searches. The Arda-related BGG entries remain the previously catalogued Jose-san XLS and rules PDFs; the CardGameGeek result remains a derivative Gandalf Gene transcription missing two hazards. No new eligible list was found.
 - Thorondor's no-rares XLS and BanalityBob's Google Sheet remain the two highest-priority unparsed list leads; neither yielded a complete downloadable export in this pass.
 - Canonical Gandalf Gene quantities remain METW 552, METD 108, MEDM 32, MELE 6 and MEBA 1 = 699. CCG Collector's 695-copy report and the two blank quantity rows remain unresolved. No quantities changed.
+
+
+## Latest source-watch result — 17 November 2026
+
+- Rechecked the Council of Elrond Arda forum and identified previously unregistered printable play aids in the 2009 Components and Game Aids thread and 2011 Arda Goodies thread: a roving-character placemat (451.92 KiB) and an all-piles Arda placemat (3.11 MiB). These improve physical table organisation but contain no card quantities.
+- Added the 2010 Arda Mission Cards proposal as a rules-only variant: region objectives award separate Region Points, not Marshaling Points. No card pool is supplied.
+- Rechecked the Council of Elrond card database, MeCCG.com list/download page and deck archive, BGG files archive, and Samwise repository. No new eligible ICE-only Hero Arda pool or complete downloadable Arda deck file was verified.
+- The CoE database remains a card-identity/text/errata reference, not a quantity authority; its README requires acknowledgement and notification to the Council of Elrond before third-party projects use its data. The full JSON was too large for one-shot retrieval through the connected GitHub file reader in this pass.
+- No card quantities were imported or changed. Thorondor's 2015 XLS and a complete export of BanalityBob's sheet remain the main unparsed pool leads.
