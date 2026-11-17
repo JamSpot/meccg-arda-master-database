@@ -40,7 +40,7 @@ The [First Solo Arda Game walkthrough](docs/arda-solo-first-game.html) now inclu
 
 In the Arda Basic Game, all players draw from the same shared decks. It is designed for 2–7 players, encourages improvisation and trading, and uses a different preparation and play structure from conventional constructed Hero-vs-Hazard MECCG. The standard shared piles are the Play Deck, MP Deck, Roving Character Deck and Minor Item Offering Deck.
 
-## Latest research update — 15 November 2026
+## Latest research update — 17 November 2026\n\nNo new ICE-only Hero Arda card-pool spreadsheet or complete deck file was verified. A useful practical discovery is the Council of Elrond's [Roving Character placemat](https://www.councilofelrond.org/forum/download/file.php?id=389) and [All Piles Arda placemat](https://www.councilofelrond.org/forum/download/file.php?id=388), both printable table aids rather than card lists. The 2010 Mission Cards proposal is also recorded as an optional rules variant, not part of Basic Arda.\n\n[Read the 17 November research watch](docs/research-watch-2026-11-17.html).\n\n## Latest research update — 15 November 2026
 
 No new ICE-only Hero Arda card pool or downloadable Arda deck file was verified. A new third-party MECCG Deck Checker / Deck Distinction / Collection Generator toolset has been recorded as a secondary metadata aid only; it does not provide Arda quantities. The BGG, CardGameGeek, MeCCG.com and Council of Elrond checks did not reveal a new eligible list. The Gandalf Gene baseline remains 699 explicit copies versus CCG Collector's 695, unresolved.
 
