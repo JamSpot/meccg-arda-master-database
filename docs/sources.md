@@ -324,3 +324,15 @@ The Library file `cards for Arda Leon 20220901.xlsx` came from a Facebook/Lookas
 - [MECCG Collection Generator](https://github.com/Theo-Donly/theo-donly.github.io/blob/main/MECCG/tools/MECCG-Collection-Generator.html).
 
 The Deck Checker embeds 1,736 catalogue keys with card-name variants, card image identifiers, rarity, alignment and card type. This is not a distinct-original-card count: multiple alignment/site representations and naming conversions are present. The tool is a third-party metadata/deck-validation aid, not an Arda card pool or quantity source. A spot-check of Army of the Dead (TW), The White Tree (TW), Peril Returned (TD), Uruk-lieutenant (LE) and Wild Trolls (LE) agrees with the existing v1.13 expansion audit. Do not use this utility to set master quantities or override original catalogue assignments.
+
+
+### Council of Elrond — Arda Goodies and printable table aids (2009–2011)
+
+- [Arda Goodies thread (23 March 2011)](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=1702) lists [Roving Character-Placemat1.pdf](https://www.councilofelrond.org/forum/download/file.php?id=389) (451.92 KiB) and [Placemat for All Piles ARDA.pdf](https://www.councilofelrond.org/forum/download/file.php?id=388) (3.11 MiB), made by Joe.
+- [Components and Game Aids for ARDA (30 July 2009)](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=1218) links [Roving_Character_Deck-Placemat.pdf](https://www.councilofelrond.org/forum/download/file.php?id=240) (451.92 KiB), described as a character-token/roving-character aid for group games using a 17 × 23 inch region map.
+
+These are printable table-layout aids, not card inventories or decklists. The two roving-character attachments have the same listed size but have not been binary hash-compared. Their PDFs could not be parsed by the browser tool because the forum serves them as binary attachments; the direct links remain available for manual download.
+
+### Council of Elrond — Arda Game Variant: The Mission Cards (2010)
+
+[Forum discussion](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=1478). This is an optional region-card objective/scoring proposal. Region Points are tracked separately from Marshaling Points; the 20-MP Council threshold remains. It supplies no card pool or decklist and is not part of the Basic Arda rules unless a group chooses to adopt it.
