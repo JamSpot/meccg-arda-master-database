@@ -1,0 +1,15 @@
+section,source_category,expansion_code,expansion_name,card_rows,distinct_names,copies
+Deck,Hazard,METW,The Wizards,98,98,222
+Deck,Hazard,METD,The Dragons,28,28,71
+Deck,Character,METD,The Dragons,5,5,5
+Deck,Character,METW,The Wizards,67,67,67
+Deck,Resource,METW,The Wizards,142,142,288
+Deck,Resource,METD,The Dragons,58,58,130
+Deck,Resource,MEAS,Against the Shadow,23,23,51
+Pool,Resource,METW,The Wizards,5,5,5
+Pool,Resource,MEBA,The Balrog,1,1,1
+Sideboard,Resource,METW,The Wizards,7,7,19
+Deck,TOTAL,ALL,All expansions,421,421,834
+Pool,TOTAL,ALL,All expansions,6,6,6
+Sideboard,TOTAL,ALL,All expansions,7,7,19
+ALL,TOTAL,ALL,All expansions,434,433,859
