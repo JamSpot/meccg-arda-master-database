@@ -336,3 +336,10 @@ These are printable table-layout aids, not card inventories or decklists. The tw
 ### Council of Elrond — Arda Game Variant: The Mission Cards (2010)
 
 [Forum discussion](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=1478). This is an optional region-card objective/scoring proposal. Region Points are tracked separately from Marshaling Points; the 20-MP Council threshold remains. It supplies no card pool or decklist and is not part of the Basic Arda rules unless a group chooses to adopt it.
+
+
+### MECCG Online — Wizards and Dragons Arda deck (added 31 January 2024; reviewed 18 November 2026)
+
+[Original `.meccg` deck file](https://github.com/Heinrich-Barth/meccg-online/blob/main/public/decks/Arda/Wizards%20and%20Dragons.meccg) ([raw download](https://raw.githubusercontent.com/Heinrich-Barth/meccg-online/main/public/decks/Arda/Wizards%20and%20Dragons.meccg)); added in commit [ba6ea3f](https://github.com/Heinrich-Barth/meccg-online/commit/ba6ea3fdbd560099cd1b12d001a7879acbae86a9). It is a GCCG v0.9.4 deck file in the repository's Arda folder. The main Deck section contains 421 distinct card entries / 834 copies: 293 hazards, 72 Hero characters and 469 Hero resources. Expansion totals are METW 577, METD 206 and MEAS 51. Its separate Pool contains six copies (five Wizards plus Hero *Rumours of Rings* from MEBA); its Sideboard contains 19 copies. The main deck has neutral hazards and Hero characters/resources, not Minion-alignment player resources.
+
+This is a useful separate Hero Arda comparison list, not a replacement for Gandalf Gene. The repository README cautions that its included sample data is intended for test play and is not suitable as a full deckbuilding data source. Preserve the Deck, Pool and Sideboard sections separately. See the [18 November source review](wizards-and-dragons-arda-source-review-2026-11-18.html), [normalized 434-row CSV](../data/wizards-and-dragons-arda-pool-2024.csv) and [expansion summary CSV](../data/wizards-and-dragons-arda-expansion-summary.csv).
