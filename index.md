@@ -40,7 +40,19 @@ The [First Solo Arda Game walkthrough](docs/arda-solo-first-game.html) now inclu
 
 In the Arda Basic Game, all players draw from the same shared decks. It is designed for 2–7 players, encourages improvisation and trading, and uses a different preparation and play structure from conventional constructed Hero-vs-Hazard MECCG. The standard shared piles are the Play Deck, MP Deck, Roving Character Deck and Minor Item Offering Deck.
 
-## Latest research update — 17 November 2026\n\nNo new ICE-only Hero Arda card-pool spreadsheet or complete deck file was verified. A useful practical discovery is the Council of Elrond's [Roving Character placemat](https://www.councilofelrond.org/forum/download/file.php?id=389) and [All Piles Arda placemat](https://www.councilofelrond.org/forum/download/file.php?id=388), both printable table aids rather than card lists. The 2010 Mission Cards proposal is also recorded as an optional rules variant, not part of Basic Arda.\n\n[Read the 17 November research watch](docs/research-watch-2026-11-17.html).\n\n## Latest research update — 15 November 2026
+## Latest research update — 18 November 2026
+
+A new downloadable Hero-aligned Arda-format deck file has been found: **Wizards and Dragons**, hosted in the MECCG Online GitHub repository. Its main deck has 834 copies across The Wizards (577), The Dragons (206) and Against the Shadow (51), plus separate Pool and Sideboard sections. It is a distinct digital-play comparison list, not a replacement for Gandalf Gene. The source review includes a row-level comparison and downloadable CSVs.
+
+[Read the 18 November source review](docs/wizards-and-dragons-arda-source-review-2026-11-18.html) · [Download normalized card list](data/wizards-and-dragons-arda-pool-2024.csv) · [Download expansion summary](data/wizards-and-dragons-arda-expansion-summary.csv).
+
+## Latest research update — 17 November 2026
+
+No new ICE-only Hero Arda card-pool spreadsheet or complete deck file was verified. A useful practical discovery is the Council of Elrond's [Roving Character placemat](https://www.councilofelrond.org/forum/download/file.php?id=389) and [All Piles Arda placemat](https://www.councilofelrond.org/forum/download/file.php?id=388), both printable table aids rather than card lists. The 2010 Mission Cards proposal is also recorded as an optional rules variant, not part of Basic Arda.
+
+[Read the 17 November research watch](docs/research-watch-2026-11-17.html).
+
+## Latest research update — 15 November 2026
 
 No new ICE-only Hero Arda card pool or downloadable Arda deck file was verified. A new third-party MECCG Deck Checker / Deck Distinction / Collection Generator toolset has been recorded as a secondary metadata aid only; it does not provide Arda quantities. The BGG, CardGameGeek, MeCCG.com and Council of Elrond checks did not reveal a new eligible list. The Gandalf Gene baseline remains 699 explicit copies versus CCG Collector's 695, unresolved.
 
