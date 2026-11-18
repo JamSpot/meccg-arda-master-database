@@ -174,3 +174,15 @@ See [14 November source watch](research-watch-2026-11-14.html) and [comparison-l
 - Rechecked the Council of Elrond card database, MeCCG.com list/download page and deck archive, BGG files archive, and Samwise repository. No new eligible ICE-only Hero Arda pool or complete downloadable Arda deck file was verified.
 - The CoE database remains a card-identity/text/errata reference, not a quantity authority; its README requires acknowledgement and notification to the Council of Elrond before third-party projects use its data. The full JSON was too large for one-shot retrieval through the connected GitHub file reader in this pass.
 - No card quantities were imported or changed. Thorondor's 2015 XLS and a complete export of BanalityBob's sheet remain the main unparsed pool leads.
+
+
+## Latest source-watch result — 18 November 2026
+
+- Found and parsed a previously unregistered downloadable Arda-format `.meccg` deck file, **Wizards and Dragons**, in the public [MECCG Online repository](https://github.com/Heinrich-Barth/meccg-online). The file was added 31 January 2024 in commit [ba6ea3f](https://github.com/Heinrich-Barth/meccg-online/commit/ba6ea3fdbd560099cd1b12d001a7879acbae86a9).
+- The main Deck section contains 421 distinct entries / 834 copies: 293 hazards, 72 Hero characters and 469 Hero resources. Main-deck expansion totals are METW 577, METD 206 and MEAS 51. A separate Pool has 6 copies (five Wizards plus Hero Rumours of Rings from MEBA); a separate Sideboard has 19 copies.
+- Cross-checked all main-deck entries against the platform's set-specific card metadata. All 72 characters are Hero, all 469 resources are Hero, and all 293 hazards are Neutral. No Minion-alignment player resources were included in the main deck.
+- Compared main-deck rows with the current Gandalf Gene inventory by normalized card name and expansion: 300 of 421 entries / 514 copies matched; 121 entries / 320 copies were not found by that exact comparison. All 23 Against the Shadow entries (51 copies) are absent from Gandalf Gene. These are differences between independent builds, not quantities to merge.
+- Added a source-review page and downloadable normalized row-level and expansion-summary CSVs. The original .meccg file remains available from its source repository. The source repository README cautions that included sample data is intended for test play, so this is a comparative digital-play list rather than a canonical acquisition authority.
+- No Gandalf Gene quantities were changed. The new pool remains separate, and the 699-copy working baseline is unchanged.
+
+See [18 November source review](wizards-and-dragons-arda-source-review.html) and [Comparison Lists](comparison-lists.html#wizards-and-dragons-arda-deck-18-november-2026).
