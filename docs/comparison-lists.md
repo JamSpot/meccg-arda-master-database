@@ -246,3 +246,30 @@ The eight additional ICE promo IDs are TW-493 Neeker-breekers, TW-494 Black Arro
 The complete P-row audit, including the excluded TW-500 Lure event promo and the older promo-variant rows, is in [promo-card-inventory-2026-11-06.csv](../data/promo-card-inventory-2026-11-06.csv). Expansion-level counts are in [catalogue-expansion-reconciliation.csv](../data/catalogue-expansion-reconciliation.csv).
 
 This is a catalogue/printing update only. It does not change Gandalf Gene, Jose-san or Arda Intro Game deck quantities.
+
+
+## MECCG Online — Wizards and Dragons Arda deck (18 November 2026)
+
+A downloadable `.meccg` Arda deck file was found in the [MECCG Online repository](https://github.com/Heinrich-Barth/meccg-online), under `public/decks/Arda`. The file was added on 31 January 2024. It is a separate Hero-aligned digital-play list, not a replacement for Gandalf Gene.
+
+### Main Deck
+
+| Category | Entries | Copies |
+|---|---:|---:|
+| Hazards | 126 | 293 |
+| Characters | 72 | 72 |
+| Resources | 223 | 469 |
+| **Total** | **421** | **834** |
+
+| Expansion | Hazard | Character | Resource | Total |
+|---|---:|---:|---:|---:|
+| METW | 222 | 67 | 288 | **577** |
+| METD | 71 | 5 | 130 | **206** |
+| MEAS | — | — | 51 | **51** |
+| **Total** | **293** | **72** | **469** | **834** |
+
+The separate Pool section contains five METW Wizards and one Hero *Rumours of Rings* (MEBA). The separate Sideboard contains 19 METW copies. Do not merge either section into the 834-card main-deck count without retaining its source role.
+
+A name-and-expansion comparison against Gandalf Gene matches 300 of 421 main-deck entries (514 copies); 121 entries (320 copies) are not found by exact normalized matching. All 23 MEAS entries (51 copies) are absent from the Gene inventory. These differences describe two different builds; they are not additions to Gene. The platform's own README warns that its included sample data is for test play rather than complete deckbuilding.
+
+Download the [original `.meccg` file](https://raw.githubusercontent.com/Heinrich-Barth/meccg-online/main/public/decks/Arda/Wizards%20and%20Dragons.meccg), [normalized row-level CSV](../data/wizards-and-dragons-arda-pool-2024.csv) and [expansion/category summary](../data/wizards-and-dragons-arda-expansion-summary.csv). See the [full source review](wizards-and-dragons-arda-source-review.html).
