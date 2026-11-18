@@ -1,0 +1,435 @@
+section,source_category,card_name,quantity,source_set_code,expansion_code,expansion_name,gene_match_status,gandalf_gene_quantity,source_commit
+Deck,Hazard,Awaken Denizens,2,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Awaken Minions,2,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Clouds,1,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Foul Fumes,1,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Fell Winter,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Eye of Sauron,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Long Winter,1,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Minions Stir,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Morgul Night,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Night,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Plague of Wights,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Snowstorm,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Wake of War,2,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,The Balance of Things,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Storms of Ossë,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Balrog of Moria,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Despair of the Heart,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Doors of Night,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Lure of Creation,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Lure of Expedience,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Lure of the Senses,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Lure of Power,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Lure of Nature,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Siege,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,The Burden of Time,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Traitor,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Arouse Denizens,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Arouse Minions,2,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Choking Shadows,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Call of Home,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Dragon's Desolation,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Drowning Seas,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Gloom,2,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Greed,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Lost in Border-lands,2,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Lost in Dark-domains,2,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Lost in Shadow-lands,1,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Lost in the Wilderness,1,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Muster Disperses,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,New Moon,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,River,2,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Twilight,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Weariness of the Heart,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Abductor,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Agburanar,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Ambusher,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Assassin,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Barrow-wight,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Bert - Bûrat,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Brigands,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Cave-drake,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Corpse-candle,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Corsairs of Umbar,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Crebain,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Daelomin,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Fell Turtle,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Ghosts,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Ghouls,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Giant,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Giant Spiders,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Half-trolls of Far Harad,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Huorn,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Leucaruth,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Mûmak - Oliphant,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Neeker-breekers,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Old Man Willow,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Olog-hai - Trolls,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Orc-guard,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Orc-lieutenant,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Orc-patrol,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Orc-raiders,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Orc-warband,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Orc-warriors,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Orc-watch,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Pick-pocket,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Pûkel-men,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Rogrog,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Silent Watcher,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Slayer,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Smaug,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,The Great Goblin,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Thief,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Tom - Tûma,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Wargs,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Watcher in the Water,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,William - Wûluag,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Wolves,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Adûnaphel,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Akhôrahil,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Dwar of Waw,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Hoarmûrath of Dír,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Khamûl the Easterling,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Indûr Dawndeath,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Ren the Unclean,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Shelob,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Ûvatha the Horseman,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Witch-king of Angmar,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Mouth of Sauron,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Bairanax,1,TD,METD,The Dragons,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Carrion Birds,2,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Cave Worm,3,TD,METD,The Dragons,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Dire Wolves,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Dunlending Raiders,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Eärcaraxë,1,TD,METD,The Dragons,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Gothmog,1,TD,METD,The Dragons,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Hobgoblins,3,TD,METD,The Dragons,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Ice-drake,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Itangast,1,TD,METD,The Dragons,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Land-drake,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Lesser Spiders,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Light-drake,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Marsh-drake,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Morgul-rats,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Rain-drake,3,TD,METD,The Dragons,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Sand-drake,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Scatha,1,TD,METD,The Dragons,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Scorba,1,TD,METD,The Dragons,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Sea Serpent,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Thunder's Companion,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,True Cold-drake,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,True Fire-drake,3,TD,METD,The Dragons,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Were-worm,3,TD,METD,The Dragons,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Wild Fell Beast,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Winged Cold-drake,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Winged Fire-drake,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Hazard,Wolf-riders,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Brand,1,TD,METD,The Dragons,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Fram Framson,1,TD,METD,The Dragons,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Galdor,1,TD,METD,The Dragons,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Thráin II,1,TD,METD,The Dragons,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Ioreth,1,TD,METD,The Dragons,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Adrazar,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Anborn,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Annalena,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Arwen,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Arinmîr,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Aragorn II,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Bard Bowman,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Balin [H],1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Barliman Butterbur,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Beorn,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Beregond,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Beretar,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Bergil,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Bifur,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Bilbo,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Boromir II,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Bombur,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Bofur,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Celeborn,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Círdan,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Dáin II,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Dori,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Denethor II,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Damrod,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Dwalin,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Elladan,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Elrohir,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Éowyn,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Éomer,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Elrond,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Erkenbrand,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Faramir,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Fatty Bolger,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Frodo,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Forlong,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Fíli,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Galadriel,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Galva,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Gamling the Old,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Gimli,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Ghân-buri-Ghân,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Gildor Inglorion,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Glóin,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Glorfindel II,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Halbarad,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Háma,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Haldir,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Haldalam,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Imrahil,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Legolas,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Kíli,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Nori,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Merry,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Mablung,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Orophin,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Ori,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Óin,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Peath,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Pippin,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Robin Smallburrow,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Thorin II,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Théoden,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Sam Gamgee,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Thranduil,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Vôteli,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Vygavril,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Character,Wacho,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Dreams of Lore,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,"Andúril, the Flame of the West",1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Fellowship,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Gates of Morning,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Morannon,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Reforging,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Rescue Prisoners,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Return of the King,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Sacrifice of Form,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Stone of Erech,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,The White Tree,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,A Chance Meeting,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,A Friend or Three,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Block,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Bridge,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Concealment,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Dark Quarrels,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Dodge,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Eagle-mounts,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Escape,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Fair Sailing,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Fair Travels in Border-lands,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Far-sight,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Ford,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Great-road,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Halfling Stealth,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Halfling Strength,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Hiding,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Lucky Strike,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Muster,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,New Friendship,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Old Road,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Risky Blow,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Secret Passage,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Stealth,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Tempering Friendship,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,The Old Thrush,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,True Fána,2,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Vanishment,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Wizard's Flame,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Wizard's Voice,2,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Narsil,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Orcrist,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Palantír of Amon Sûl [H],1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Scroll of Isildur [H],1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Palantír of Osgiliath [H],1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Palantír of Annúminas [H],1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,The Arkenstone [H],1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,The Iron Crown [H],1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,The Mithril-coat [H],1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Durin's Axe,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Glamdring,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Great-shield of Rohan,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Sapling of the White Tree,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Red Arrow,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Hauberk of Bright Mail,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Sword of Gondolin,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Torque of Hues,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Athelas,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Black Arrow,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Dagger of Westernesse,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Elf-stone,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Elven Cloak,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Healing Herbs,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Horn of Anor,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Miruvor,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Potion of Prowess,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Shield of Iron-bound Ash,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Star-glass,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Sting,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Book of Mazarbul,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Earth of Galadriel's Orchard,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Ent-draughts,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Palantír of Elostirion [H],1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Palantír of Minas Tirith [H],1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Palantír of Orthanc [H],1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Red Book of Westmarch [H],1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Wizard's Ring,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Bill the Pony,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Goldberry,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Gollum,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Gwaihir,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Leaflock,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Quickbeam,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Roäc the Raven,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Shadowfax,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Skinbark,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Tom Bombadil,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Treebeard,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Beornings,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Blue Mountain Dwarves,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Dunlendings,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Easterlings,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Elves of Lindon,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Hobbits,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Hillmen,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Ents of Fangorn,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Iron Hill Dwarves,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Knights of Dol Amroth,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Lossoth,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Men of Dorwinion,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Men of Anórien,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Men of Anfalas,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Men of Lamedon,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Men of Lebennin,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Men of Northern Rhovanion,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Rangers of the North,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Rangers of Ithilien,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Riders of Rohan,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Tower Guard of Minas Tirith,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,The Great Eagles,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Southrons,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Variags of Khand,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Wood-elves,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Woodmen,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Woses of the Drúadan Forest,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Woses of Old Pûkel-land,1,TW,METW,The Wizards,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Fair Gold Ring,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Beautiful Gold Ring,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Precious Gold Ring,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Nenseldë the Wingild,1,TD,METD,The Dragons,matched_normalized_name_and_expansion,2,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Men of Dale,1,TD,METD,The Dragons,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Men of Lake-town,1,TD,METD,The Dragons,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Returned Exiles,1,TD,METD,The Dragons,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Bow of Dragon-horn,1,TD,METD,The Dragons,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Habergeon of Silver,3,TD,METD,The Dragons,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Magical Harp,1,TD,METD,The Dragons,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Valiant Sword,2,TD,METD,The Dragons,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Cram,3,TD,METD,The Dragons,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Arrows Shorn of Ebony,1,TD,METD,The Dragons,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Adamant Helmet,1,TD,METD,The Dragons,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Emerald of Doriath,1,TD,METD,The Dragons,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Necklace of Silver and Pearls,1,TD,METD,The Dragons,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Scabbard of Chalcedony,1,TD,METD,The Dragons,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Thrór's Map [H],1,TD,METD,The Dragons,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Emerald of the Mariner,1,TD,METD,The Dragons,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Enruned Shield,1,TD,METD,The Dragons,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Wizard's Staff,1,TD,METD,The Dragons,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Wormsbane,1,TD,METD,The Dragons,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,A Short Rest,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Star of High Hope,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Cloudless Day,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Gift of Comprehension,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Echo of all Joy,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Dragon-lore,3,TD,METD,The Dragons,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Houses of Healing,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,King under the Mountain,1,TD,METD,The Dragons,matched_normalized_name_and_expansion,1,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Legendary Hoard,1,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Lore of the Ages,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Map to Mithril,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Mathom Lore,2,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Refuge,2,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Tales of the Hunt,3,TD,METD,The Dragons,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Three Golden Hairs,1,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,When I Know Anything,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Wondrous Maps,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,And Forth He Hastened,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Bounty of the Hoard,2,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Dragon-feuds,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Burglary,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Dragon's Hunger,2,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Dwarven Hoard,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Fast Asleep,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Flatter a Foe,2,TD,METD,The Dragons,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,"Here, There, or Yonder",3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Hey! come merry dol!,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Look More Closely Later,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Many Turns and Doublings,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Marvels Told,3,TD,METD,The Dragons,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Not at Home,3,TD,METD,The Dragons,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,More Sense than You,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Secret News,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Trickery,3,TD,METD,The Dragons,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Vanish in Sunlight!,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Washed and Refreshed,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Warm Now Be Heart and Limb,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Wizard Uncloaked,3,TD,METD,The Dragons,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Wit,3,TD,METD,The Dragons,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Clear Skies,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Elf-song,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Fog,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Sun,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Moon,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Lapse of Will,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Align Palantír,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Anduin River,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Farmer Maggot,1,AS,MEAS,Against the Shadow,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Mount Slain,3,AS,MEAS,Against the Shadow,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,No Strangers at this Time,3,AS,MEAS,Against the Shadow,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Orc-mail,3,AS,MEAS,Against the Shadow,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Safe from the Shadow,3,AS,MEAS,Against the Shadow,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Tower Raided,3,AS,MEAS,Against the Shadow,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Spies Feared,3,AS,MEAS,Against the Shadow,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Alliance of Free Peoples,3,AS,MEAS,Against the Shadow,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,All the Bells Ringing,3,AS,MEAS,Against the Shadow,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Biter and Beater!,3,AS,MEAS,Against the Shadow,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Drughu,3,AS,MEAS,Against the Shadow,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,The Sun Unveiled,3,AS,MEAS,Against the Shadow,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Power Against the Shadow,3,AS,MEAS,Against the Shadow,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Glamour of Surpassing Excellance,3,AS,MEAS,Against the Shadow,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Bow of the Galadhrim,1,AS,MEAS,Against the Shadow,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Jewel of Beleriand,3,AS,MEAS,Against the Shadow,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,The Ithil-stone,1,AS,MEAS,Against the Shadow,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Angmarim [H],1,AS,MEAS,Against the Shadow,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Haradrim [H],1,AS,MEAS,Against the Shadow,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Nûrniags,1,AS,MEAS,Against the Shadow,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Woses of the Eryn Vorn,1,AS,MEAS,Against the Shadow,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Wain-easterlings [H],1,AS,MEAS,Against the Shadow,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Petty-dwarves [H],1,AS,MEAS,Against the Shadow,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Fair Travels in Free-domains,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Fair Travels in Shadow-lands,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Fair Travels in Wilderness,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Horses,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Kindling of the Spirit,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Lordly Presence,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Old Friendship,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Persuasive Words,3,TW,METW,The Wizards,not_found_by_normalized_name_and_expansion,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Praise to Elbereth,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Ringlore,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Secret Entrance,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Test of Form,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,The Cock Crows,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Deck,Resource,Wizard's Test,3,TW,METW,The Wizards,matched_normalized_name_and_expansion,3,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Pool,Resource,Alatar [H],1,TW,METW,The Wizards,not_compared,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Pool,Resource,Gandalf [H],1,TW,METW,The Wizards,not_compared,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Pool,Resource,Pallando [H],1,TW,METW,The Wizards,not_compared,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Pool,Resource,Radagast [H],1,TW,METW,The Wizards,not_compared,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Pool,Resource,Saruman [H],1,TW,METW,The Wizards,not_compared,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Pool,Resource,Rumours of Rings,1,BA,MEBA,The Balrog,not_compared,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Sideboard,Resource,Lost in the Wilderness,1,TW,METW,The Wizards,not_compared,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Sideboard,Resource,Lesser Ring,3,TW,METW,The Wizards,not_compared,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Sideboard,Resource,Magic Ring of Courage,3,TW,METW,The Wizards,not_compared,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Sideboard,Resource,Magic Ring of Lore,3,TW,METW,The Wizards,not_compared,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Sideboard,Resource,Magic Ring of Nature,3,TW,METW,The Wizards,not_compared,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Sideboard,Resource,Magic Ring of Stealth,3,TW,METW,The Wizards,not_compared,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
+Sideboard,Resource,Magic Ring of Words,3,TW,METW,The Wizards,not_compared,,ba6ea3fdbd560099cd1b12d001a7879acbae86a9
