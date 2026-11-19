@@ -186,3 +186,14 @@ See [14 November source watch](research-watch-2026-11-14.html) and [comparison-l
 - No Gandalf Gene quantities were changed. The new pool remains separate, and the 699-copy working baseline is unchanged.
 
 See [18 November source review](wizards-and-dragons-arda-source-review.html) and [Comparison Lists](comparison-lists.html#wizards-and-dragons-arda-deck-18-november-2026).
+
+
+## Latest source-watch result — 19 November 2026
+
+- Re-audited the MECCG Online `public/decks/Arda` directory and confirmed it contains only `Wizards and Dragons.meccg`.
+- Verified the original 31 January 2024 commit (“arda deck added”) and reparsed the complete file: 434 rows / 859 copies across all sections; main Deck 421 rows / 834 copies; Pool 6 copies; Sideboard 19 copies.
+- Independently recomputed main-deck category totals: 126 Hazard entries / 293 copies; 72 Character entries / 72 copies; 223 Resource entries / 469 copies.
+- Recomputed main-deck expansion totals from the set codes: TW / The Wizards 577; TD / The Dragons 206; AS / Against the Shadow (MEAS) 51. Pool: TW 5 and BA / The Balrog 1. Sideboard: TW 19.
+- Corrected the source-quality description: MECCG Online's README says its included decks are for test play and that the data files are not suitable for deckbuilding. Classify this as a **digital test fixture**, not an author-validated independent Hero Arda pool.
+- Identified one The White Tree (TW) in the sample's main Resource section; Army of the Dead is absent. This is not evidence to fill either blank in Gandalf Gene's separate workbook.
+- No new eligible independent ICE-only Hero Arda card pool, spreadsheet or deck file was verified. No canonical quantities were changed.
