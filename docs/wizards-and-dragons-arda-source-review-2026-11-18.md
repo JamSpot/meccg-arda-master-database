@@ -19,6 +19,14 @@ A new platform-hosted Arda deck file was found in the public [MECCG Online repos
 
 The file is in the repository's `public/decks/Arda` folder and is explicitly named **Wizards and Dragons**. The repository supports Arda-format play and importing deck files. Its README also cautions that the included sample data is intended for test play and is not suitable as a complete deckbuilding data source. Treat this as a useful, published digital-play comparison list—not as a canonical or official Arda inventory.
 
+## Source-quality clarification — 19 November 2026
+
+A follow-up audit of the repository changes the confidence classification of this file. The MECCG Online README explicitly describes the repository's included data as generic sample data and says its two supplied decks are for test play; it warns that the data files are not suitable for deckbuilding. The repository's `public/decks/Arda` directory currently contains **only this one file**. Its commit message is simply “arda deck added”; no separate author notes or Arda rules explanation accompany it.
+
+Therefore, retain this as a **countable digital Arda test fixture / sample deck**, not as an independently validated or author-confirmed community Arda pool. Its exact transcription remains useful for comparison, but its selection, completeness and physical-printing provenance are not established.
+
+A small but relevant cross-pool observation: the main Resource section contains **1 copy of The White Tree (TW / The Wizards)**. It contains no Army of the Dead entry. This does not fill either blank in Gandalf Gene's workbook: a quantity in a different sample deck cannot be transferred to another list.
+
 ## Main deck contents
 
 The file's `Deck` section declares three categories. The listed quantities add up exactly to the declared subtotals.
