@@ -40,11 +40,11 @@ The [First Solo Arda Game walkthrough](docs/arda-solo-first-game.html) now inclu
 
 In the Arda Basic Game, all players draw from the same shared decks. It is designed for 2–7 players, encourages improvisation and trading, and uses a different preparation and play structure from conventional constructed Hero-vs-Hazard MECCG. The standard shared piles are the Play Deck, MP Deck, Roving Character Deck and Minor Item Offering Deck.
 
-## Latest research update — 18 November 2026
+## Latest research update — 19 November 2026
 
-A new downloadable Hero-aligned Arda-format deck file has been found: **Wizards and Dragons**, hosted in the MECCG Online GitHub repository. Its main deck has 834 copies across The Wizards (577), The Dragons (206) and Against the Shadow (51), plus separate Pool and Sideboard sections. It is a distinct digital-play comparison list, not a replacement for Gandalf Gene. The source review includes a row-level comparison and downloadable CSVs.
+A quality check has refined yesterday's **Wizards and Dragons** finding. The file is countable (834 main-deck copies: The Wizards 577, The Dragons 206, Against the Shadow 51), but MECCG Online's own README says its supplied decks are test-play samples and the data is not suitable for deckbuilding. The Arda folder contains only this one file, so it should be treated as a digital test fixture, not an independently validated Arda pool. It includes one The White Tree (TW) in its Resource section, but no Army of the Dead; neither quantity can be transferred into the separate Gandalf Gene list.
 
-[Read the 18 November source review](docs/wizards-and-dragons-arda-source-review-2026-11-18.html) · [Download normalized card list](data/wizards-and-dragons-arda-pool-2024.csv) · [Download expansion summary](data/wizards-and-dragons-arda-expansion-summary.csv).
+[Read the 19 November research watch](docs/research-watch-2026-11-19.html) · [Read the detailed source review](docs/wizards-and-dragons-arda-source-review-2026-11-18.html) · [Download normalized card list](data/wizards-and-dragons-arda-pool-2024.csv) · [Download expansion summary](data/wizards-and-dragons-arda-expansion-summary.csv) · [Download original .meccg file](https://raw.githubusercontent.com/Heinrich-Barth/meccg-online/main/public/decks/Arda/Wizards%20and%20Dragons.meccg).
 
 ## Latest research update — 17 November 2026
 
