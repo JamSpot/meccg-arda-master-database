@@ -26,9 +26,10 @@ This site teaches and documents **Arda format**: the shared-deck multiplayer gam
 1. **Learn the format:** [Arda Overview](docs/arda-overview.html).
 2. **Choose how you will play:** [Multiplayer Basic Game](docs/arda-multiplayer-play.html) or [Arda-specific Solo Play](docs/arda-solo-play.html). If playing alone, start with the [First Solo Arda Game walkthrough](docs/arda-solo-first-game.html) for the documented 2013 method.
 3. **Choose the rules version:** [Rules & Variants](docs/rules-and-variants.html). Do not mix Basic Game, Arda Revised, Expanded World or solo variant rules without checking their sources.
-4. **Understand the card pool:** [Gandalf Gene — canonical deck](docs/gandalf-gene.html).
-5. **Check individual cards and quantities:** [Card Inventory](docs/card-inventory.html) and [Comparison Lists](docs/comparison-lists.html).
-6. **Check provenance and outstanding work:** [Sources & Downloads](docs/sources.html), [Source Reconciliation](docs/source-reconciliation.html) and [Research Progress](docs/research-progress.html).
+4. **Build and organise the physical piles:** [Building and Sorting Arda Decks](docs/building-arda-decks.html). Follow this before sleeving or assembling your cards.
+5. **Understand the card pool:** [Gandalf Gene — canonical deck](docs/gandalf-gene.html).
+6. **Check individual cards and quantities:** [Card Inventory](docs/card-inventory.html) and [Comparison Lists](docs/comparison-lists.html).
+7. **Check provenance and outstanding work:** [Sources & Downloads](docs/sources.html), [Source Reconciliation](docs/source-reconciliation.html) and [Research Progress](docs/research-progress.html).
 
 ## Latest learning update — 16 November 2026
 
@@ -100,6 +101,11 @@ The database uses Gandalf Gene's 2016 Hero Arda list as its principal fixed card
     <h3>Solo instructions</h3>
     <p>Compare published Arda solitaire methods, their different pile structures, travel and scoring procedures.</p>
     <p><a href="docs/arda-solo-play.html">Open solo guide</a></p>
+  </section>
+  <section class="home-link-card">
+    <h3>Build and organise your decks</h3>
+    <p>Detailed card selection, pile construction, colour-coded sleeves, inventory checks and pack-away procedure.</p>
+    <p><a href="docs/building-arda-decks.html">Open deck construction guide</a></p>
   </section>
   <section class="home-link-card">
     <h3>Canonical deck</h3>
