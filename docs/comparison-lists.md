@@ -1,5 +1,15 @@
 # Comparison Lists
 
+## 19 November 2026 — MECCG Online “Wizards and Dragons” sample deck
+
+The downloadable [GCCG `.meccg` file](https://raw.githubusercontent.com/Heinrich-Barth/meccg-online/main/public/decks/Arda/Wizards%20and%20Dragons.meccg) contains a countable 834-copy main deck (METW 577, METD 206, MEAS 51), plus a separate 6-copy Pool and 19-copy Sideboard. The row-level and expansion-summary CSVs are linked in the [18 November source review](wizards-and-dragons-arda-source-review-2026-11-18.html).
+
+**Important quality qualification:** the MECCG Online README describes the supplied deck data as generic test-play samples and explicitly says the files are not suitable for deckbuilding. The repository's Arda directory contains only this one file. It is therefore a useful countable digital test fixture, not a confirmed independent community pool or canonical acquisition list.
+
+The sample contains 1 copy of **The White Tree (TW)** in its Resource section and no **Army of the Dead**. That is a separate-pool observation only; it does not assign a quantity to either blank in Gandalf Gene's workbook.
+
+
+
 These lists are useful for comparison but must not be merged into the canonical Gandalf Gene deck without explicit evidence.
 
 ## 4 November 2026 — Arda Intro Game row-level normalization
