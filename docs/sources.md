@@ -109,6 +109,17 @@ Offline card gallery and deckbuilder for standard MECCG cards, with filters, loc
 
 These are optional digital practice environments; they do not replace the physical ICE card-pool inventory or establish Arda quantities.
 
+### MECCG Online — “Wizards and Dragons” Arda sample file (added 31 January 2024)
+
+- [Original `.meccg` file](https://raw.githubusercontent.com/Heinrich-Barth/meccg-online/main/public/decks/Arda/Wizards%20and%20Dragons.meccg) · [GitHub file history / original commit](https://github.com/Heinrich-Barth/meccg-online/commit/ba6ea3fdbd560099cd1b12d001a7879acbae86a9) · [Arda directory](https://github.com/Heinrich-Barth/meccg-online/tree/main/public/decks/Arda)
+- GCCG v0.9.4 text format; 9,285 bytes; 434 rows across the Deck, Pool and Sideboard sections.
+- Main Deck: 421 entries / 834 copies — 293 hazards, 72 characters and 469 resources. Main-deck expansion totals: METW 577, METD 206, MEAS 51.
+- Separate Pool: 6 copies (five Wizards and one MEBA Rumours of Rings). Separate Sideboard: 19 copies. Do not add these to the 834-card main-deck subtotal without preserving section labels.
+- The main Resource section includes one The White Tree (TW) and no Army of the Dead.
+- **Quality status:** the repository README calls its supplied decks test-play samples and says its data files are not suitable for deckbuilding. The Arda directory contains only this file. Treat it as a countable digital test fixture, not an independently validated or author-confirmed Arda pool. Keep it separate from Gandalf Gene and all other pool totals.
+
+The [19 November research watch](research-watch-2026-11-19.html) records the verification and the card-level caveat. The [row-level CSV](../data/wizards-and-dragons-arda-pool-2024.csv) preserves the source sections and quantities.
+
 ### Published Arda Rules 4.0 PDF
 
 https://lureofmiddleearth.com/wp-content/uploads/2016/03/arda_4.0_en.pdf
