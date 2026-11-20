@@ -41,6 +41,10 @@ Download the [727-row normalized card inventory](../data/arda-intro-game-card-in
 
 The Hero Arda *Arkenstone* is TW-341 (Hero, The Wizards); the separate Minion promo LE-418 is not used. *Dreams of Lore* is the original ICE Hero card TW-210, not a Dream Card. No Dream Cards, custom cards or Minion Arda decklists were added.
 
+A separate normalized name-and-expansion comparison against Gandalf Gene's 699-copy inventory finds **298 shared identities** (514 Intro Game copies versus 525 Gene copies), with **14 shared identities at different quantities**. The all-rarities Intro Game also has 77 resolved identities / 111 copies not found in Gene, while Gene has 76 identities / 174 copies not found in the resolved Intro Game rows. The remaining 23 Intro Game hazard identities / 69 copies are expansion-ambiguous; all 23 names occur in Gene, which lists them in one of the candidate base expansions (METW or METD). That is a useful cross-check, but it does not prove which physical printing the Intro Game author used, so the 69 remain unresolved.
+
+Download the [row-level Intro Game vs Gandalf Gene comparison CSV](../data/arda-intro-game-vs-gandalf-gene-comparison.csv). This is a comparison aid only: it does not merge the two builds or replace either source quantity.
+
 ## Scope clarification — Jose-san comparison
 
 The 322-name / 623-copy Jose-san subset is a strict Avatar/Hero/Neutral alignment filter, retained for comparison only. It is not a replacement canonical Hero Arda list or a physical acquisition list. Keep the separate Minion Arda variant excluded; do not merge its quantities into the Hero pool.
