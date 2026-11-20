@@ -258,7 +258,7 @@ The [metw.net cardlists](https://metw.net/) give the base counts for all seven e
 
 ### MECCG Full Spoiler List
 - PDF: https://meccg.es/meta/cards/MeCCG%20Full%20Spoiler%20List.pdf
-- 186 pages; compiled by Black Council of Mordor and updated by Adrian Teroux in February 2007.
+- 198 PDF pages (the document's own numbered pages run through 186); compiled by Black Council of Mordor and updated by Adrian Teroux in February 2007.
 - Includes Standard Promo Cards on pages 184–185 and Special German Promo Cards on page 186, including the nine German promo cards.
 
 ### MeCCG collecting archive and Lure event rules
