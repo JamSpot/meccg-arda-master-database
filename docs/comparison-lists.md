@@ -43,6 +43,20 @@ The Hero Arda *Arkenstone* is TW-341 (Hero, The Wizards); the separate Minion pr
 
 A separate normalized name-and-expansion comparison against Gandalf Gene's 699 explicit copies finds **298 shared identities** (514 Intro Game copies versus 525 Gene copies), with **14 shared identities at different quantities**. The all-rarities Intro Game also has 77 resolved identities / 111 copies not found in Gene, while Gene has 76 identities / 174 copies not found in the resolved Intro Game rows. The Gene-only figure uses its 374 explicit-quantity identities; the two blank-quantity names, Army of the Dead and The White Tree, are not included. The remaining 23 Intro Game hazard identities / 69 copies are expansion-ambiguous; all 23 names occur in Gene, which lists them in one of the candidate base expansions (METW or METD). That is a useful cross-check, but it does not prove which physical printing the Intro Game author used, so the 69 remain unresolved.
 
+Expansion-level split of the resolved name-and-expansion comparison:
+
+| Expansion | Shared identities / Intro copies | Intro-only identities / copies | Gene-only identities / copies |
+|---|---:|---:|---:|
+| METW | 243 / 415 | 67 / 99 | 55 / 131 |
+| METD | 48 / 80 | 7 / 9 | 11 / 23 |
+| MEDM | 5 / 13 | 2 / 2 | 9 / 19 |
+| MELE | 2 / 6 | — | — |
+| MEAS | — | 1 / 1 | — |
+| MEBA | — | — | 1 / 1 |
+| **Total resolved** | **298 / 514** | **77 / 111** | **76 / 174** |
+
+The 23 ambiguous hazard identities / 69 copies are deliberately outside this expansion table. The comparison uses normalized names and set codes; it is a provenance aid, not proof that two lists use identical physical printings or should be merged.
+
 Download the [row-level Intro Game vs Gandalf Gene comparison CSV](../data/arda-intro-game-vs-gandalf-gene-comparison.csv). This is a comparison aid only: it does not merge the two builds or replace either source quantity.
 
 ## Scope clarification — Jose-san comparison
