@@ -1,0 +1,475 @@
+status,card_name,expansion,intro_game_quantity,gandalf_gene_quantity,candidate_expansions,gene_expansion_reference,quantity_delta_intro_minus_gene,notes
+gene_only,Strider,MEBA,,1,,MEBA,,Gene identity not present in resolved Intro Game rows
+gene_only,An Unexpected Party,MEDM,,3,,MEDM,,Gene identity not present in resolved Intro Game rows
+gene_only,Chance of Being Lost,MEDM,,3,,MEDM,,Gene identity not present in resolved Intro Game rows
+gene_only,Durin's Bane,MEDM,,1,,MEDM,,Gene identity not present in resolved Intro Game rows
+gene_only,Folco Boffin,MEDM,,1,,MEDM,,Gene identity not present in resolved Intro Game rows
+gene_only,In Great Wrath,MEDM,,3,,MEDM,,Gene identity not present in resolved Intro Game rows
+gene_only,Leaf Brooch,MEDM,,3,,MEDM,,Gene identity not present in resolved Intro Game rows
+gene_only,Mallorn,MEDM,,1,,MEDM,,Gene identity not present in resolved Intro Game rows
+gene_only,Out of the Black Sky,MEDM,,3,,MEDM,,Gene identity not present in resolved Intro Game rows
+gene_only,Revealed to all Watchers,MEDM,,1,,MEDM,,Gene identity not present in resolved Intro Game rows
+gene_only,Cave Worm,METD,,3,,METD,,Gene identity not present in resolved Intro Game rows
+gene_only,Dragon-lore,METD,,3,,METD,,Gene identity not present in resolved Intro Game rows
+gene_only,Foolish Words,METD,,3,,METD,,Gene identity not present in resolved Intro Game rows
+gene_only,Fram Framson,METD,,1,,METD,,Gene identity not present in resolved Intro Game rows
+gene_only,Gold Belt of Lórien,METD,,1,,METD,,Gene identity not present in resolved Intro Game rows
+gene_only,Hobgoblins,METD,,3,,METD,,Gene identity not present in resolved Intro Game rows
+gene_only,Host of Bats,METD,,3,,METD,,Gene identity not present in resolved Intro Game rows
+gene_only,King under the Mountain,METD,,1,,METD,,Gene identity not present in resolved Intro Game rows
+gene_only,Returned Exiles,METD,,1,,METD,,Gene identity not present in resolved Intro Game rows
+gene_only,Thrór's Map,METD,,1,,METD,,Gene identity not present in resolved Intro Game rows
+gene_only,True Fire-drake,METD,,3,,METD,,Gene identity not present in resolved Intro Game rows
+gene_only,Align Palantír,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Ambusher,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,"Andúril, the Flame of the West",METW,,1,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Awaken Denizens,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Balrog of Moria,METW,,1,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Bane of the Ithil-stone,METW,,1,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Call of Home,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Call of the Sea,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Cave-drake,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Despair of the Heart,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Doors of Night,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Eagle-mounts,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Earth of Galadriel's Orchard,METW,,1,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Ent-draughts,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Far-sight,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Favor of the Valar,METW,,1,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Fell Beast,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Fell Winter,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Fog,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Giant Spiders,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Goldberry,METW,,1,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Greed,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Leaflock,METW,,1,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Lure of Expedience,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Lure of Nature,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Lure of the Senses,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Minions Stir,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Moon,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Morgul Night,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Muster Disperses,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Orc-raiders,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Orc-warband,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Orc-watch,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Palantír of Annúminas,METW,,1,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Palantír of Minas Tirith,METW,,1,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Palantír of Orthanc,METW,,1,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Paths of the Dead,METW,,1,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Reforging,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Return of the King,METW,,1,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,River,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Sacrifice of Form,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Sapling of the White Tree,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Shelob,METW,,1,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Siege,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Skinbark,METW,,1,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Slayer,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Stone of Erech,METW,,1,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,The Nazgûl are Abroad,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,The Pale Sword,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,The Will of Sauron,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Tower Guard of Minas Tirith,METW,,1,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Traitor,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Treebeard,METW,,1,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Twilight,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+gene_only,Wizard's Laughter,METW,,3,,METW,,Gene identity not present in resolved Intro Game rows
+intro_game_expansion_unresolved,Ambusher,UNRESOLVED,3,3,MELE;METW,METW,,"Gene uses a candidate base expansion, but that does not prove the Intro Game printing"
+intro_game_expansion_unresolved,Awaken Denizens,UNRESOLVED,3,3,MELE;METW,METW,,"Gene uses a candidate base expansion, but that does not prove the Intro Game printing"
+intro_game_expansion_unresolved,Cave Worm,UNRESOLVED,3,3,MELE;METD,METD,,"Gene uses a candidate base expansion, but that does not prove the Intro Game printing"
+intro_game_expansion_unresolved,Cave-drake,UNRESOLVED,3,3,MELE;METW,METW,,"Gene uses a candidate base expansion, but that does not prove the Intro Game printing"
+intro_game_expansion_unresolved,Despair of the Heart,UNRESOLVED,3,3,MELE;METW,METW,,"Gene uses a candidate base expansion, but that does not prove the Intro Game printing"
+intro_game_expansion_unresolved,Doors of Night,UNRESOLVED,3,3,MELE;METW,METW,,"Gene uses a candidate base expansion, but that does not prove the Intro Game printing"
+intro_game_expansion_unresolved,Fell Winter,UNRESOLVED,3,3,MELE;METW,METW,,"Gene uses a candidate base expansion, but that does not prove the Intro Game printing"
+intro_game_expansion_unresolved,Foolish Words,UNRESOLVED,3,3,MELE;METD,METD,,"Gene uses a candidate base expansion, but that does not prove the Intro Game printing"
+intro_game_expansion_unresolved,Giant Spiders,UNRESOLVED,3,3,MELE;METW,METW,,"Gene uses a candidate base expansion, but that does not prove the Intro Game printing"
+intro_game_expansion_unresolved,Greed,UNRESOLVED,3,3,MELE;METW,METW,,"Gene uses a candidate base expansion, but that does not prove the Intro Game printing"
+intro_game_expansion_unresolved,Hobgoblins,UNRESOLVED,3,3,MELE;METD,METD,,"Gene uses a candidate base expansion, but that does not prove the Intro Game printing"
+intro_game_expansion_unresolved,Lure of Expedience,UNRESOLVED,3,3,MELE;METW,METW,,"Gene uses a candidate base expansion, but that does not prove the Intro Game printing"
+intro_game_expansion_unresolved,Lure of Nature,UNRESOLVED,3,3,MELE;METW,METW,,"Gene uses a candidate base expansion, but that does not prove the Intro Game printing"
+intro_game_expansion_unresolved,Lure of the Senses,UNRESOLVED,3,3,MELE;METW,METW,,"Gene uses a candidate base expansion, but that does not prove the Intro Game printing"
+intro_game_expansion_unresolved,Minions Stir,UNRESOLVED,3,3,MELE;METW,METW,,"Gene uses a candidate base expansion, but that does not prove the Intro Game printing"
+intro_game_expansion_unresolved,Muster Disperses,UNRESOLVED,3,3,MELE;METW,METW,,"Gene uses a candidate base expansion, but that does not prove the Intro Game printing"
+intro_game_expansion_unresolved,Orc-raiders,UNRESOLVED,3,3,MELE;METW,METW,,"Gene uses a candidate base expansion, but that does not prove the Intro Game printing"
+intro_game_expansion_unresolved,Orc-warband,UNRESOLVED,3,3,MELE;METW,METW,,"Gene uses a candidate base expansion, but that does not prove the Intro Game printing"
+intro_game_expansion_unresolved,Orc-watch,UNRESOLVED,3,3,MELE;METW,METW,,"Gene uses a candidate base expansion, but that does not prove the Intro Game printing"
+intro_game_expansion_unresolved,River,UNRESOLVED,3,3,MELE;METW,METW,,"Gene uses a candidate base expansion, but that does not prove the Intro Game printing"
+intro_game_expansion_unresolved,Slayer,UNRESOLVED,3,3,MELE;METW,METW,,"Gene uses a candidate base expansion, but that does not prove the Intro Game printing"
+intro_game_expansion_unresolved,True Fire-drake,UNRESOLVED,3,3,MELE;METD,METD,,"Gene uses a candidate base expansion, but that does not prove the Intro Game printing"
+intro_game_expansion_unresolved,Twilight,UNRESOLVED,3,3,MELE;METW,METW,,"Gene uses a candidate base expansion, but that does not prove the Intro Game printing"
+intro_game_only,Geann a-Lisch,MEAS,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Haudh-in-Gwanûr,MEDM,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Necklace of Girion,MEDM,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Buhr Widu,METD,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Dale,METD,2,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Gold Hill,METD,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Gondmaeglom,METD,2,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Isle of the Ulond,METD,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Ovir Hollow,METD,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Zarak Dûm,METD,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Amon Hen,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Bag End,METW,2,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Bandit Lair,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Barrow-downs,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Beorn’s House,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Blue Mountain Dwarf-hold,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Bree,METW,2,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Cameth Brin,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Carn Dûm,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Caves of Ûlund,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Cirith Ungol,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Dancing Spire,METW,2,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Dead Marshes,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Dimrill Dale,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Dol Amroth,METW,2,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Dol Guldur,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Dreams of Lore,METW,2,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Drúadan Forest,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Dunharrow,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Dunnish Clan-hold,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Eagles’ Eyrie,METW,2,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Easterling Camp,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Edhellond,METW,6,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Edoras,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Gladden Fields,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Glittering Caves,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Goblin-gate,METW,2,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Grey Havens,METW,6,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Henneth Annûn,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Himring,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Irerock,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Iron Hill Dwarf-hold,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Isengard,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Isles of the Dead that Live,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Lake-town,METW,2,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Lond Galen,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Lórien,METW,6,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Lossadan Cairn,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Lossadan Camp,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Minas Morgul,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Minas Tirith,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Moria,METW,2,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Mount Doom,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Mount Gram,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Mount Gundabad,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Old Forest,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Ost-in-Edhil,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Pelargir,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Rivendell,METW,6,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Ruined Signal Tower,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Sarn Goriwing,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Shelob’s Lair,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Shrel-Kain,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Southron Oasis,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Stone-circle,METW,2,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,The Lonely Mountain,METW,2,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,The Stones,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,The White Towers,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,The Wind Throne,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Thranduil’s Halls,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Tolfalas,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Vale of Erech,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Variag Camp,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Weathertop,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Wellinghall,METW,2,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Woodmen-town,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+intro_game_only,Wose Passage-hold,METW,1,,,,,Resolved Intro Game identity not present in Gene by normalized name and expansion
+shared_identity,Angmar Arises,MEDM,3,3,,MEDM,0,Same quantity in both lists
+shared_identity,Lindion the Oronín,MEDM,1,1,,MEDM,0,Same quantity in both lists
+shared_identity,Pierced by Many Wounds,MEDM,3,3,,MEDM,0,Same quantity in both lists
+shared_identity,Scimitars of Steel,MEDM,3,3,,MEDM,0,Same quantity in both lists
+shared_identity,Two or Three Tribes Present,MEDM,3,3,,MEDM,0,Same quantity in both lists
+shared_identity,Uruk-lieutenant,MELE,3,3,,MELE,0,Same quantity in both lists
+shared_identity,Wild Trolls,MELE,3,3,,MELE,0,Same quantity in both lists
+shared_identity,Adamant Helmet,METD,2,3,,METD,-1,Quantity differs; preserve each source quantity
+shared_identity,Agburanar at Home,METD,1,1,,METD,0,Same quantity in both lists
+shared_identity,Arrows Shorn of Ebony,METD,2,3,,METD,-1,Quantity differs; preserve each source quantity
+shared_identity,Bairanax ,METD,1,1,,METD,0,Same quantity in both lists
+shared_identity,Bairanax at Home,METD,1,1,,METD,0,Same quantity in both lists
+shared_identity,Bow of Dragon-horn,METD,1,1,,METD,0,Same quantity in both lists
+shared_identity,Brand,METD,1,1,,METD,0,Same quantity in both lists
+shared_identity,Cram,METD,3,3,,METD,0,Same quantity in both lists
+shared_identity,Daelomin at Home,METD,1,1,,METD,0,Same quantity in both lists
+shared_identity,Eärcaraxë,METD,1,1,,METD,0,Same quantity in both lists
+shared_identity,Eärcaraxë at Home,METD,1,1,,METD,0,Same quantity in both lists
+shared_identity,Emerald of Doriath,METD,1,1,,METD,0,Same quantity in both lists
+shared_identity,Emerald of the Mariner,METD,1,1,,METD,0,Same quantity in both lists
+shared_identity,Enruned Shield,METD,1,1,,METD,0,Same quantity in both lists
+shared_identity,Flatter a Foe,METD,3,3,,METD,0,Same quantity in both lists
+shared_identity,Galdor,METD,1,1,,METD,0,Same quantity in both lists
+shared_identity,Gothmog,METD,1,1,,METD,0,Same quantity in both lists
+shared_identity,Habergeon of Silver,METD,2,1,,METD,1,Quantity differs; preserve each source quantity
+shared_identity,Ioreth,METD,1,1,,METD,0,Same quantity in both lists
+shared_identity,Itangast,METD,1,1,,METD,0,Same quantity in both lists
+shared_identity,Itangast at Home,METD,1,1,,METD,0,Same quantity in both lists
+shared_identity,Leucaruth at Home,METD,1,1,,METD,0,Same quantity in both lists
+shared_identity,Magical Harp,METD,1,1,,METD,0,Same quantity in both lists
+shared_identity,Many Sorrows Befall,METD,3,3,,METD,0,Same quantity in both lists
+shared_identity,Marvels Told,METD,3,3,,METD,0,Same quantity in both lists
+shared_identity,Master of Esgaroth,METD,3,3,,METD,0,Same quantity in both lists
+shared_identity,Men of Dale,METD,1,1,,METD,0,Same quantity in both lists
+shared_identity,Men of Lake-town,METD,1,1,,METD,0,Same quantity in both lists
+shared_identity,Necklace of Silver and Pearls,METD,2,3,,METD,-1,Quantity differs; preserve each source quantity
+shared_identity,Nenseldë the Wingild,METD,1,2,,METD,-1,Quantity differs; preserve each source quantity
+shared_identity,Not at Home,METD,3,3,,METD,0,Same quantity in both lists
+shared_identity,Peril Returned,METD,3,3,,METD,0,Same quantity in both lists
+shared_identity,Rain-drake,METD,3,3,,METD,0,Same quantity in both lists
+shared_identity,Scabbard of Chalcedony,METD,2,3,,METD,-1,Quantity differs; preserve each source quantity
+shared_identity,Scatha,METD,1,1,,METD,0,Same quantity in both lists
+shared_identity,Scatha at Home,METD,1,1,,METD,0,Same quantity in both lists
+shared_identity,Scorba,METD,1,1,,METD,0,Same quantity in both lists
+shared_identity,Scorba at Home,METD,1,1,,METD,0,Same quantity in both lists
+shared_identity,Smaug at Home,METD,1,1,,METD,0,Same quantity in both lists
+shared_identity,Tales of the Hunt,METD,3,3,,METD,0,Same quantity in both lists
+shared_identity,Thráin II ,METD,1,1,,METD,0,Same quantity in both lists
+shared_identity,Times Are Evil,METD,3,3,,METD,0,Same quantity in both lists
+shared_identity,Trickery,METD,3,3,,METD,0,Same quantity in both lists
+shared_identity,Valiant Sword ,METD,2,1,,METD,1,Quantity differs; preserve each source quantity
+shared_identity,Were-worm,METD,3,3,,METD,0,Same quantity in both lists
+shared_identity,Wizard Uncloaked,METD,3,3,,METD,0,Same quantity in both lists
+shared_identity,Wizard’s Staff,METD,1,3,,METD,-2,Quantity differs; preserve each source quantity
+shared_identity,Wormsbane,METD,1,1,,METD,0,Same quantity in both lists
+shared_identity,“Bert” (Bûrat),METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,“Tom” (Tûma),METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,“William” (Wûluag),METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,A Chance Meeting,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,A Friend or Three,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Adrazar,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Adûnaphel,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Agburanar,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Akhôrahil,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Alatar,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Anborn,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Annalena,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Aragorn II,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Arinmîr,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Arwen,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Assassin,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Athelas,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Awaken Minions,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Awaken the Earth’s Fire,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Balin,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Bard Bowman,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Barliman Butterbur,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Beautiful Gold Ring,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Beorn,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Beornings,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Beregond,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Beretar,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Bergil,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Bifur,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Bilbo,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Bill the Pony,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Black Arrow,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Block,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Blue Mountain Dwarves,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Bofur,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Bombur,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Book of Mazarbul,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Boromir II,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Bridge,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Celeborn,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Choking Shadows,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Círdan,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Concealment,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Corsairs of Umbar,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Daelomin,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Dagger of Westernesse,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Dáin II,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Damrod,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Dark Quarrels,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Denethor II,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Dodge,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Dori,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Dragon’s Desolation,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Dunlendings,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Durin’s Axe,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Dwalin,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Dwar of Waw,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Dwarven Ring of Barin’s Tribe,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Dwarven Ring of Bávor’s Tribe,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Dwarven Ring of Drúin’s Tribe,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Dwarven Ring of Durin’s Tribe,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Dwarven Ring of Dwálin’s Tribe,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Dwarven Ring of Thélor’s Tribe,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Dwarven Ring of Thrár’s Tribe,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Easterlings,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Elf-song,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Elf-stone,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Elladan,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Elrohir,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Elrond,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Elven Cloak,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Elves of Lindon,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Ents of Fangorn,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Éomer,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Éowyn,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Erkenbrand,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Escape,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Eye of Sauron,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Fair Gold Ring,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Faramir,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Fatty Bolger,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Fellowship,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Fíli,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Ford,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Forlong,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Frodo,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Fury of the Iron Crown,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Galadriel,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Galva,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Gamling the Old,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Gandalf,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Gates of Morning,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Ghân-buri-Ghân,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Gildor Inglorion,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Gimli,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Glamdring,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Glóin,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Glorfindel II,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Gollum,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Gollum’s Fate,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Great Ship,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Great-road,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Great-shield of Rohan,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Gwaihir,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Halbarad,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Haldalam,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Haldir,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Half-trolls of Far Harad,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Halfling Stealth,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Halfling Strength,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Háma,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Hauberk of Bright Mail,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Healing Herbs,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Hiding,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Hillmen,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Hoarmûrath of Dír,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Hobbits,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Horn of Anor,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Horses,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Imrahil,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Indûr Dawndeath,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Iron Hill Dwarves,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Khamûl the Easterling,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Kíli,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Kindling of the Spirit,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Knights of Dol Amroth,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Lapse of Will,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Legolas,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Lesser Ring,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Leucaruth,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Lossoth,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Lucky Strike,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Lure of Creation,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Lure of Power,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Mablung,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Magic Ring of Courage,METW,2,3,,METW,-1,Quantity differs; preserve each source quantity
+shared_identity,Magic Ring of Lore,METW,2,3,,METW,-1,Quantity differs; preserve each source quantity
+shared_identity,Magic Ring of Nature,METW,2,3,,METW,-1,Quantity differs; preserve each source quantity
+shared_identity,Magic Ring of Stealth,METW,2,3,,METW,-1,Quantity differs; preserve each source quantity
+shared_identity,Magic Ring of Words,METW,2,3,,METW,-1,Quantity differs; preserve each source quantity
+shared_identity,Men of Anfalas,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Men of Anórien,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Men of Dorwinion,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Men of Lamedon,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Men of Lebennin,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Men of Northern Rhovanion,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Merry,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Miruvor,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Morgul-horse,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Morgul-knife,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Mouth of Sauron,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Narsil,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Narya,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Nenya,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,New Friendship,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,New Moon,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Nori,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Óin,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Old Friendship,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Old Road,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Olog-hai (Trolls),METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Orc-guard,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Orc-lieutenant,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Orc-patrol,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Orc-warriors,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Orcrist,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Ori,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Orophin,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Palantír of Amon Sûl,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Palantír of Elostirion,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Palantír of Osgiliath,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Pallando,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Peath,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Pick-pocket,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Pippin,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Potion of Prowess,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Praise to Elbereth,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Precious Gold Ring,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Quickbeam,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Quiet Lands,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Radagast,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Rangers of Ithilien,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Rangers of the North,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Red Arrow,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Red Book of Westmarch,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Ren the Unclean,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Riders of Rohan,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Ringlore,METW,2,3,,METW,-1,Quantity differs; preserve each source quantity
+shared_identity,Risky Blow,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Roäc the Raven,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Robin Smallburrow,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Rogrog,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Sam Gamgee,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Saruman,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Scroll of Isildur,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Secret Entrance,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Secret Passage,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Shadowfax,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Shield of Iron-bound Ash,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Smaug,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Southrons,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Stealth,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Sting,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Sun,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Sword of Gondolin,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Tempering Friendship,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Test of Form,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Test of Lore,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,The Arkenstone,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,The Balance of Things,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,The Burden of Time,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,The Cock Crows,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,The Great Eagles,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,The Great Goblin,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,The Iron Crown,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,The Mithril-coat,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,The Old Thrush,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,The One Ring,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,The Ring’s Betrayal,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Théoden,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Thief,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Thorin II,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Thranduil,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Tom Bombadil,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Torque of Hues,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,True Fána,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Ûvatha the Horseman,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Vanishment,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Variags of Khand,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Vilya,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Vôteli,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Vygavril,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Wacho,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Witch-king of Angmar,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Wizard’s Fire,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Wizard’s Flame,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Wizard’s Ring,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Wizard’s River-horses,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Wizard’s Test,METW,3,3,,METW,0,Same quantity in both lists
+shared_identity,Wood-elves,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Woodmen,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Woses of Old Pûkel-land,METW,1,1,,METW,0,Same quantity in both lists
+shared_identity,Woses of the Drúadan Forest,METW,1,1,,METW,0,Same quantity in both lists
