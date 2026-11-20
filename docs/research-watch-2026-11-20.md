@@ -47,6 +47,8 @@ These rows must remain unassigned to a single expansion until the source printin
 
 The author's printed total is 606. The additional 88 MP-paired site cards bring the physical component count to 694.
 
+**Alignment cross-check:** the no-rares variant contains 365 Hero copies and 189 Neutral copies; the all-rarities variant contains 490 Hero copies and 204 Neutral copies. No Minion-alignment rows appear in either variant. The 69 unresolved expansion copies are all Neutral hazard cards. This confirms the Intro Game pools are Hero-alignment teaching variants, but it does not make them interchangeable with Gandalf Gene.
+
 ### What this changes — and what it does not
 
 - We can now give expansion totals for both Intro Game variants without treating the unresolved 69 as if they belonged to one expansion.
