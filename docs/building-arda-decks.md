@@ -110,7 +110,13 @@ Gandalf Gene's post describes three copies of most Minor Items and special draft
 
 ### Site cards
 
-Sites are not one of the four shared card piles above. Keep site cards in their own clearly marked deck or decks, according to the rules version and your group's arrangement. Site cards are also not counted as part of the 423-card Gandalf Gene Play Deck.
+Site cards are not one of the four shared piles, but **their physical storage depends on the Arda version**.
+
+- **Arda Basic Game (Rules 4.0):** keep a separate, clearly marked Site Deck. The rules recommend that each player bring a site deck; if the group uses one shared site deck, track visited, tapped and discarded sites separately.
+- **The 2024 Arda Intro Game:** each MP resource is paired with a site card. Keep each pair together in the MP zone; do not split the site cards into a generic grey Site Deck. The source's printed totals omit these paired sites, so count them as additional physical cards.
+- **Arda Revised:** a 2022 BGG discussion describes a similar MP/site pairing. The commenter reread the rule and concluded that the site is considered tapped for that company, but the site card itself is not physically tapped. Treat this as a variant-specific community interpretation, not a universal rule.
+
+For the Gandalf Gene / Basic Game setup recommended here, use the separate grey/clear Site Deck. If you deliberately build the Intro Game variant, preserve each MP/site pair and label that storage accordingly. The site cards are not part of the 423-card Gandalf Gene Play Deck.
 
 ## 3. Select cards systematically
 
