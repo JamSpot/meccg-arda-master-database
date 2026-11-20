@@ -33,7 +33,7 @@ Physical expansion totals, including the MP-paired sites and Haven Deck:
 | Unresolved cross-set printings | 0 | 69 |
 | **Total physical components** | **554** | **694** |
 
-The all-rarities list has 69 hazard copies whose names match both an original METW/METD printing and a MELE printing; the PDF does not specify which printing it uses. Four further copies are confirmed METW promos (Black Arrow, Fatty Bolger, Fury of the Iron Crown and The Iron Crown). Fourteen more copies have a base-versus-promo printing ambiguity within METW. The no-rares list has 13 such copies.
+The all-rarities list has 69 hazard copies whose source printing is ambiguous: 57 copies have METW / MELE as candidate expansions and 12 have METD / MELE. The PDF does not specify which printing it uses, so these 69 copies remain unassigned to a single expansion. The 625 copies assigned to an expansion include four confirmed METW promos (Black Arrow, Fatty Bolger, Fury of the Iron Crown and The Iron Crown) and 14 METW copies with base-versus-promo printing unspecified (Dark Quarrels, Escape, Test of Form, Pick-pocket, Quickbeam and Boromir II). The no-rares list has 13 METW copies with base-versus-promo printing unspecified.
 
 The author’s 505/606 totals count the MP resource cards but not the site cards paired with them. The additional 49/88 sites are physical cards and are included in the expansion totals above.
 
