@@ -80,7 +80,19 @@ I compared the all-rarities Intro Game inventory against the explicit-quantity r
 | Gene-only, absent from resolved Intro rows | 76 | 174 |
 | Intro Game hazard names with expansion unresolved | 23 | 69 |
 
-Fourteen of the 298 shared identities have different quantities between the two sources. The total difference across those 14 is 11 fewer copies in Intro Game than Gene. The comparison uses the 374 explicit-quantity Gene identities; Army of the Dead and The White Tree, whose Gene quantities are blank, are not included. The row-level comparison CSV records both quantities and each identity's status.
+Fourteen of the 298 shared identities have different quantities between the two sources. The total difference across those 14 is 11 fewer copies in Intro Game than Gene. The comparison uses the 374 explicit-quantity Gene identities; Army of the Dead and The White Tree, whose Gene quantities are blank, are not included.
+
+| Expansion | Shared identities / Intro copies | Intro-only identities / copies | Gene-only identities / copies |
+|---|---:|---:|---:|
+| METW | 243 / 415 | 67 / 99 | 55 / 131 |
+| METD | 48 / 80 | 7 / 9 | 11 / 23 |
+| MEDM | 5 / 13 | 2 / 2 | 9 / 19 |
+| MELE | 2 / 6 | — | — |
+| MEAS | — | 1 / 1 | — |
+| MEBA | — | — | 1 / 1 |
+| **Total resolved** | **298 / 514** | **77 / 111** | **76 / 174** |
+
+The 23 ambiguous hazard identities / 69 copies are excluded from this table. The row-level comparison CSV records both quantities, candidate expansions and each identity's status.
 
 All 23 expansion-ambiguous Intro Game hazard names also occur in Gene. Gene assigns each to METW or METD, which is one of the Intro Game candidate expansions. This makes the Gene list a useful clue, but not proof of the Intro Game's actual printing. The 69 copies remain unresolved rather than being assigned by assumption.
 
