@@ -94,6 +94,27 @@ Fourteen of the 298 shared identities have different quantities between the two 
 
 The 23 ambiguous hazard identities / 69 copies are excluded from this table. The row-level comparison CSV records both quantities, candidate expansions and each identity's status.
 
+The 14 shared identities with different quantities are:
+
+| Card | Expansion | Intro Game | Gandalf Gene | Difference |
+|---|---|---:|---:|---:|
+| Nenseldë the Wingild | METD | 1 | 2 | -1 |
+| Habergeon of Silver | METD | 2 | 1 | +1 |
+| Valiant Sword | METD | 2 | 1 | +1 |
+| Wizard’s Staff | METD | 1 | 3 | -2 |
+| Ringlore | METW | 2 | 3 | -1 |
+| Adamant Helmet | METD | 2 | 3 | -1 |
+| Arrows Shorn of Ebony | METD | 2 | 3 | -1 |
+| Necklace of Silver and Pearls | METD | 2 | 3 | -1 |
+| Scabbard of Chalcedony | METD | 2 | 3 | -1 |
+| Magic Ring of Courage | METW | 2 | 3 | -1 |
+| Magic Ring of Lore | METW | 2 | 3 | -1 |
+| Magic Ring of Nature | METW | 2 | 3 | -1 |
+| Magic Ring of Stealth | METW | 2 | 3 | -1 |
+| Magic Ring of Words | METW | 2 | 3 | -1 |
+
+The Intro Game quantities are its own source values; none are substitutions for Gene's numbers.
+
 All 23 expansion-ambiguous Intro Game hazard names also occur in Gene. Gene assigns each to METW or METD, which is one of the Intro Game candidate expansions. This makes the Gene list a useful clue, but not proof of the Intro Game's actual printing. The 69 copies remain unresolved rather than being assigned by assumption.
 
 [Download the 474-row comparison CSV](../data/arda-intro-game-vs-gandalf-gene-comparison.csv) · [Open the comparison-lists page](comparison-lists.html).
