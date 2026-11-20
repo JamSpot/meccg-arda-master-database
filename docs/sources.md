@@ -204,7 +204,16 @@ Spot-checks against the Council of Elrond card database map entries such as Lind
 
 The PDF includes **Dreams of Lore**, which is the original ICE Hero card TW-210 from The Wizards, not a Dream Card. No custom Dream Cards are included in the project inventory.
 
-The author’s section totals are recorded as published, but independent row-by-row reconciliation and expansion-by-expansion quantity totals remain outstanding. Do not merge these sample quantities into Gandalf Gene or Jose-san.
+The normalized [card-by-card inventory CSV](../data/arda-intro-game-card-inventory.csv) and [expansion/section summary CSV](../data/arda-intro-game-expansion-summary.csv) now provide row-level quantities and expansion assignments. Reconciliation gives:
+
+| Variant | METW | METD | MEDM | MELE | MEAS | Unresolved | Physical total |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| METW + METD — no rares | 461 | 93 | — | — | — | 0 | **554** |
+| All rarities and sets | 514 | 89 | 15 | 6 | 1 | 69 | **694** |
+
+The 69 unresolved copies are 23 hazard rows whose card names occur in more than one candidate expansion: 57 copies could be METW or MELE, and 12 could be METD or MELE. In the all-rarities variant, the 625 expansion-assigned copies include four confirmed official promo copies and 14 METW copies whose base-versus-promo printing is unspecified. In the no-rares variant, 13 METW copies have the same base/promo printing ambiguity.
+
+The PDF's own totals (505 and 606) omit the MP-paired site cards; the physical totals above include 49 and 88 additional site cards respectively. These are two distinct Intro Game teaching variants, not the canonical Gandalf Gene pool. Do not merge their quantities into Gandalf Gene or Jose-san.
 
 
 ### Promo and checklist references — checked 3 November 2026
@@ -360,3 +369,8 @@ This is a useful separate Hero Arda comparison list, not a replacement for Ganda
 https://boardgamegeek.com/thread/1426276/arda
 
 Added 19 November 2026 for follow-up review. This is a BoardGameGeek discussion specifically titled **Arda** and is retained as a community research lead. The page could be opened, but its thread posts were not exposed in the available page text during this review, so its rules claims, deck-construction advice, attachments and date have **not** yet been independently inspected. Do not treat it as a verified card list or rules authority until the original posts and any attachments have been read. Revisit it for practical pile-building, card-selection, sleeve/sorting and variant details that may improve the new [Building and Sorting Arda Decks](building-arda-decks.html) guide.
+
+
+### Latest source-watch result — 20 November 2026
+
+[Source watch — 20 November 2026](research-watch-2026-11-20.html) records the completed expansion reconciliation for both 2024 Arda Intro Game variants, a practical site-pairing note from the Arda Revised discussion, and the continued access limitation on the user-supplied BGG Arda thread. No canonical Gandalf Gene quantities changed.
