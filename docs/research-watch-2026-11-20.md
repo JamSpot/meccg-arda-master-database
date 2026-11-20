@@ -69,11 +69,28 @@ The 2024 Arda Intro Game is different: it pairs each MP resource with a site car
 
 A related practical discussion appears in the BGG [Arda Revised file page](https://boardgamegeek.com/filepage/98645/arda-revised). In August 2022, a player asked how to handle a site card sleeved with an MP card. In a follow-up, the player reread the rule and concluded that the site is considered tapped for that company, but the site card itself is not physically tapped. This is a community interpretation attached to Arda Revised, not a universal Basic Game rule. It supports keeping the site-pair method explicitly tied to the ruleset being used.
 
-## 3. User-supplied BGG thread remains inaccessible
+## 3. Cross-check against Gandalf Gene
+
+I compared the all-rarities Intro Game inventory against the explicit-quantity rows in Gandalf Gene using normalized card name plus expansion. This is a screening comparison; it preserves unresolved printings and does not merge quantities.
+
+| Comparison result | Identities | Copies |
+|---|---:|---:|
+| Shared name + expansion | 298 | 514 Intro Game / 525 Gene |
+| Intro Game-only, expansion resolved | 77 | 111 |
+| Gene-only, absent from resolved Intro rows | 76 | 174 |
+| Intro Game hazard names with expansion unresolved | 23 | 69 |
+
+Fourteen of the 298 shared identities have different quantities between the two sources. The total difference across those 14 is 11 fewer copies in Intro Game than Gene. The row-level comparison CSV records both quantities and each identity's status.
+
+All 23 expansion-ambiguous Intro Game hazard names also occur in Gene. Gene assigns each to METW or METD, which is one of the Intro Game candidate expansions. This makes the Gene list a useful clue, but not proof of the Intro Game's actual printing. The 69 copies remain unresolved rather than being assigned by assumption.
+
+[Download the 474-row comparison CSV](../data/arda-intro-game-vs-gandalf-gene-comparison.csv) · [Open the comparison-lists page](comparison-lists.html#4-november-2026--arda-intro-game-row-level-normalization).
+
+## 4. User-supplied BGG thread remains inaccessible
 
 The [BGG discussion titled “Arda”](https://boardgamegeek.com/thread/1426276/arda) supplied by the user remains a useful research lead, but direct retrieval returns HTTP 403. The current [BGG XML API documentation](https://boardgamegeek.com/using_the_xml_api) describes an endpoint for retrieving an individual thread, but BGG's current API policy requires an approved application and bearer-token authorization. No authenticated BGG token is available in this research environment, so the thread's posts and attachments cannot yet be inspected. No claims or quantities are attributed to it.
 
-## 4. Downloadable source checks
+## 5. Downloadable source checks
 
 The current [MeCCG Lists and Downloads page](https://meccg.com/cards/lists-and-downloads/) still exposes these useful downloads:
 
@@ -84,7 +101,7 @@ The current [MeCCG Lists and Downloads page](https://meccg.com/cards/lists-and-d
 
 No newly verified Arda-specific XLS/XLSX or standalone deck file was found today.
 
-## 5. Canonical Gene baseline unchanged
+## 6. Canonical Gene baseline unchanged
 
 The original Gandalf Gene workbook remains the primary fixed Hero Arda quantity source:
 
