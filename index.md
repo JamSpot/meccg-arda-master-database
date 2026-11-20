@@ -41,9 +41,15 @@ The [First Solo Arda Game walkthrough](docs/arda-solo-first-game.html) now inclu
 
 In the Arda Basic Game, all players draw from the same shared decks. It is designed for 2–7 players, encourages improvisation and trading, and uses a different preparation and play structure from conventional constructed Hero-vs-Hazard MECCG. The standard shared piles are the Play Deck, MP Deck, Roving Character Deck and Minor Item Offering Deck.
 
-## Latest research update — 19 November 2026
+## Latest research update — 20 November 2026
 
-A quality check has refined yesterday's **Wizards and Dragons** finding. The file is countable (834 main-deck copies: The Wizards 577, The Dragons 206, Against the Shadow 51), but MECCG Online's own README says its supplied decks are test-play samples and the data is not suitable for deckbuilding. The Arda folder contains only this one file, so it should be treated as a digital test fixture, not an independently validated Arda pool. It includes one The White Tree (TW) in its Resource section, but no Army of the Dead; neither quantity can be transferred into the separate Gandalf Gene list.
+Completed the expansion reconciliation for both 2024 **Arda Intro Game** pools. The no-rares version contains 461 The Wizards + 93 The Dragons = 554 physical cards, including paired sites. The all-rarities version has 625 copies assigned to expansions (METW 514, METD 89, MEDM 15, MELE 6, MEAS 1) plus 69 cross-set-ambiguous hazard copies, for 694 physical cards. These are separate teaching variants, not replacements for Gandalf Gene. The research also clarifies that Basic Game site decks and Intro Game MP/site pairs must be stored differently.
+
+[Read the 20 November research watch](docs/research-watch-2026-11-20.html) · [Open the deck-construction guide](docs/building-arda-decks.html) · [Download row-level Intro Game inventory](data/arda-intro-game-card-inventory.csv) · [Download expansion summary](data/arda-intro-game-expansion-summary.csv).
+
+## Previous research update — 19 November 2026
+
+A quality check refined the **Wizards and Dragons** finding. The file is countable (834 main-deck copies: The Wizards 577, The Dragons 206, Against the Shadow 51), but MECCG Online's own README says its supplied decks are test-play samples and the data is not suitable for deckbuilding. The Arda folder contains only this one file, so it should be treated as a digital test fixture, not an independently validated Arda pool. It includes one The White Tree (TW) in its Resource section, but no Army of the Dead; neither quantity can be transferred into the separate Gandalf Gene list.
 
 [Read the 19 November research watch](docs/research-watch-2026-11-19.html) · [Read the detailed source review](docs/wizards-and-dragons-arda-source-review-2026-11-18.html) · [Download normalized card list](data/wizards-and-dragons-arda-pool-2024.csv) · [Download expansion summary](data/wizards-and-dragons-arda-expansion-summary.csv) · [Download original .meccg file](https://raw.githubusercontent.com/Heinrich-Barth/meccg-online/main/public/decks/Arda/Wizards%20and%20Dragons.meccg).
 
