@@ -80,11 +80,11 @@ I compared the all-rarities Intro Game inventory against the explicit-quantity r
 | Gene-only, absent from resolved Intro rows | 76 | 174 |
 | Intro Game hazard names with expansion unresolved | 23 | 69 |
 
-Fourteen of the 298 shared identities have different quantities between the two sources. The total difference across those 14 is 11 fewer copies in Intro Game than Gene. The row-level comparison CSV records both quantities and each identity's status.
+Fourteen of the 298 shared identities have different quantities between the two sources. The total difference across those 14 is 11 fewer copies in Intro Game than Gene. The comparison uses the 374 explicit-quantity Gene identities; Army of the Dead and The White Tree, whose Gene quantities are blank, are not included. The row-level comparison CSV records both quantities and each identity's status.
 
 All 23 expansion-ambiguous Intro Game hazard names also occur in Gene. Gene assigns each to METW or METD, which is one of the Intro Game candidate expansions. This makes the Gene list a useful clue, but not proof of the Intro Game's actual printing. The 69 copies remain unresolved rather than being assigned by assumption.
 
-[Download the 474-row comparison CSV](../data/arda-intro-game-vs-gandalf-gene-comparison.csv) · [Open the comparison-lists page](comparison-lists.html#4-november-2026--arda-intro-game-row-level-normalization).
+[Download the 474-row comparison CSV](../data/arda-intro-game-vs-gandalf-gene-comparison.csv) · [Open the comparison-lists page](comparison-lists.html).
 
 ## 4. User-supplied BGG thread remains inaccessible
 
