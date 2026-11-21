@@ -36,7 +36,7 @@ The original Gandalf Gene workbook and a separate Jose-san Arda workbook are par
 
 - Parsed the full local MECCG Card List v1.13 workbook (1,674 official card-ID rows across seven ICE expansions; 48 N/A-ID sourcebook entries excluded) and matched all 377 Gandalf Gene rows and all 370 Jose-san rows; corrected six Gene metadata exceptions, added `data/catalogue-v1-13-audit.csv`, and marked every inventory row's catalogue match status without changing quantities.
 
-## Latest source-watch result — 4 November 2026
+## Previous source-watch result — 4 November 2026
 
 - Normalized Jared Brayshaw's 2024 Arda Intro Game PDF against the current Council of Elrond cards.json (latest repository commit message: CRF 22 applied). Created a 727-row inventory covering both variants, MP resources, MP-paired sites, characters, minor items, rings, avatars and Haven sites.
 - Reproduced the author's 505/606 listed totals, then counted the additional 49/88 MP-paired site cards. The resulting physical totals are 554 and 694.
@@ -103,6 +103,16 @@ The original Gandalf Gene workbook and a separate Jose-san Arda workbook are par
 - The XLS is a candidate cross-check for card identity, expansion and rarity; its version/date and actual coverage have not yet been verified. The spoiler PDF states it was updated in February 2007.
 - These are reference/catalogue resources, not Arda quantity lists. No newly found downloadable Arda spreadsheet or alternate canonical pool changes the inventory baseline.
 - The 699 explicit-copy total versus the published 695 summary remains unresolved.
+
+## Latest source-watch result — 21 November 2026
+
+- Reviewed the Council of Elrond's 2024 **ARDA VARIANTS** comparison. It distinguishes Basic Game v5, Gandalf Gene's build, the Wizards of ME community variant and a Winter/Lure 2024 practice. Their pile counts, character drafts, Wizard selection, Minor Item procedures, player limits and Council thresholds differ; the comparison is rules context, not a new card-quantity list.
+- Reviewed the July 2025 **How manage special minor items?** discussion. Goblin King's practice uses four face-up offerings, site-appropriate claiming and left-most replacement each turn. The source explicitly says Arda is not an official ICE format; this is not a universal rule.
+- Rechecked BanalityBob's 2020 Google Sheet. The accessible view exposes only seven populated rows and cannot support a complete pool extraction. Its post describes a personal variant with separate themed Resource and Hazard decks, non-standard characters and Minor Items, different Ring handling and no Under-deeps.
+- Rechecked the Council of Elrond Arda forum index. Recent 2025–26 Dream Card variants are excluded from the original-ICE-only database; Minion Arda remains out of scope.
+- Rechecked the BGG files archive: 69 files are listed, including the Jose-san Arda deck example XLS, Arda Revised PDF, Compiled Arda Ruleset — Hero PDF and Spanish Arda summary. No new complete ICE Hero Arda quantity file was verified.
+- No quantities changed. Gandalf Gene remains 699 explicit copies (METW 552, METD 108, MEDM 32, MELE 6, MEBA 1) against CCG Collector's 695-copy report; Army of the Dead and The White Tree remain blank. Jose-san remains 623 Hero/Neutral/Avatar copies. The 2024 Intro Game remains 554 no-rares physical cards and 694 all-rarities physical cards, including paired sites and 69 unresolved cross-set hazard copies.
+- Next blockers remain Thorondor's 83.5 KiB no-rares XLS binary, a binary match for the Jose-san BGG XLS, a complete BanalityBob export, the Gene four-copy discrepancy and the 69 ambiguous Intro Game hazard printings. No decision is required from the user today.
 
 ## Next concrete work
 1. Retrieve and parse Thorondor's 83.5 KiB Arda Sample Deck_no rares.xls as an independent low-rarity pool comparison.
