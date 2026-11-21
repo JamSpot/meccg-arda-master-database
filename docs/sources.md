@@ -153,9 +153,9 @@ Targeted checks of the [Council of Elrond cards.json](https://raw.githubusercont
 
 ### Latest source-watch note
 
-[Source watch — 2 November 2026](research-watch-2026-11-02.html) adds the current Council of Elrond Rules Committee card database, direct MeCCG catalogue downloads, seven independent expansion card-list PDFs and the CollecCards searchable catalogue. It confirms no change to the canonical Gandalf Gene quantities.
+[Source watch — 21 November 2026](research-watch-2026-11-21.html) records the ARDA VARIANTS comparison, the 2025 Minor Item offering discussion, a recheck of BanalityBob's incomplete Google Sheet and the current Arda forum sweep. These add variant and deck-handling context but no new eligible card-quantity list. The canonical Gandalf Gene quantities and all separate pool totals remain unchanged.
 
-Previous watches: [31 October 2026](research-watch-2026-10-31.html), [29 October 2026](research-watch-2026-10-29.html), [28 October 2026](research-watch-2026-10-28.html), [27 October 2026](research-watch-2026-10-27.html), [26 October 2026](research-watch-2026-10-26.html), [25 October 2026](research-watch-2026-10-25.html) and [24 October 2026](research-watch-2026-10-24.html)
+Previous watches: [20 November 2026](research-watch-2026-11-20.html), [2 November 2026](research-watch-2026-11-02.html), [31 October 2026](research-watch-2026-10-31.html), [29 October 2026](research-watch-2026-10-29.html), [28 October 2026](research-watch-2026-10-28.html), [27 October 2026](research-watch-2026-10-27.html), [26 October 2026](research-watch-2026-10-26.html), [25 October 2026](research-watch-2026-10-25.html) and [24 October 2026](research-watch-2026-10-24.html)
 
 
 
