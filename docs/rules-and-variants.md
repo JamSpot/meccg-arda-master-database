@@ -40,6 +40,23 @@ Arda Revised is a rules/deck-construction variant rather than a fixed Gandalf Ge
 
 [Find Arda Revised on BoardGameGeek](https://boardgamegeek.com/filepage/98645/arda-revised)
 
+## Community variant comparison — do not mix these setups
+
+The Council of Elrond's [ARDA VARIANTS discussion](https://councilofelrond.org/forum/viewtopic.php?f=37&t=4992) compares several community practices. It is a useful comparison, not an official rules document.
+
+| Variant described | Shared piles | Opening / character practice | Minor Item selection | Players / Council |
+|---|---|---|---|---|
+| Basic Game, version 5 | Play, MP, Minor Offering, Roving Character | Select Wizard; two characters of 6 mind or more plus ten other characters in the draft pool | Choose one at a time | Up to 7; 20 MP |
+| Gandalf Gene build | Same four piles | Select Wizard; two characters of 7 mind or more plus Gimli; special Strider/Aragorn and Fram Framson rules | Choose two at a time; selected unique items have priority rules | Up to 5; 25 MP |
+| Wizards of ME community variant | Same four piles | Gene-like major-character draft; Strider/Aragorn are removed from the opening draft and recruited later | Choose one at a time | Up to 5; 20 MP |
+| Winter/Lure 2024 practice | Five piles, adding a Tested Ring Deck | Random Wizard; no Roving Characters available on turn one | Deal four at random; keep up to two | Up to 4; reported Council thresholds 18, 20 or 25 MP |
+
+The comparison also records special handling for certain character-specific cards and treasure. Its author says the Winter/Lure details may need correction. Treat each column as its own variant; in particular, do not substitute the Gene build's 25 MP target for the Basic Game's 20 MP threshold.
+
+The same thread includes CCG Collector's 2024 Intro Game description. That teaching variant pairs MP resources with sites, uses a separate Tested Ring Deck and changes how paired sites are handled. Its two card pools are separately inventoried in the [2024 Intro Game source watch](research-watch-2026-11-21.html); neither replaces Gandalf Gene.
+
+A separate [July 2025 Minor Item discussion](https://councilofelrond.org/forum/viewtopic.php?f=37&t=5230) documents one community practice of revealing four Minor Items, allowing a player to claim one by visiting an appropriate site, and replacing the left-most offering each turn. The post explicitly says Arda is not an official ICE format. Treat this as a local practice, not a universal Basic Game rule.
+
 ## Arda-specific solitaire variants
 
 Several solo adaptations have been identified. They are separate methods, not one combined ruleset:
