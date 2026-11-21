@@ -108,6 +108,8 @@ Gandalf Gene's post describes three copies of most Minor Items and special draft
 
 **Selection test:** use the selected list's Minor Item allocation and special restrictions. Do not move a card into this pile solely because its title or artwork looks like a minor item; verify its printed type and the source list.
 
+**Offering procedure is variant-dependent.** A July 2025 Council of Elrond discussion records Goblin King's practice of keeping four Minor Items face up, allowing a player to claim one only by visiting a site where it is playable, then discarding the left-most offering and revealing a replacement each turn. The same discussion notes that other groups use house rules and that Arda is not an official ICE format. Do not treat this as a universal rule or use it to change the Minor Item quantities in a published list. [Read the discussion](https://councilofelrond.org/forum/viewtopic.php?f=37&t=5230).
+
 ### Site cards
 
 Site cards are not one of the four shared piles, but **their physical storage depends on the Arda version**.
