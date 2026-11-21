@@ -16,6 +16,22 @@ https://www.councilofelrond.org/forum/viewtopic.php?t=3944
 
 Historical context and later variants.
 
+### Council of Elrond — ARDA VARIANTS (2024 community comparison)
+https://councilofelrond.org/forum/viewtopic.php?f=37&t=4992
+
+Goblin King's 1 March 2024 comparison records differences among Arda Basic Game version 5, Gandalf Gene's build, the author's Wizards of ME variant and a Winter/Lure 2024 practice. The variants differ in shared pile count, character drafting, Wizard selection, Minor Item selection, player limits and Council thresholds. The post is a community comparison, not an official rules source; the author says the Winter/Lure details may need correction. It does not supply a new card-quantity list.
+
+### Council of Elrond — How manage special minor items? (July 2025)
+https://councilofelrond.org/forum/viewtopic.php?f=37&t=5230
+
+A July 2025 discussion documents Goblin King's practice of displaying four Minor Items, allowing players to claim one by visiting an appropriate site, and replacing the left-most item each turn. The thread explicitly notes that Arda is not an official ICE format and this is one community practice, not a universal rule or card-quantity source.
+
+### Council of Elrond — BanalityBob's Arda (2020)
+https://councilofelrond.org/forum/viewtopic.php?f=37&t=4324
+
+The post links to a [Google Sheets list](https://docs.google.com/spreadsheets/d/1a_32IVLD7SkX6A8fqVsAz95i67HtcxAb4VZYuvxg8ns/edit?usp=sharing) and a separate rules document. The accessible sheet currently exposes only seven populated rows (five Wizards, Fram Frampson and Saw Further and Deeper), so it is not a complete pool in the current browser view. The author describes a personal variant with separate Resource and Hazard decks, themed hazards, non-standard character and Minor Item choices, different Ring handling and no Under-deeps. Keep it as a variant lead, not a canonical quantity source.
+
+
 ### CardGameGeek — Gandalf Gene transcription
 https://cardgamegeek.com/database/decks/27774d75-5a7d-4509-ba89-8cb556f3bfc5
 
@@ -52,10 +68,10 @@ https://github.com/council-of-elrond-meccg/meccg-cards-database
 
 Useful for card identity, corrected text, errata and current database information. Latest repository commit verified 19 May 2026 (message: “CRF 22 applied”). The repository includes a 4,163,611-byte cards.json and a 22,147-byte changes-guide.xlsx. Its README says approximately 300 card texts have been updated, including CRF errata, Rules Book clarifications, Challenge Deck text and unified multi-version text. Treat it as a current rules-text reference, not a literal original-print transcription or an Arda quantity source. The README asks community projects using the data to acknowledge and notify the Council of Elrond. The current tree includes [cards.json](https://github.com/council-of-elrond-meccg/meccg-cards-database/blob/master/cards.json) ([raw download](https://raw.githubusercontent.com/council-of-elrond-meccg/meccg-cards-database/master/cards.json), 4,163,611 bytes) and [changes-guide.xlsx](https://github.com/council-of-elrond-meccg/meccg-cards-database/blob/master/changes-guide.xlsx) ([raw download](https://raw.githubusercontent.com/council-of-elrond-meccg/meccg-cards-database/master/changes-guide.xlsx), 22,147 bytes). These are metadata/text verification resources, not Arda quantity sources. The project asks third-party community projects using its database to acknowledge it and notify the Council of Elrond.
 
-### BoardGameGeek MECCG files
+### BoardGameGeek MECCG files — archive rechecked 21 November 2026
 https://boardgamegeek.com/boardgame/1915/middle-earth/files
 
-Important archive for downloadable MECCG files. The current archive lists MECCG Card List v1.13 as an XLS (card information, rarity and distribution; dated 6 March 2010), Starter Set Decks Lists as an XLS, and an **Arda deck example as an XLS spreadsheet** (Jose-san, listed as approximately 13 years old). The same archive separately lists Arda rules and solo/player-aid PDFs. This corrects the earlier PDF label. A local ARDA.xls workbook in the project Library has been parsed: it contains 370 unique card names with 691 ARDA copies, and its Excel metadata says last saved by Jose San Miguel. All 370 rows match the full v1.13 catalogue by name, expansion, type and alignment, making it a high-confidence candidate for the BGG Jose-san entry; a binary hash match to the BGG attachment is still outstanding. Its 322 Hero/Neutral/Avatar rows total 623 copies; Minion-alignment rows are excluded from this project's Hero comparison.
+Important archive for downloadable MECCG files. The current search listing shows 69 files. The Arda deck example is an XLS, not a PDF. No new complete original-ICE Hero Arda quantity file was found in this pass. The archive lists MECCG Card List v1.13 as an XLS (card information, rarity and distribution; dated 6 March 2010), Starter Set Decks Lists as an XLS, and an **Arda deck example as an XLS spreadsheet** (Jose-san, listed as approximately 13 years old). The same archive separately lists Arda rules and solo/player-aid PDFs. This corrects the earlier PDF label. A local ARDA.xls workbook in the project Library has been parsed: it contains 370 unique card names with 691 ARDA copies, and its Excel metadata says last saved by Jose San Miguel. All 370 rows match the full v1.13 catalogue by name, expansion, type and alignment, making it a high-confidence candidate for the BGG Jose-san entry; a binary hash match to the BGG attachment is still outstanding. Its 322 Hero/Neutral/Avatar rows total 623 copies; Minion-alignment rows are excluded from this project's Hero comparison.
 
 
 ### MECCG Card List v1.13 — full catalogue copy
