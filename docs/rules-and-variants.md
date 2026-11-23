@@ -26,6 +26,14 @@ The setup sequence and starting location also differ:
 
 The Gene post also specifies a One Ring win condition requiring Gollum and *Gollum's Fate*, no Underdeep sites, and a curated hazard mix that includes all Dragons and Dragons at Home but no Dragons Ahunt. Treat the 2016 post's pile contents and setup as one coherent community variant. Do not combine individual steps with the Basic Game sequence without an explicit table decision.
 
+## 2019 community retrospective — keep card-text versions separate
+
+The Council of Elrond's [Arda Ten Years Later](https://www.councilofelrond.org/forum/viewtopic.php?t=3944) discussion explains an important historical distinction. CCG Collector describes earlier Arda material that used Elf-Lords, Arda-specific altered text associated with Virtual Card Set 1 and scenario cubes. Goblin King says the Gandalf Gene build instead uses no non-errata card text, while other Hero variants may add later-expansion cards and roadblock hazards.
+
+For card-pool research, a card name alone is not enough to identify which version a list intended. Keep the original ICE printing, current official errata text and any optional Arda/Virtual/custom text as separate provenance layers. Only original ICE physical printings count toward this project's master card quantities; do not silently substitute Virtual or custom text.
+
+The [April 2019 four-player ARDA Play through](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=3813) is useful as a practical example of drafting and play, but it is not a decklist and supplies no pool quantities.
+
 ## Compiled Arda Ruleset — Hero
 
 The March 2024 Compiled Arda Ruleset – Hero is a rules reference based partly on the Middle-earth Arda Game, Arda Revised and Gandalf Gene's Arda Deck.
