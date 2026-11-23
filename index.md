@@ -41,11 +41,11 @@ The [First Solo Arda Game walkthrough](docs/arda-solo-first-game.html) now inclu
 
 In the Arda Basic Game, all players draw from the same shared decks. It is designed for 2–7 players, encourages improvisation and trading, and uses a different preparation and play structure from conventional constructed Hero-vs-Hazard MECCG. The standard shared piles are the Play Deck, MP Deck, Roving Character Deck and Minor Item Offering Deck.
 
-## Latest research update — 21 November 2026
+## Latest research update — 23 November 2026
 
-A review of the Council of Elrond's **ARDA VARIANTS** thread now documents how Basic Game v5, Gandalf Gene, the Wizards of ME community variant and a Winter/Lure 2024 practice differ. A separate 2025 discussion records one way of handling the four-face-up Minor Item offering. These are rules and table-practice sources, not new card-quantity lists. BanalityBob's linked sheet still exposes only seven populated rows, and recent Dream Card Arda variants remain outside the original-ICE-only scope. No card quantities changed: Gandalf Gene remains 699 explicit copies, with the four-copy discrepancy against CCG Collector's 695 and the two blank quantities unresolved.
+A full review of the 2019 **Arda Ten Years Later** discussion clarifies an important database distinction: the earlier Arda format included Arda-specific altered text and optional Expanded World material, while Goblin King says Gandalf Gene's build uses no non-errata card text. A separate 2019 four-player playthrough gives useful drafting examples but no complete card list. The current Gen Con 2026 event confirms ongoing shared-deck play, but supplies no pool quantities. No new eligible original-ICE Hero Arda spreadsheet or deck file was found. Gandalf Gene remains 699 explicit copies; the 695 comparison, two blank quantities and other reconciliation issues remain unresolved.
 
-[Read the 21 November research watch](docs/research-watch-2026-11-21.html) · [Compare Arda rules variants](docs/rules-and-variants.html) · [Review sources and downloads](docs/sources.html) · [Build and organise physical Arda decks](docs/building-arda-decks.html).
+[Read the 23 November research watch](docs/research-watch-2026-11-23.html) · [Compare Arda rules variants](docs/rules-and-variants.html) · [Review sources and downloads](docs/sources.html) · [Build and organise physical Arda decks](docs/building-arda-decks.html).
 
 ## Previous research update — 19 November 2026
 
