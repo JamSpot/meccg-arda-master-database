@@ -11,10 +11,15 @@ https://councilofelrond.org/forum/viewtopic.php?f=37&hilit=gandalf+gene&p=23844&
 
 Original 2016 post and GandalfGeneArda.xls attachment (Council attachment ID 945; listed as 79 KiB). The Library copy is 80,896 bytes, exactly 79 KiB, matching the published attachment size; a binary hash check is still outstanding. This remains the primary quantity source for the canonical deck.
 
-### Council of Elrond — Arda Ten Years Later
+### Council of Elrond — Arda Ten Years Later (2019 discussion reviewed 23 November 2026)
 https://www.councilofelrond.org/forum/viewtopic.php?t=3944
 
-Historical context and later variants.
+This discussion distinguishes the earlier Arda format from later community builds. CCG Collector notes that earlier Arda material included Elf-Lords, Arda-specific altered card text associated with Virtual Card Set 1, and scenario-specific cubes such as Dragon Hunt and Northern Wastes. Goblin King describes Gandalf Gene's build as using no non-errata card text and as having more focused resource and hazard strategies; he also mentions other Hero variants that add later-expansion cards and roadblock hazards. This is important card-text and variant provenance, not a quantity list. Keep original ICE printings, current official errata, and optional Arda/Virtual/custom text as separate data layers. The latter optional material is excluded from the physical ICE-only master inventory.
+
+### Council of Elrond — ARDA Play through (April 2019; reviewed 23 November 2026)
+https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=3813
+
+A 13-post report of a four-player Arda game. It illustrates Wizard selection after considering the two major characters, opening resources and treasure options, and shows examples of cards appearing in play (including An Unexpected Party, The Dwarves Are Upon You, Ringlore and Palantír of Orthanc). The author describes using small, sturdy two-character parties to reduce hazard exposure. This is a qualitative session report only: it contains no complete pool, expansion totals or copy quantities. Do not turn the cards mentioned in the story into inventory rows or copy counts.
 
 ### Council of Elrond — ARDA VARIANTS (2024 community comparison)
 https://councilofelrond.org/forum/viewtopic.php?f=37&t=4992
@@ -390,3 +395,8 @@ Added 19 November 2026 for follow-up review. This is a BoardGameGeek discussion 
 ### Latest source-watch result — 20 November 2026
 
 [Source watch — 20 November 2026](research-watch-2026-11-20.html) records the completed expansion reconciliation for both 2024 Arda Intro Game variants, a practical site-pairing note from the Arda Revised discussion, and the continued access limitation on the user-supplied BGG Arda thread. No canonical Gandalf Gene quantities changed.
+
+
+### Latest source-watch result — 23 November 2026
+
+[Source watch — 23 November 2026](research-watch-2026-11-23.html) records a full review of the 2019 *Arda Ten Years Later* discussion and a four-player *ARDA Play through* report. These clarify the distinction between original ICE printed text, official errata and optional Arda/Virtual text, but provide no complete card list or quantities. A Gen Con 2026 shared-deck Arda event listing confirms current play but provides no inventory. No new eligible spreadsheet or deck file was verified and no canonical quantities changed.
