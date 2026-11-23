@@ -207,3 +207,15 @@ See [18 November source review](wizards-and-dragons-arda-source-review.html) and
 - Corrected the source-quality description: MECCG Online's README says its included decks are for test play and that the data files are not suitable for deckbuilding. Classify this as a **digital test fixture**, not an author-validated independent Hero Arda pool.
 - Identified one The White Tree (TW) in the sample's main Resource section; Army of the Dead is absent. This is not evidence to fill either blank in Gandalf Gene's separate workbook.
 - No new eligible independent ICE-only Hero Arda card pool, spreadsheet or deck file was verified. No canonical quantities were changed.
+
+
+## Latest source-watch result — 23 November 2026
+
+- Reviewed the full 2019 [Arda Ten Years Later](https://www.councilofelrond.org/forum/viewtopic.php?t=3944) discussion. It distinguishes early Arda's Elf-Lords, Arda-specific altered text associated with Virtual Card Set 1 and scenario cubes from the Gandalf Gene approach, which Goblin King describes as using no non-errata card text. Other Hero variants may add later expansions and roadblock hazards.
+- Added a provenance rule to keep original ICE printing identity, current official errata and optional Arda/Virtual/custom text separate. This is important for data quality but does not change card eligibility or quantities.
+- Reviewed the [April 2019 four-player ARDA Play through](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=3813). It illustrates drafting and card use but is not a complete list or quantity source.
+- Rechecked current community activity, including the [Gen Con 2026 Arda event](https://www.gencon.com/events/303679). It confirms a shared-deck event for 4–18 players on 1 August 2026 and says almost all cards would be official versions rather than Virtuals; no decklist or pool counts are supplied.
+- No new eligible original-ICE Hero Arda spreadsheet, complete deck file or card pool was verified. Thorondor's XLS, Jose-san's BGG binary match and a complete BanalityBob export remain outstanding.
+- Gandalf Gene remains 699 explicit copies (METW 552, METD 108, MEDM 32, MELE 6, MEBA 1). The 695-copy comparison, two blank quantities and all other reconciliation issues remain unchanged.
+
+See the [23 November research watch](research-watch-2026-11-23.html).
