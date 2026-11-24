@@ -295,3 +295,30 @@ For a first solo game, do not simply use this multiplayer setup unchanged. Choos
 - [Card Inventory](card-inventory.html)
 - [Source Reconciliation](source-reconciliation.html)
 - [Sources & Downloads](sources.html)
+
+
+## 8. Large-pile handling, copy counts and printable table aids
+
+### Keep a large Play Deck physically manageable
+
+A 2020 Arda discussion describes randomly splitting a large draw pile into **four or five stacks** and placing them around the table. Players may draw from any stack because the stacks are still parts of the **same shared Play Deck**. This is a practical way to prevent a very tall pile from falling over and to make the cards reachable. It does not create separate decks, change the draw rules or justify giving each stack a different sleeve colour.
+
+See [Stacking the Cards of Larger Decks](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=4226).
+
+### Copy-count guidance versus community experimentation
+
+Arda Rules 4.0 suggests roughly two or three copies of a non-unique card and one copy of a unique card when selecting Play Deck cards. The same section says the number of cards is flexible and depends on the collection and expected player count. Treat the copy guidance as the Basic Game's recommended construction approach.
+
+A 2020 community discussion considers adding extra duplicates to a shared deck so players see useful cards more often or can influence away characters/resources. Other players warn that increasing copies makes the deck larger and dilutes variety. Keep any such change labelled as a house variant.
+
+ChanSterling's 2018 Hero Resource component contains **five Gates of Morning**, compared with three in Gandalf Gene. That is a concrete example of a community build making a different quantity choice; do not transfer it into the Gene baseline automatically.
+
+Sources: [Arda Rules 4.0](https://lureofmiddleearth.com/wp-content/uploads/2016/03/arda_4.0_en.pdf) · [Unique Cards in an Arda Deck?](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=4276) · [Chan's 2018 list](https://docs.google.com/spreadsheets/d/1gMxILv8-HiQDyvG2eplMkiHSsCZwXt2yYZFN5Ssv3g4/edit).
+
+### Printable table-layout aids
+
+The Council of Elrond's [Arda Goodies thread](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=1702) provides:
+- [Roving Character placemat](https://www.councilofelrond.org/forum/download/file.php?id=389).
+- [All Piles Arda placemat](https://www.councilofelrond.org/forum/download/file.php?id=388).
+
+These help lay out the shared piles and roving-character area. They are not decklists or substitutes for the card inventory.
