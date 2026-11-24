@@ -1,0 +1,80 @@
+card_name,chan_quantity,expansion_code,alignment,card_type,gandalf_gene_quantity,chan_minus_gene,comparison_status
+A Chance Meeting,3,METW,Hero,Resource,3,0,same
+A Friend or Three,3,METW,Hero,Resource,3,0,same
+A Short Rest,3,METD,Hero,Resource,,,not in Gene
+And Forth He Hastened,3,METD,Hero,Resource,,,not in Gene
+Belegaer,1,METD,Hero,Resource,,,not in Gene
+Block,3,METW,Hero,Resource,3,0,same
+Bridge,1,METW,Hero,Resource,3,-2,lower
+Clear Skies,2,METW,Hero,Resource,,,not in Gene
+Cloudless Day,1,METD,Hero,Resource,,,not in Gene
+Concealment,3,METW,Hero,Resource,3,0,same
+Dark Quarrels,3,METW,Hero,Resource,3,0,same
+Dodge,2,METW,Hero,Resource,3,-1,lower
+Dragon's Hunger,1,METD,Hero,Resource,,,not in Gene
+Dwarven Hoard,2,METD,Hero,Resource,,,not in Gene
+Eagle-Mounts,1,METW,Hero,Resource,3,-2,lower
+Echo of All Joy,1,METD,Hero,Resource,,,not in Gene
+Ent-Draughts,2,METW,Hero,Resource,3,-1,lower
+Elf-Song,1,METW,Hero,Resource,3,-2,lower
+Escape,2,METW,Hero,Resource,3,-1,lower
+Fast Asleep,1,METD,Hero,Resource,,,not in Gene
+Favor of the Valar,1,METW,Hero,Resource,1,0,same
+Fellowship,3,METW,Hero,Resource,3,0,same
+Flatter a Foe,3,METD,Hero,Resource,3,0,same
+Fog,1,METW,Hero,Resource,3,-2,lower
+Ford,3,METW,Hero,Resource,3,0,same
+Forod,1,METD,Hero,Resource,,,not in Gene
+Gates of Morning,5,METW,Hero,Resource,3,2,higher
+Great Ship,2,METW,Hero,Resource,3,-1,lower
+Great-Road,1,METW,Hero,Resource,3,-2,lower
+Halfling Stealth,3,METW,Hero,Resource,3,0,same
+Halfling Strength,1,METW,Hero,Resource,3,-2,lower
+Healing of Nimrodel,2,MEDM,Hero,Resource,,,not in Gene
+Hey! Come Merry Dol!,2,METD,Hero,Resource,,,not in Gene
+Hiding,1,METW,Hero,Resource,3,-2,lower
+Horses,3,METW,Hero,Resource,3,0,same
+Houses of Healing,2,METD,Hero,Resource,,,not in Gene
+Kindling of the Spirit,2,METW,Hero,Resource,3,-1,lower
+Lapse of Will,1,METW,Hero,Resource,3,-2,lower
+Lordly Presence,2,METW,Hero,Resource,,,not in Gene
+Lucky Strike,3,METW,Hero,Resource,3,0,same
+Many Turns and Doublings,3,METD,Hero,Resource,,,not in Gene
+Marvels Told,1,METD,Hero,Resource,3,-2,lower
+"Master of Wood, Water, or Hill",2,METD,Hero,Resource,,,not in Gene
+Mirror of Galadriel,1,METW,Hero,Resource,,,not in Gene
+More Alert Than Most,2,MEDM,Hero,Resource,,,not in Gene
+More Sense Than You,1,METD,Hero,Resource,,,not in Gene
+Muster,2,METW,Hero,Resource,,,not in Gene
+New Friendship,2,METW,Hero,Resource,3,-1,lower
+Not at Home,3,METD,Hero,Resource,3,0,same
+Old Friendship,2,METW,Hero,Resource,3,-1,lower
+Old Road,2,METW,Hero,Resource,3,-1,lower
+Paths of the Dead,1,METW,Hero,Resource,1,0,same
+Persuasive Words,2,METW,Hero,Resource,,,not in Gene
+Praise to Elbereth,1,METW,Hero,Resource,3,-2,lower
+Rebuild the Town,3,MEDM,Hero,Resource,,,not in Gene
+Ringlore,2,METW,Hero,Resource,3,-1,lower
+Risky Blow,3,METW,Hero,Resource,3,0,same
+Sated Beast,1,METD,Hero,Resource,,,not in Gene
+Secret Passage,3,METW,Hero,Resource,3,0,same
+Star of High Hope,1,METD,Hero,Resource,,,not in Gene
+Stars,2,METW,Hero,Resource,,,not in Gene
+Stealth,3,METW,Hero,Resource,3,0,same
+Sun,2,METW,Hero,Resource,3,-1,lower
+Test of Form,3,METW,Hero,Resource,3,0,same
+Test of Lore,3,METW,Hero,Resource,3,0,same
+The Cock Crows,2,METW,Hero,Resource,3,-1,lower
+The Evenstar,2,METW,Hero,Resource,,,not in Gene
+The Old Thrush,1,METW,Hero,Resource,3,-2,lower
+Thorough Search,3,METW,Hero,Resource,,,not in Gene
+Trickery,3,METD,Hero,Resource,3,0,same
+Vanish in Sunlight!,1,METD,Hero,Resource,,,not in Gene
+Vanishment,3,METW,Hero,Resource,3,0,same
+Warm Now Be Heart and Limb,1,METD,Hero,Resource,,,not in Gene
+Washed and Refreshed,1,METD,Hero,Resource,,,not in Gene
+Wizard Uncloaked,1,METD,Hero,Resource,3,-2,lower
+Wizard's Fire,1,METW,Hero,Resource,3,-2,lower
+Wizard's Flame,3,METW,Hero,Resource,3,0,same
+Wizard's Test,3,METW,Hero,Resource,3,0,same
+Wizard's Voice,1,METW,Hero,Resource,,,not in Gene
