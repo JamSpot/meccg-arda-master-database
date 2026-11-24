@@ -41,7 +41,13 @@ The [First Solo Arda Game walkthrough](docs/arda-solo-first-game.html) now inclu
 
 In the Arda Basic Game, all players draw from the same shared decks. It is designed for 2–7 players, encourages improvisation and trading, and uses a different preparation and play structure from conventional constructed Hero-vs-Hazard MECCG. The standard shared piles are the Play Deck, MP Deck, Roving Character Deck and Minor Item Offering Deck.
 
-## Latest research update — 23 November 2026
+## Latest research update — 24 November 2026
+
+A newly recovered 2018 community spreadsheet adds a **158-copy Hero Resource component**: 79 identities across The Wizards (111 copies), The Dragons (40) and Dark Minions (7). Compared with Gandalf Gene, 31 identities / 53 copies are new to that list, while 25 shared quantities differ. This is a partial resource list, not a complete Arda shared pool, so nothing has been merged into the canonical Gene inventory. The copy-count and physical-table guidance has also been expanded with the Basic Game's copy guidance, large-pile stacking method and printable Arda placemats.
+
+[Read the 24 November research watch](docs/research-watch-2026-11-24.html) · [Compare published lists](docs/comparison-lists.html#chansterling--2018-hero-play-deck-component-reviewed-24-november-2026) · [Download Chan's 79-row CSV](data/chans-hero-play-deck-2018.csv) · [Download expansion summary](data/chans-hero-play-deck-2018-expansion-summary.csv) · [Build and organise physical Arda decks](docs/building-arda-decks.html).
+
+## Previous research update — 23 November 2026
 
 A full review of the 2019 **Arda Ten Years Later** discussion clarifies an important database distinction: the earlier Arda format included Arda-specific altered text and optional Expanded World material, while Goblin King says Gandalf Gene's build uses no non-errata card text. A separate 2019 four-player playthrough gives useful drafting examples but no complete card list. The current Gen Con 2026 event confirms ongoing shared-deck play, but supplies no pool quantities. No new eligible original-ICE Hero Arda spreadsheet or deck file was found. Gandalf Gene remains 699 explicit copies; the 695 comparison, two blank quantities and other reconciliation issues remain unresolved.
 
