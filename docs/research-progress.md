@@ -219,3 +219,16 @@ See [18 November source review](wizards-and-dragons-arda-source-review.html) and
 - Gandalf Gene remains 699 explicit copies (METW 552, METD 108, MEDM 32, MELE 6, MEBA 1). The 695-copy comparison, two blank quantities and all other reconciliation issues remain unchanged.
 
 See the [23 November research watch](research-watch-2026-11-23.html).
+
+
+## Latest source-watch result — 24 November 2026
+
+- Found and transcribed ChanSterling's 16 September 2018 [Arda Deck Comments?](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=3499) Google Sheet: 79 Hero Resource identities / 158 copies.
+- Mapped the list to original ICE expansions using the current Council of Elrond card database: METW 52 identities / 111 copies; METD 24 / 40; MEDM 3 / 7. The three MEDM cards are Hero-aligned Resources; MEDM is their expansion, not their alignment.
+- Compared with Gandalf Gene: 48 shared identities / 105 Chan copies versus 140 Gene copies; 31 Chan-only identities / 53 copies; 25 shared quantities differ (24 lower, one higher: Gates of Morning 5 versus 3).
+- Added a normalized 79-row card comparison CSV and an expansion-summary CSV. The list remains a partial Hero resource component; no hazard list or other Arda piles are exposed. Nothing was merged into Gene.
+- Reviewed the Basic Game copy-count guidance and the 2020 community debate about additional duplicates; added a practical large-pile method (four or five stacks, still one shared deck) and two downloadable Arda placemats to the physical deck guide.
+- Recorded the Arda Expanded World custom-card ZIP as excluded material and checked the TTS discussion; no public named TTS deck file was found.
+- The canonical Gene baseline remains 699 explicit copies (METW 552, METD 108, MEDM 32, MELE 6, MEBA 1). The 695 comparison and two blank quantities remain unresolved.
+
+See [24 November research watch](research-watch-2026-11-24.html) and [Comparison Lists](comparison-lists.html#chansterling--2018-hero-play-deck-component-reviewed-24-november-2026).
