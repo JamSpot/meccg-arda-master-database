@@ -400,3 +400,32 @@ Added 19 November 2026 for follow-up review. This is a BoardGameGeek discussion 
 ### Latest source-watch result — 23 November 2026
 
 [Source watch — 23 November 2026](research-watch-2026-11-23.html) records a full review of the 2019 *Arda Ten Years Later* discussion and a four-player *ARDA Play through* report. These clarify the distinction between original ICE printed text, official errata and optional Arda/Virtual text, but provide no complete card list or quantities. A Gen Con 2026 shared-deck Arda event listing confirms current play but provides no inventory. No new eligible spreadsheet or deck file was verified and no canonical quantities changed.
+
+
+### Council of Elrond — ChanSterling's Arda Deck Comments? (16 September 2018)
+
+[Original forum post](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=3499) links to [Chan's Middle-Earth Arda Google Sheet](https://docs.google.com/spreadsheets/d/1gMxILv8-HiQDyvG2eplMkiHSsCZwXt2yYZFN5Ssv3g4/edit). The accessible sheet contains a 158-copy Hero Play Deck component with 79 named Hero Resource identities. It does not expose a hazard list or the other Arda shared piles, so it is a partial community build, not a complete Arda pool. The 79 names were assigned to original ICE expansions using the current Council of Elrond card database. See [the 24 November comparison](comparison-lists.html#chansterling--2018-hero-play-deck-component-reviewed-24-november-2026) and the [normalized CSV](../data/chans-hero-play-deck-2018.csv).
+
+### Council of Elrond — Unique Cards in an Arda Deck? (4–6 July 2020)
+
+[Discussion](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=4276) discusses the Basic Game's suggested one-copy unique / up-to-three non-unique approach and whether a shared Arda pool should deliberately contain additional duplicates. Participants note both the possibility of improving draw/influence-away opportunities and the risk of enlarging and diluting the shared deck. This is a community design discussion, not a new fixed pool or a change to the Arda Rules 4.0 guidance.
+
+### Council of Elrond — Stacking the Cards of Larger Decks (2 June 2020)
+
+[Discussion](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=4226) records a practical method for a very large Arda draw pile: randomly divide it into four or five stacks around the table, but allow draws from any stack because they remain one shared deck. This is physical table management, not separate deck construction.
+
+### Council of Elrond — Arda Goodies (23 March 2011)
+
+[Thread](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=1702) offers two printable play aids: [Roving Character-Placemat1.pdf](https://www.councilofelrond.org/forum/download/file.php?id=389) (451.92 KiB) and [Placemat for All Piles ARDA.pdf](https://www.councilofelrond.org/forum/download/file.php?id=388) (3.11 MiB). These are table-layout aids, not card lists.
+
+### Council of Elrond — Cards for Arda Expanded World (2010)
+
+[Thread](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=1345) offers revised/custom Arda Expanded World card texts and printable card material, including a surviving [characters ZIP](https://www.councilofelrond.org/forum/download/file.php?id=265) (1.77 MiB). This material is outside the original-ICE-only card database and must not be merged into card quantities.
+
+### Council of Elrond — Arda on Tabletop Simulator (September–October 2020)
+
+[Discussion](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=4315) describes a TTS play area assembled from workshop assets and a customized savefile shared by private message. The post says the TTS card images were unnamed and lacked card text at the time; no public named Arda deck file or quantity list is supplied.
+
+### Latest source-watch result — 24 November 2026
+
+[Source watch — 24 November 2026](research-watch-2026-11-24.html) adds ChanSterling's 2018 158-copy Hero Resource component, compares its 79 identities with Gandalf Gene, and records new physical-play sources for copy-count guidance, large-pile handling and printable Arda table aids. No canonical Gene quantities changed.
