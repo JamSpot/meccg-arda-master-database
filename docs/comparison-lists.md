@@ -301,3 +301,25 @@ The separate Pool section contains five METW Wizards and one Hero *Rumours of Ri
 A name-and-expansion comparison against Gandalf Gene matches 300 of 421 main-deck entries (514 copies); 121 entries (320 copies) are not found by exact normalized matching. All 23 MEAS entries (51 copies) are absent from the Gene inventory. These differences describe two different builds; they are not additions to Gene. The platform's own README warns that its included sample data is for test play rather than complete deckbuilding.
 
 Download the [original `.meccg` file](https://raw.githubusercontent.com/Heinrich-Barth/meccg-online/main/public/decks/Arda/Wizards%20and%20Dragons.meccg), [normalized row-level CSV](../data/wizards-and-dragons-arda-pool-2024.csv) and [expansion/category summary](../data/wizards-and-dragons-arda-expansion-summary.csv). See the [full source review](wizards-and-dragons-arda-source-review.html).
+
+
+## ChanSterling — 2018 Hero Play Deck component (reviewed 24 November 2026)
+
+The [16 September 2018 Council of Elrond post](https://www.councilofelrond.org/forum/viewtopic.php?f=37&t=3499) links to [Chan's Middle-Earth Arda Google Sheet](https://docs.google.com/spreadsheets/d/1gMxILv8-HiQDyvG2eplMkiHSsCZwXt2yYZFN5Ssv3g4/edit). The accessible sheet contains 79 Hero Resource identities / 158 copies. It is only the Hero resource component: no hazard list or complete Arda shared-pile inventory is exposed.
+
+| Expansion | Identities | Copies | Identities not in Gene | Copies not in Gene |
+|---|---:|---:|---:|---:|
+| METW — The Wizards | 52 | 111 | 9 | 17 |
+| METD — The Dragons | 24 | 40 | 19 | 29 |
+| MEDM — Dark Minions | 3 | 7 | 3 | 7 |
+| **Total** | **79** | **158** | **31** | **53** |
+
+All 79 card names were matched to Hero Resource identities in the current Council of Elrond card database and assigned to their original ICE expansion. MEDM here means the expansion; all three cards are Hero-aligned Resources, not Minion-alignment cards.
+
+Comparison with Gandalf Gene:
+- 48 shared identities; Chan has 105 copies of these versus 140 in Gene.
+- 31 Chan identities / 53 copies are not present in Gene's explicit-quantity inventory.
+- 25 shared quantities differ: 24 are lower in Chan; Gates of Morning is higher (5 versus Gene's 3).
+- No quantities are merged into Gene.
+
+Downloads: [79-row card comparison CSV](../data/chans-hero-play-deck-2018.csv) · [expansion summary CSV](../data/chans-hero-play-deck-2018-expansion-summary.csv) · [24 November research watch](research-watch-2026-11-24.html).
