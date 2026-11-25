@@ -429,3 +429,8 @@ Added 19 November 2026 for follow-up review. This is a BoardGameGeek discussion 
 ### Latest source-watch result — 24 November 2026
 
 [Source watch — 24 November 2026](research-watch-2026-11-24.html) adds ChanSterling's 2018 158-copy Hero Resource component, compares its 79 identities with Gandalf Gene, and records new physical-play sources for copy-count guidance, large-pile handling and printable Arda table aids. No canonical Gene quantities changed.
+
+
+### Latest source-watch result — 25 November 2026
+
+[Source watch — 25 November 2026](research-watch-2026-11-25.html) records the September 2026 Lyon report of a four-player Hero Arda game using Julien's pool, which explicitly included Dream Cards. It confirms current Hero Arda play but supplies no card list or quantities and is excluded from the ICE-only master. The latest 2026 Arda forum topic checked is a nine-player Dream Card Minion Arda and is also excluded. No eligible downloadable Hero ICE card pool was found and no canonical quantities changed.
