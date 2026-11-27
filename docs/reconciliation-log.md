@@ -11,6 +11,12 @@
 5. Independent card catalogue: [MECCG cards list](https://elvenforest.narod.ru/meccg/cards/meccg_list.html), used to verify printed-set codes.
 6. Separate Jose-san pool: local ARDA.xls, a high-confidence candidate for BGG's Jose-san Arda deck example XLS.
 
+## Superseded partial workbook — quantity provenance check (27 November 2026)
+
+An earlier Library artifact, **Middle-earth_CCG_Arda_Master_Database_v1.xlsx** (created 24 July 2026), has only 17 populated card rows in its `Master Database` sheet; its other seven sheets are empty. It lists Army of the Dead as The Wizards / Resource / Qty 1 and marks it “Verified”, but gives only the generic source label “Gandalf Gene reconstruction” and no source-row reference or evidence. It does not contain The White Tree.
+
+The later row-level extraction of the original Gandalf Gene workbook explicitly leaves **both Army of the Dead and The White Tree blank**. Therefore the older draft's quantity of 1 is treated as an unsupported working assumption, not a correction or an independent source. Keep Army of the Dead blank in the canonical inventory; do not add one copy to expansion totals or the shopping list. The card's identity as a Hero Resource from The Wizards is confirmed, but its Arda quantity is not.
+
 ## Count bridge — Gandalf Gene
 
 | Measure | Result | Interpretation |

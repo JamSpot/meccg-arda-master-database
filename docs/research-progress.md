@@ -13,6 +13,14 @@ The original Gandalf Gene workbook and a separate Jose-san Arda workbook are par
 - Verified expansion copies are METW 552, METD 108, MEDM 32, MELE 6 and MEBA 1; total remains 699.
 - Published expansion distinct counts 300 + 59 + 14 + 2 + 1 sum to 376, matching the working unique named identities. CCG Collector's headline says 377; the duplicate Nenseldë row may explain the headline difference, but that counting convention is not confirmed.
 
+## Latest source-watch result — 27 November 2026
+
+- Audited the early Library workbook `Middle-earth_CCG_Arda_Master_Database_v1.xlsx`: only 17 populated master rows; its Army of the Dead x1 entry has no source-row evidence and is not corroborated by the original Gene workbook. The quantity is quarantined as an unsupported draft value; Army of the Dead and The White Tree remain blank.
+- Successfully parsed the Council of Elrond cards.json through the GitHub API. This reconfirmed the existing 1,682-record original-ICE catalogue count after excluding the non-ICE TW-500 Lure of MECCG entry. It is metadata/current-text verification, not an Arda quantity source; no card-level data was copied into the project.
+- Rechecked the current MeCCG Decks library. It provides conventional constructed decklists, not Arda shared-pile lists.
+- No new qualifying original-ICE Hero Arda pool or downloadable deck file was found. Gandalf Gene remains 699 explicit copies versus CCG Collector's 695; the four-copy discrepancy is open.
+- Highest-priority unresolved downloads remain Thorondor's 2015 no-rares XLS, the original Jose-san BGG workbook for hash verification, and a complete BanalityBob export.
+
 ## Completed
 - Added a [reconciliation log](reconciliation-log.html) with the count bridge and named anomalies.
 - Added a machine-readable [expansion checksum CSV](../data/expansion-checksums.csv).

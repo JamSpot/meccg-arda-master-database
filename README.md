@@ -11,7 +11,7 @@ A navigable learning site and auditable master database for Hero Arda in the Mid
 - Inventory CSV: https://jamspot.github.io/meccg-arda-master-database/data/gandalf-gene-arda-card-inventory.csv
 - Arda Intro Game normalized inventory: https://jamspot.github.io/meccg-arda-master-database/data/arda-intro-game-card-inventory.csv
 - Arda Intro Game expansion summary: https://jamspot.github.io/meccg-arda-master-database/data/arda-intro-game-expansion-summary.csv
-- Latest research watch: https://jamspot.github.io/meccg-arda-master-database/docs/research-watch-2026-11-07.html
+- Latest research watch: https://jamspot.github.io/meccg-arda-master-database/docs/research-watch-2026-11-27.html
 
 - Current promo-printing audit: https://jamspot.github.io/meccg-arda-master-database/data/promo-card-inventory-2026-11-06.csv
 - Current expansion reconciliation: https://jamspot.github.io/meccg-arda-master-database/data/catalogue-expansion-reconciliation.csv
@@ -37,7 +37,13 @@ A navigable learning site and auditable master database for Hero Arda in the Mid
 4. [Gandalf Gene canonical deck](docs/gandalf-gene.md)
 5. [Card inventory](docs/card-inventory.md) and [comparison lists](docs/comparison-lists.md)
 
-## Latest research update — 7 November 2026
+## Latest research update — 27 November 2026
+
+An audit of an early 17-row workbook found an unsupported Army of the Dead quantity of 1. The original Gandalf Gene extraction leaves Army of the Dead and The White Tree blank, so the old draft value is quarantined and not counted. The current card catalogue audit was re-parsed and confirmed; no new Arda pool or quantities were found.
+
+[Read the 27 November research watch](docs/research-watch-2026-11-27.html).
+
+## Previous research update — 7 November 2026
 
 The original Gandalf Gene post's full pile structure has been recorded: a 423-card Play Deck (171 resources and 252 creatures/hazards), plus separate MP, character and minor-item piles. Its 2–5 player community build is distinct from the 2–7 player Arda Rules 4.0 Basic Game. A CardGameGeek transcription is derivative and notes two missing hazards. No Arda quantities changed; the 699-versus-695 reconciliation remains open.
 

@@ -41,7 +41,13 @@ The [First Solo Arda Game walkthrough](docs/arda-solo-first-game.html) now inclu
 
 In the Arda Basic Game, all players draw from the same shared decks. It is designed for 2–7 players, encourages improvisation and trading, and uses a different preparation and play structure from conventional constructed Hero-vs-Hazard MECCG. The standard shared piles are the Play Deck, MP Deck, Roving Character Deck and Minor Item Offering Deck.
 
-## Latest research update — 24 November 2026
+## Latest research update — 27 November 2026
+
+A provenance audit found an earlier 17-row working workbook that lists **Army of the Dead x1**, marked “Verified”, but gives no source-row evidence and omits The White Tree. The original Gandalf Gene extraction leaves both quantities blank, so the old draft's quantity is quarantined and has not been added to the 699-copy total. A full parse of the Council of Elrond card database also reconfirmed the existing 1,682-record original-ICE catalogue audit; it did not produce a new Arda pool or quantity list.
+
+[Read the 27 November research watch](docs/research-watch-2026-11-27.html) · [Review the Gandalf Gene reconciliation log](docs/reconciliation-log.html) · [Open the card inventory](docs/card-inventory.html).
+
+## Previous research update — 24 November 2026
 
 A newly recovered 2018 community spreadsheet adds a **158-copy Hero Resource component**: 79 identities across The Wizards (111 copies), The Dragons (40) and Dark Minions (7). Compared with Gandalf Gene, 31 identities / 53 copies are new to that list, while 25 shared quantities differ. This is a partial resource list, not a complete Arda shared pool, so nothing has been merged into the canonical Gene inventory. The copy-count and physical-table guidance has also been expanded with the Basic Game's copy guidance, large-pile stacking method and printable Arda placemats.
 
